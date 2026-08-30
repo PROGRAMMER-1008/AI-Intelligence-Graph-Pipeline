@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "slug": "ai-platform-engineer-acme",
+      "company_name": "Acme AI",
+      "title": "AI Platform Engineer",
+      "description": "Join our team building large-scale generative AI infrastructure for enterprise clients.",
+      "remote": true,
+      "url": "https://arbeitnow.com/jobs/ai-platform-engineer-acme",
+      "tags": ["ai", "kubernetes", "golang"],
+      "job_types": ["full_time"],
+      "location": "Berlin, Germany",
+      "created_at": 1787900000
+    },
+    {
+      "slug": "office-manager-widgetco",
+      "company_name": "WidgetCo",
+      "title": "Office Manager",
+      "description": "Manage our Berlin office operations and coordinate with facilities.",
+      "remote": false,
+      "url": "https://arbeitnow.com/jobs/office-manager-widgetco",
+      "tags": ["office", "admin"],
+      "job_types": ["full_time"],
+      "location": "Berlin, Germany",
+      "created_at": 1787800000
+    }
+  ],
+  "links": {"first": "?page=1", "last": "?page=5", "next": "?page=2"},
+  "meta": {"current_page": 1, "last_page": 5}
+}

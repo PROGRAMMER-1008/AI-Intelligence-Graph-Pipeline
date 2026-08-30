@@ -1,0 +1,35 @@
+{
+  "apiVersion": "2.0",
+  "documentationUrl": "https://jobi.cy/apidocs",
+  "jobCount": 2,
+  "jobs": [
+    {
+      "id": 98765,
+      "url": "https://jobicy.com/jobs/98765-nlp-engineer",
+      "jobTitle": "NLP Engineer",
+      "companyName": "LinguaTech",
+      "companyLogo": "https://jobicy.com/logos/linguatech.png",
+      "jobIndustry": ["Engineering", "AI"],
+      "jobType": ["full-time"],
+      "jobGeo": "Anywhere",
+      "jobLevel": "Senior",
+      "jobExcerpt": "Build multilingual NLP pipelines...",
+      "jobDescription": "<p>We need an NLP engineer to build multilingual pipelines for our platform.</p>",
+      "pubDate": "2026-08-28 06:00:00"
+    },
+    {
+      "id": 98766,
+      "url": "https://jobicy.com/jobs/98766-sales-rep",
+      "jobTitle": "Sales Representative",
+      "companyName": "GenericCorp",
+      "companyLogo": "https://jobicy.com/logos/genericcorp.png",
+      "jobIndustry": ["Sales"],
+      "jobType": ["full-time"],
+      "jobGeo": "USA",
+      "jobLevel": "Any",
+      "jobExcerpt": "Drive sales growth...",
+      "jobDescription": "<p>Looking for a sales rep to expand our customer base.</p>",
+      "pubDate": "2026-08-24 12:00:00"
+    }
+  ]
+}

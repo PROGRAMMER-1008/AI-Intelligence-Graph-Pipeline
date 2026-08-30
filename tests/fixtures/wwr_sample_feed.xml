@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>We Work Remotely: Remote Programming Jobs</title>
+<link>https://weworkremotely.com/categories/remote-programming-jobs</link>
+<item>
+  <title>NeuralForge: Machine Learning Infrastructure Engineer</title>
+  <link>https://weworkremotely.com/remote-jobs/neuralforge-ml-infra-engineer</link>
+  <pubDate>Fri, 28 Aug 2026 09:00:00 +0000</pubDate>
+  <description>&lt;p&gt;NeuralForge is hiring an ML infrastructure engineer to scale our training pipelines across thousands of GPUs.&lt;/p&gt;</description>
+</item>
+<item>
+  <title>ShopEasy: Frontend Developer</title>
+  <link>https://weworkremotely.com/remote-jobs/shopeasy-frontend-dev</link>
+  <pubDate>Fri, 28 Aug 2026 07:00:00 +0000</pubDate>
+  <description>&lt;p&gt;Build beautiful, responsive e-commerce experiences with React.&lt;/p&gt;</description>
+</item>
+</channel>
+</rss>

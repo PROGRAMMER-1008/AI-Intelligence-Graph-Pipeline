@@ -1,0 +1,28 @@
+[
+  {
+    "legal": "https://remoteok.com/legal",
+    "api": "https://remoteok.com/api"
+  },
+  {
+    "id": "1234567",
+    "epoch": 1787900000,
+    "date": "2026-08-28T10:00:00+00:00",
+    "company": "VectorAI Labs",
+    "position": "Senior Machine Learning Engineer",
+    "tags": ["machine-learning", "python", "pytorch", "senior"],
+    "location": "Worldwide",
+    "url": "https://remoteok.com/remote-jobs/1234567",
+    "description": "We are looking for a Senior ML Engineer to build our recommendation pipeline."
+  },
+  {
+    "id": "1234568",
+    "epoch": 1787800000,
+    "date": "2026-08-27T08:00:00+00:00",
+    "company": "DataForge",
+    "position": "Backend Developer",
+    "tags": ["python", "django", "postgres"],
+    "location": "Europe",
+    "url": "https://remoteok.com/remote-jobs/1234568",
+    "description": "Build our core API infrastructure."
+  }
+]

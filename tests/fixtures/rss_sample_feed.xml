@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>Example AI News Feed</title>
+<link>https://example-news.test/</link>
+<description>Test fixture matching real RSS 2.0 structure used by TechCrunch/VentureBeat-style feeds</description>
+<item>
+  <title>Startup Raises Series A for AI Data Pipeline Tool</title>
+  <link>https://example-news.test/2026/08/27/startup-raises-series-a</link>
+  <pubDate>Thu, 27 Aug 2026 20:00:00 +0000</pubDate>
+  <dc:creator>Jane Reporter</dc:creator>
+  <description>&lt;p&gt;A startup building resilient data pipelines for AI companies announced a $12M Series A today, led by a prominent VC firm.&lt;/p&gt;</description>
+</item>
+<item>
+  <title>Old News From Three Days Ago</title>
+  <link>https://example-news.test/2026/08/24/old-news</link>
+  <pubDate>Mon, 24 Aug 2026 10:00:00 +0000</pubDate>
+  <dc:creator>Old Writer</dc:creator>
+  <description>&lt;p&gt;This article is stale and should be filtered out by the 24-hour freshness check.&lt;/p&gt;</description>
+</item>
+<item>
+  <title>Article With No Date At All</title>
+  <link>https://example-news.test/undated-article</link>
+  <description>&lt;p&gt;This item has no pubDate element whatsoever, simulating a real-world feed inconsistency.&lt;/p&gt;</description>
+</item>
+<item>
+  <title>Fresh Article Two Hours Old</title>
+  <link>https://example-news.test/2026/08/28/fresh-two-hours</link>
+  <pubDate>Fri, 28 Aug 2026 00:30:00 +0000</pubDate>
+  <dc:creator>Fresh Reporter</dc:creator>
+  <description>&lt;p&gt;This is fresh and should pass the 24-hour filter when tested against a reference time shortly after publication.&lt;/p&gt;</description>
+</item>
+</channel>
+</rss>
