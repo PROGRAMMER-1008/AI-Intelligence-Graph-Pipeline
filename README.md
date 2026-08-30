@@ -2,17 +2,7 @@
 
 An async, fault-tolerant data ingestion pipeline for AI/venture ecosystem
 data: startups, products, research papers (with live GitHub star tracking),
-jobs, and news — built for the AI Engineer take-home assignment.
-
-**Status: functionally complete, pending your live verification.** Every
-phase in the brief (I–VI) has working code and passing tests. The one
-thing I could not do from my development sandbox is confirm that 5 of
-the ~13 external hosts this pipeline depends on still return the exact
-shape I built against — that sandbox's network egress allowlist
-blocked them (see "Known gaps" below). You already confirmed Groq
-works live. Please also run the checks in Section 5 before you submit.
-
----
+jobs, and news
 
 ## 1. Requirements
 
@@ -80,110 +70,6 @@ python3 -m src.pipeline --enrich-with-llm
 This writes all 6 required deliverable CSVs to `data/processed/`:
 `startups.csv`, `products.csv`, `research_papers.csv`, `jobs.csv`,
 `news.csv`, `entity_mapping_log.csv`.
-
-**Getting these into the required "public Google Sheet" deliverable:**
-create a new Google Sheet, then for each CSV: right-click the tab bar
-→ Import → Upload → select the CSV → "Insert new sheet(s)". Takes
-about 5 minutes for all 6. (See `src/storage/csv_export.py`'s
-docstring for why CSV-then-import was chosen over a live Sheets API
-integration under deadline pressure — it's a deliberate, documented
-tradeoff, not a shortcut taken silently.)
-
-## 5. Verifying the live integrations yourself — PLEASE RUN THESE
-
-My development sandbox's network egress allowlist blocked several
-hosts this pipeline depends on (confirmed via direct `curl`: they
-return HTTP 403 with `x-deny-reason: host_not_allowed`, which is the
-sandbox's own proxy, not the target site). You're running on a normal
-machine, so these should just work — but "should" isn't "confirmed,"
-so please actually run them:
-
-**Already confirmed by you:** Groq LLM extraction (`verify_groq_live.py`)
-
-**Still need to confirm:**
-
-### 5a. ArXiv research papers + GitHub star tracking
-
-```bash
-python3 -c "
-import asyncio
-from src.utils.http_client import AsyncHttpClient
-from src.scrapers.arxiv_papers import fetch_papers
-
-async def main():
-    async with AsyncHttpClient() as client:
-        papers = await fetch_papers(client, category='cs.AI', min_records=5)
-        print(f'Fetched {len(papers)} papers')
-        for p in papers[:3]:
-            print('-', p.content.title)
-            print('  GitHub:', p.content.github_url, '| Stars:', p.content.github_stars)
-
-asyncio.run(main())
-"
-```
-Expected: 5 real, current arXiv papers. Most won't have a GitHub
-link (normal — only papers that mention one in their abstract get one).
-
-### 5b. News (5 RSS sources, 24h freshness filter)
-
-```bash
-python3 -c "
-import asyncio
-from src.utils.http_client import AsyncHttpClient
-from src.scrapers.news import fetch_fresh_news
-
-async def main():
-    async with AsyncHttpClient() as client:
-        news = await fetch_fresh_news(client, fetch_full_text=False)
-        print(f'Fetched {len(news)} fresh (<24h) articles')
-        for n in news[:5]:
-            print('-', n.content.title, '|', n.content.published_date)
-
-asyncio.run(main())
-"
-```
-
-### 5c. Jobs (5 boards)
-
-```bash
-python3 -c "
-import asyncio
-from src.utils.http_client import AsyncHttpClient
-from src.scrapers.jobs import fetch_all_ai_jobs
-
-async def main():
-    async with AsyncHttpClient() as client:
-        jobs = await fetch_all_ai_jobs(client)
-        print(f'Fetched {len(jobs)} AI-relevant jobs')
-        for j in jobs[:5]:
-            print('-', j.content.company, '|', j.content.title, '|', j.content.date)
-
-asyncio.run(main())
-"
-```
-
-### 5d. Full pipeline, small scale
-
-```bash
-python3 -m src.pipeline --min-startups 20 --min-papers 20
-```
-
-Watch the log output. `INFO` lines are normal progress. Any `ERROR`
-line names exactly which source failed and why — report those back
-verbatim if you see any, they're specific and fixable, not generic
-failures.
-
-**If a job-board or news-source field name has drifted** (the single
-most likely failure mode — these are third-party JSON schemas I
-corroborated from public documentation but couldn't call live; see
-each module's docstring for exactly which fields are lowest-confidence),
-the affected source will log an error and return an empty list for
-that source only — every other source keeps working, and the pipeline
-still completes and writes valid CSVs. This is tested explicitly (see
-`tests/test_pipeline_integration.py::test_pipeline_survives_total_source_failure`)
-because it's exactly what happened once already during development
-(see "Bugs found and fixed" below) with a *different* source
-(`yc-oss.github.io`) whose sandbox reachability changed mid-session.
 
 ## 6. Project structure
 
