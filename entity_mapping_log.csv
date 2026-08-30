@@ -1,0 +1,3437 @@
+raw_name,canonical_name,match_method,confidence,record_type
+LeadGenius,LeadGenius,exact,1.0,STARTUP
+Plivo,Plivo,exact,1.0,STARTUP
+RADAR,RADAR,exact,1.0,STARTUP
+Cruise,Cruise,exact,1.0,STARTUP
+MixerBox,MixerBox,exact,1.0,STARTUP
+Akido Labs,Akido Labs,exact,1.0,STARTUP
+Paperspace,Paperspace,exact,1.0,STARTUP
+Smarking,Smarking,exact,1.0,STARTUP
+Resolve,Resolve,exact,1.0,STARTUP
+SigOpt,SigOpt,exact,1.0,STARTUP
+Tara AI,Tara AI,exact,1.0,STARTUP
+SnapMagic,SnapMagic,exact,1.0,STARTUP
+Microhealth,Microhealth,exact,1.0,STARTUP
+Deepgram,Deepgram,exact,1.0,STARTUP
+Daily,Daily,exact,1.0,STARTUP
+Netomi,Netomi,exact,1.0,STARTUP
+Podium,Podium,exact,1.0,STARTUP
+HistoWiz,HistoWiz,exact,1.0,STARTUP
+Sendbird,Sendbird,exact,1.0,STARTUP
+Iris Automation,Iris Automation,exact,1.0,STARTUP
+OneChronos,OneChronos,exact,1.0,STARTUP
+Airo Health,Airo Health,exact,1.0,STARTUP
+Athelas,Athelas,exact,1.0,STARTUP
+Entry,Entry,exact,1.0,STARTUP
+"Veryfi, Inc.","Veryfi, Inc.",exact,1.0,STARTUP
+AlemHealth,AlemHealth,exact,1.0,STARTUP
+NanoNets,NanoNets,exact,1.0,STARTUP
+Ridecell,Ridecell,exact,1.0,STARTUP
+Skyways,Skyways,exact,1.0,STARTUP
+Standard AI,Standard AI,exact,1.0,STARTUP
+Spect,Spect,exact,1.0,STARTUP
+AssemblyAI,AssemblyAI,exact,1.0,STARTUP
+Thematic,Thematic,exact,1.0,STARTUP
+FollowUpThen,FollowUpThen,exact,1.0,STARTUP
+Jasper.ai,Jasper.ai,exact,1.0,STARTUP
+Assembly,Assembly,exact,1.0,STARTUP
+Fondo,Fondo,exact,1.0,STARTUP
+Weekend (fmr. Volley),Weekend (fmr. Volley),exact,1.0,STARTUP
+Tilt (f.k.a. Delphia),Tilt (f.k.a. Delphia),exact,1.0,STARTUP
+Memora Health,Memora Health,exact,1.0,STARTUP
+Observe.AI,Observe.AI,exact,1.0,STARTUP
+Helloverify,Helloverify,exact,1.0,STARTUP
+Within,Within,exact,1.0,STARTUP
+Searchlight,Searchlight,exact,1.0,STARTUP
+JITX,JITX,exact,1.0,STARTUP
+Anima App,Anima App,exact,1.0,STARTUP
+LabelFlow,LabelFlow,exact,1.0,STARTUP
+Regology,Regology,exact,1.0,STARTUP
+Alpha Vantage,Alpha Vantage,exact,1.0,STARTUP
+Prodigal,Prodigal,exact,1.0,STARTUP
+TENDERD,TENDERD,unresolved,0.0,STARTUP
+SPATE,SPATE,unresolved,0.0,STARTUP
+LemonBox,LemonBox,unresolved,0.0,STARTUP
+Aesthetic,Aesthetic,unresolved,0.0,STARTUP
+Overview,Overview,unresolved,0.0,STARTUP
+AllSome Fulfillment,AllSome Fulfillment,unresolved,0.0,STARTUP
+Hatch,Hatch,unresolved,0.0,STARTUP
+BrainKey,BrainKey,unresolved,0.0,STARTUP
+Tailornova/Couturme,Tailornova/Couturme,unresolved,0.0,STARTUP
+Demodesk,Demodesk,unresolved,0.0,STARTUP
+Probably Genetic,Probably Genetic,unresolved,0.0,STARTUP
+Bunkerhill Health,Bunkerhill Health,unresolved,0.0,STARTUP
+Autodial prev Qwest,Autodial prev Qwest,unresolved,0.0,STARTUP
+Hypnos,Hypnos,unresolved,0.0,STARTUP
+Allure Systems,Allure Systems,unresolved,0.0,STARTUP
+Kraftful,Kraftful,unresolved,0.0,STARTUP
+Soteris,Soteris,unresolved,0.0,STARTUP
+Yummy Future,Yummy Future,unresolved,0.0,STARTUP
+Rosebud AI,Rosebud AI,unresolved,0.0,STARTUP
+Tensil,Tensil,unresolved,0.0,STARTUP
+Vahan,Vahan,unresolved,0.0,STARTUP
+Finlens,Finlens,unresolved,0.0,STARTUP
+Hightouch,Hightouch,unresolved,0.0,STARTUP
+Meridian Industries,Meridian Industries,unresolved,0.0,STARTUP
+Taskade,Taskade,unresolved,0.0,STARTUP
+Motion,Motion,unresolved,0.0,STARTUP
+Flowglad,Flowglad,unresolved,0.0,STARTUP
+MindsDB,MindsDB,unresolved,0.0,STARTUP
+Segmed,Segmed,unresolved,0.0,STARTUP
+Nextmv,Nextmv,unresolved,0.0,STARTUP
+Datasaur,Datasaur,unresolved,0.0,STARTUP
+Dashworks,Dashworks,unresolved,0.0,STARTUP
+Replicate,Replicate,unresolved,0.0,STARTUP
+Basedash,Basedash,unresolved,0.0,STARTUP
+Clayboard,Clayboard,unresolved,0.0,STARTUP
+Visual One,Visual One,unresolved,0.0,STARTUP
+Ello,Ello,unresolved,0.0,STARTUP
+QueryPie AI,QueryPie AI,unresolved,0.0,STARTUP
+Kinter,Kinter,unresolved,0.0,STARTUP
+Dropbase,Dropbase,unresolved,0.0,STARTUP
+Photoroom,Photoroom,unresolved,0.0,STARTUP
+Modernbanc,Modernbanc,unresolved,0.0,STARTUP
+Recurrency,Recurrency,unresolved,0.0,STARTUP
+UrbanKisaan,UrbanKisaan,unresolved,0.0,STARTUP
+Atmo,Atmo,unresolved,0.0,STARTUP
+Airbyte,Airbyte,unresolved,0.0,STARTUP
+Legionfarm,Legionfarm,unresolved,0.0,STARTUP
+Algen Biotechnologies,Algen Biotechnologies,unresolved,0.0,STARTUP
+Roboflow,Roboflow,unresolved,0.0,STARTUP
+inFeedo AI,inFeedo AI,unresolved,0.0,STARTUP
+Datafold,Datafold,unresolved,0.0,STARTUP
+Hypotenuse AI,Hypotenuse AI,unresolved,0.0,STARTUP
+CoreCare,CoreCare,unresolved,0.0,STARTUP
+Humanloop,Humanloop,unresolved,0.0,STARTUP
+Nextera Robotics | DIDGE.ai,Nextera Robotics | DIDGE.ai,unresolved,0.0,STARTUP
+BIK,BIK,unresolved,0.0,STARTUP
+Aquarium Learning,Aquarium Learning,unresolved,0.0,STARTUP
+Dataland,Dataland,unresolved,0.0,STARTUP
+Mito,Mito,unresolved,0.0,STARTUP
+"Warmly,","Warmly,",unresolved,0.0,STARTUP
+Heron Data,Heron Data,unresolved,0.0,STARTUP
+Degrees of Freedom,Degrees of Freedom,unresolved,0.0,STARTUP
+Humaans,Humaans,unresolved,0.0,STARTUP
+RocketSDR,RocketSDR,unresolved,0.0,STARTUP
+Flux Auto,Flux Auto,unresolved,0.0,STARTUP
+Avocado,Avocado,unresolved,0.0,STARTUP
+Pragmatic Leaders (Ankai Inc),Pragmatic Leaders (Ankai Inc),unresolved,0.0,STARTUP
+Encord,Encord,unresolved,0.0,STARTUP
+Cyble,Cyble,unresolved,0.0,STARTUP
+Expent Inc,Expent Inc,unresolved,0.0,STARTUP
+Version Story Compare,Version Story Compare,unresolved,0.0,STARTUP
+Parsagon,Parsagon,unresolved,0.0,STARTUP
+Quadrant Health,Quadrant Health,unresolved,0.0,STARTUP
+Popl,Popl,unresolved,0.0,STARTUP
+Fathom,Fathom,unresolved,0.0,STARTUP
+LiveFlow,LiveFlow,unresolved,0.0,STARTUP
+Datrics,Datrics,unresolved,0.0,STARTUP
+Tractian,Tractian,unresolved,0.0,STARTUP
+unSurvey,unSurvey,unresolved,0.0,STARTUP
+Reclaim Protocol,Reclaim Protocol,unresolved,0.0,STARTUP
+Biodock,Biodock,unresolved,0.0,STARTUP
+Lamar Health,Lamar Health,unresolved,0.0,STARTUP
+Rejoy Health,Rejoy Health,unresolved,0.0,STARTUP
+Gigs,Gigs,unresolved,0.0,STARTUP
+Friz,Friz,unresolved,0.0,STARTUP
+MindPortal,MindPortal,unresolved,0.0,STARTUP
+Waydev,Waydev,unresolved,0.0,STARTUP
+AXAR AI,AXAR AI,unresolved,0.0,STARTUP
+Journey,Journey,unresolved,0.0,STARTUP
+Legion Health,Legion Health,unresolved,0.0,STARTUP
+Superwall,Superwall,unresolved,0.0,STARTUP
+Mindstate Design Labs,Mindstate Design Labs,unresolved,0.0,STARTUP
+Jestor,Jestor,unresolved,0.0,STARTUP
+Potion,Potion,unresolved,0.0,STARTUP
+Replo,Replo,unresolved,0.0,STARTUP
+FirstQuadrant,FirstQuadrant,unresolved,0.0,STARTUP
+Kalam Labs,Kalam Labs,unresolved,0.0,STARTUP
+Affogato AI,Affogato AI,unresolved,0.0,STARTUP
+Coulomb AI,Coulomb AI,unresolved,0.0,STARTUP
+Confido,Confido,unresolved,0.0,STARTUP
+Instalab,Instalab,unresolved,0.0,STARTUP
+RGI Labs,RGI Labs,unresolved,0.0,STARTUP
+Soco,Soco,unresolved,0.0,STARTUP
+SnapCalorie,SnapCalorie,unresolved,0.0,STARTUP
+Kaya,Kaya,unresolved,0.0,STARTUP
+Redbean,Redbean,unresolved,0.0,STARTUP
+Hyperbrowser,Hyperbrowser,unresolved,0.0,STARTUP
+Tiriel AI,Tiriel AI,unresolved,0.0,STARTUP
+DigiBuild,DigiBuild,unresolved,0.0,STARTUP
+OneStopKitchen,OneStopKitchen,unresolved,0.0,STARTUP
+Scispot,Scispot,unresolved,0.0,STARTUP
+Coinrule,Coinrule,unresolved,0.0,STARTUP
+Malloc Inc,Malloc Inc,unresolved,0.0,STARTUP
+ShipBlu,ShipBlu,unresolved,0.0,STARTUP
+GetDot,GetDot,unresolved,0.0,STARTUP
+Miniloop,Miniloop,unresolved,0.0,STARTUP
+OneSchema,OneSchema,unresolved,0.0,STARTUP
+Forage Mail,Forage Mail,unresolved,0.0,STARTUP
+aSim,aSim,unresolved,0.0,STARTUP
+Spark Studio,Spark Studio,unresolved,0.0,STARTUP
+Mach9,Mach9,unresolved,0.0,STARTUP
+Tenyks,Tenyks,unresolved,0.0,STARTUP
+Telmai,Telmai,unresolved,0.0,STARTUP
+Zuma,Zuma,unresolved,0.0,STARTUP
+Shape,Shape,unresolved,0.0,STARTUP
+ContraForce,ContraForce,unresolved,0.0,STARTUP
+Output Biosciences,Output Biosciences,unresolved,0.0,STARTUP
+Bytebot,Bytebot,unresolved,0.0,STARTUP
+Exa,Exa,unresolved,0.0,STARTUP
+Attack Capital,Attack Capital,unresolved,0.0,STARTUP
+SilkChart,SilkChart,unresolved,0.0,STARTUP
+Strac,Strac,unresolved,0.0,STARTUP
+Sieve,Sieve,unresolved,0.0,STARTUP
+PolicyFly,PolicyFly,unresolved,0.0,STARTUP
+Sota2,Sota2,unresolved,0.0,STARTUP
+Sei AI,Sei AI,unresolved,0.0,STARTUP
+Axross Pte Ltd,Axross Pte Ltd,unresolved,0.0,STARTUP
+Spinach AI,Spinach AI,unresolved,0.0,STARTUP
+Nyckel,Nyckel,unresolved,0.0,STARTUP
+Gym Class,Gym Class,unresolved,0.0,STARTUP
+Kaso,Kaso,unresolved,0.0,STARTUP
+Bobidi,Bobidi,unresolved,0.0,STARTUP
+Criya,Criya,unresolved,0.0,STARTUP
+haddock,haddock,unresolved,0.0,STARTUP
+Cerebrium,Cerebrium,unresolved,0.0,STARTUP
+Versable,Versable,unresolved,0.0,STARTUP
+Dart,Dart,unresolved,0.0,STARTUP
+Flagright,Flagright,unresolved,0.0,STARTUP
+T3 Chat,T3 Chat,unresolved,0.0,STARTUP
+Sphere,Sphere,unresolved,0.0,STARTUP
+RefineTrain AI,RefineTrain AI,unresolved,0.0,STARTUP
+PermitFlow,PermitFlow,unresolved,0.0,STARTUP
+Siftly,Siftly,unresolved,0.0,STARTUP
+Velt,Velt,unresolved,0.0,STARTUP
+Curacel,Curacel,unresolved,0.0,STARTUP
+Finnt,Finnt,unresolved,0.0,STARTUP
+Lovage,Lovage,unresolved,0.0,STARTUP
+SmartHelio,SmartHelio,unresolved,0.0,STARTUP
+Airwork,Airwork,unresolved,0.0,STARTUP
+Cinder,Cinder,unresolved,0.0,STARTUP
+BotCity,BotCity,unresolved,0.0,STARTUP
+Vimmerse,Vimmerse,unresolved,0.0,STARTUP
+Broccoli AI,Broccoli AI,unresolved,0.0,STARTUP
+Bemlo,Bemlo,unresolved,0.0,STARTUP
+Talentropy.ai,Talentropy.ai,unresolved,0.0,STARTUP
+mutable.ai,mutable.ai,unresolved,0.0,STARTUP
+Theneo,Theneo,unresolved,0.0,STARTUP
+Ponyrun,Ponyrun,unresolved,0.0,STARTUP
+Top Road,Top Road,unresolved,0.0,STARTUP
+HOAi,HOAi,unresolved,0.0,STARTUP
+Status,Status,unresolved,0.0,STARTUP
+Shaped,Shaped,unresolved,0.0,STARTUP
+Ploomber,Ploomber,unresolved,0.0,STARTUP
+Housewarming,Housewarming,unresolved,0.0,STARTUP
+Blink,Blink,unresolved,0.0,STARTUP
+Workflow86,Workflow86,unresolved,0.0,STARTUP
+Codec,Codec,unresolved,0.0,STARTUP
+Postal,Postal,unresolved,0.0,STARTUP
+AYC Fund,AYC Fund,unresolved,0.0,STARTUP
+Kenobi,Kenobi,unresolved,0.0,STARTUP
+Query Vary,Query Vary,unresolved,0.0,STARTUP
+MSPilot,MSPilot,unresolved,0.0,STARTUP
+Poly,Poly,unresolved,0.0,STARTUP
+Layerup,Layerup,unresolved,0.0,STARTUP
+Paces,Paces,unresolved,0.0,STARTUP
+Airtrain AI,Airtrain AI,unresolved,0.0,STARTUP
+Star,Star,unresolved,0.0,STARTUP
+Julius,Julius,unresolved,0.0,STARTUP
+Dialect,Dialect,unresolved,0.0,STARTUP
+SigmaMind AI,SigmaMind AI,unresolved,0.0,STARTUP
+Superpowered AI,Superpowered AI,unresolved,0.0,STARTUP
+Makeasite,Makeasite,unresolved,0.0,STARTUP
+Pasito,Pasito,unresolved,0.0,STARTUP
+Blitz,Blitz,unresolved,0.0,STARTUP
+Impractical,Impractical,unresolved,0.0,STARTUP
+CustomerOS,CustomerOS,unresolved,0.0,STARTUP
+CODEXA,CODEXA,unresolved,0.0,STARTUP
+Paragon AI,Paragon AI,unresolved,0.0,STARTUP
+Midplane,Midplane,unresolved,0.0,STARTUP
+Blee,Blee,unresolved,0.0,STARTUP
+Activepieces,Activepieces,unresolved,0.0,STARTUP
+Popsy,Popsy,unresolved,0.0,STARTUP
+Juicebox,Juicebox,unresolved,0.0,STARTUP
+Phind,Phind,unresolved,0.0,STARTUP
+Unify,Unify,unresolved,0.0,STARTUP
+Mistle,Mistle,unresolved,0.0,STARTUP
+100x,100x,unresolved,0.0,STARTUP
+Hedgehog,Hedgehog,unresolved,0.0,STARTUP
+Latent Space,Latent Space,unresolved,0.0,STARTUP
+AviaryAI,AviaryAI,unresolved,0.0,STARTUP
+Quinn,Quinn,unresolved,0.0,STARTUP
+Aurelian,Aurelian,unresolved,0.0,STARTUP
+Metriport,Metriport,unresolved,0.0,STARTUP
+Fini,Fini,unresolved,0.0,STARTUP
+Atlas,Atlas,unresolved,0.0,STARTUP
+Sanifu,Sanifu,unresolved,0.0,STARTUP
+HOMLI,HOMLI,unresolved,0.0,STARTUP
+Boton,Boton,unresolved,0.0,STARTUP
+Avina,Avina,unresolved,0.0,STARTUP
+Invofox,Invofox,unresolved,0.0,STARTUP
+TypeLess,TypeLess,unresolved,0.0,STARTUP
+Firecrawl,Firecrawl,unresolved,0.0,STARTUP
+Wondercraft,Wondercraft,unresolved,0.0,STARTUP
+Clearline,Clearline,unresolved,0.0,STARTUP
+Monterey AI,Monterey AI,unresolved,0.0,STARTUP
+Delfino AI,Delfino AI,unresolved,0.0,STARTUP
+Intuned,Intuned,unresolved,0.0,STARTUP
+Polymath Robotics,Polymath Robotics,unresolved,0.0,STARTUP
+Sameday,Sameday,unresolved,0.0,STARTUP
+zudo.work,zudo.work,unresolved,0.0,STARTUP
+Middleware,Middleware,unresolved,0.0,STARTUP
+StackAI,StackAI,unresolved,0.0,STARTUP
+Designbase,Designbase,unresolved,0.0,STARTUP
+Blyss,Blyss,unresolved,0.0,STARTUP
+Trigger.dev,Trigger.dev,unresolved,0.0,STARTUP
+Paperplane,Paperplane,unresolved,0.0,STARTUP
+Lume,Lume,unresolved,0.0,STARTUP
+Concourse,Concourse,unresolved,0.0,STARTUP
+Backdrop,Backdrop,unresolved,0.0,STARTUP
+Demospace,Demospace,unresolved,0.0,STARTUP
+Brewit,Brewit,unresolved,0.0,STARTUP
+Palomma,Palomma,unresolved,0.0,STARTUP
+Ohm,Ohm,unresolved,0.0,STARTUP
+Salient,Salient,unresolved,0.0,STARTUP
+Dataglade,Dataglade,unresolved,0.0,STARTUP
+CreatorML,CreatorML,unresolved,0.0,STARTUP
+Scanbase,Scanbase,unresolved,0.0,STARTUP
+Bluebirds,Bluebirds,unresolved,0.0,STARTUP
+Gooseworks,Gooseworks,unresolved,0.0,STARTUP
+Frigade,Frigade,unresolved,0.0,STARTUP
+Haven,Haven,unresolved,0.0,STARTUP
+coil inc.,coil inc.,unresolved,0.0,STARTUP
+Outerbase,Outerbase,unresolved,0.0,STARTUP
+co.dev,co.dev,unresolved,0.0,STARTUP
+Langfuse,Langfuse,unresolved,0.0,STARTUP
+Extend,Extend,unresolved,0.0,STARTUP
+Floworks,Floworks,unresolved,0.0,STARTUP
+Iliad,Iliad,unresolved,0.0,STARTUP
+EzDubs,EzDubs,unresolved,0.0,STARTUP
+Wild Moose,Wild Moose,unresolved,0.0,STARTUP
+ShortLoop,ShortLoop,unresolved,0.0,STARTUP
+Truewind,Truewind,unresolved,0.0,STARTUP
+TableFlow,TableFlow,unresolved,0.0,STARTUP
+KV Cash,KV Cash,unresolved,0.0,STARTUP
+Magicflow 𐂂,Magicflow 𐂂,unresolved,0.0,STARTUP
+222,222,unresolved,0.0,STARTUP
+Boundary,Boundary,unresolved,0.0,STARTUP
+SensorSurf,SensorSurf,unresolved,0.0,STARTUP
+Hadrius,Hadrius,unresolved,0.0,STARTUP
+Fairway Health,Fairway Health,unresolved,0.0,STARTUP
+Sherloq,Sherloq,unresolved,0.0,STARTUP
+Finic,Finic,unresolved,0.0,STARTUP
+Hippo Scribe,Hippo Scribe,unresolved,0.0,STARTUP
+SuperKalam,SuperKalam,unresolved,0.0,STARTUP
+Pylon,Pylon,unresolved,0.0,STARTUP
+Epsilon,Epsilon,unresolved,0.0,STARTUP
+Helios,Helios,unresolved,0.0,STARTUP
+Hindsight,Hindsight,unresolved,0.0,STARTUP
+OpenInt,OpenInt,unresolved,0.0,STARTUP
+Decohere,Decohere,unresolved,0.0,STARTUP
+CodeParrot AI,CodeParrot AI,unresolved,0.0,STARTUP
+Berry,Berry,unresolved,0.0,STARTUP
+Fabius,Fabius,unresolved,0.0,STARTUP
+Metal,Metal,unresolved,0.0,STARTUP
+Persana AI,Persana AI,unresolved,0.0,STARTUP
+Adri AI,Adri AI,unresolved,0.0,STARTUP
+Second,Second,unresolved,0.0,STARTUP
+Warp,Warp,unresolved,0.0,STARTUP
+Fetchr,Fetchr,unresolved,0.0,STARTUP
+Yuma AI,Yuma AI,unresolved,0.0,STARTUP
+kapa.ai,kapa.ai,unresolved,0.0,STARTUP
+Metoro,Metoro,unresolved,0.0,STARTUP
+Accend,Accend,unresolved,0.0,STARTUP
+Remy,Remy,unresolved,0.0,STARTUP
+Diligent,Diligent,unresolved,0.0,STARTUP
+Readily,Readily,unresolved,0.0,STARTUP
+Cedana,Cedana,unresolved,0.0,STARTUP
+OpenTools,OpenTools,unresolved,0.0,STARTUP
+Atla,Atla,unresolved,0.0,STARTUP
+Mandel AI,Mandel AI,unresolved,0.0,STARTUP
+Prosper,Prosper,unresolved,0.0,STARTUP
+Subsets,Subsets,unresolved,0.0,STARTUP
+GreenTally,GreenTally,unresolved,0.0,STARTUP
+Baud,Baud,unresolved,0.0,STARTUP
+SID,SID,unresolved,0.0,STARTUP
+Alguna,Alguna,unresolved,0.0,STARTUP
+Campfire,Campfire,unresolved,0.0,STARTUP
+Punchcard,Punchcard,unresolved,0.0,STARTUP
+Kite,Kite,unresolved,0.0,STARTUP
+Obento Health,Obento Health,unresolved,0.0,STARTUP
+Docsum,Docsum,unresolved,0.0,STARTUP
+Corgea,Corgea,unresolved,0.0,STARTUP
+Outset,Outset,unresolved,0.0,STARTUP
+Shasta Health,Shasta Health,unresolved,0.0,STARTUP
+Health Harbor,Health Harbor,unresolved,0.0,STARTUP
+FleetWorks,FleetWorks,unresolved,0.0,STARTUP
+Repaint,Repaint,unresolved,0.0,STARTUP
+Dialtone,Dialtone,unresolved,0.0,STARTUP
+Numen,Numen,unresolved,0.0,STARTUP
+Epsilla,Epsilla,unresolved,0.0,STARTUP
+Sidenote,Sidenote,unresolved,0.0,STARTUP
+Unhaze,Unhaze,unresolved,0.0,STARTUP
+Surface Labs,Surface Labs,unresolved,0.0,STARTUP
+Midrender,Midrender,unresolved,0.0,STARTUP
+Vizly,Vizly,unresolved,0.0,STARTUP
+Empirical Health,Empirical Health,unresolved,0.0,STARTUP
+Glade,Glade,unresolved,0.0,STARTUP
+Studdy,Studdy,unresolved,0.0,STARTUP
+Bolto,Bolto,unresolved,0.0,STARTUP
+Flint,Flint,unresolved,0.0,STARTUP
+Vango AI,Vango AI,unresolved,0.0,STARTUP
+Automorphic,Automorphic,unresolved,0.0,STARTUP
+Baserun,Baserun,unresolved,0.0,STARTUP
+Andromeda Surgical,Andromeda Surgical,unresolved,0.0,STARTUP
+sudocode,sudocode,unresolved,0.0,STARTUP
+Langdock,Langdock,unresolved,0.0,STARTUP
+Elythea,Elythea,unresolved,0.0,STARTUP
+Cedalio,Cedalio,unresolved,0.0,STARTUP
+Fiber AI,Fiber AI,unresolved,0.0,STARTUP
+Strada,Strada,unresolved,0.0,STARTUP
+Webhound,Webhound,unresolved,0.0,STARTUP
+dili,dili,unresolved,0.0,STARTUP
+Saatvy,Saatvy,unresolved,0.0,STARTUP
+Giga,Giga,unresolved,0.0,STARTUP
+AiSDR,AiSDR,unresolved,0.0,STARTUP
+Nowadays,Nowadays,unresolved,0.0,STARTUP
+Morph,Morph,unresolved,0.0,STARTUP
+Constructable,Constructable,unresolved,0.0,STARTUP
+Cognitio Labs,Cognitio Labs,unresolved,0.0,STARTUP
+Tempo,Tempo,unresolved,0.0,STARTUP
+CodeStory,CodeStory,unresolved,0.0,STARTUP
+Letterbook,Letterbook,unresolved,0.0,STARTUP
+Goldbridge,Goldbridge,unresolved,0.0,STARTUP
+Onyx,Onyx,unresolved,0.0,STARTUP
+Event Horizon Labs,Event Horizon Labs,unresolved,0.0,STARTUP
+Upsolve AI,Upsolve AI,unresolved,0.0,STARTUP
+Navier AI,Navier AI,unresolved,0.0,STARTUP
+ego,ego,unresolved,0.0,STARTUP
+Cora,Cora,unresolved,0.0,STARTUP
+Greptile,Greptile,unresolved,0.0,STARTUP
+Ubicloud,Ubicloud,unresolved,0.0,STARTUP
+Duckie,Duckie,unresolved,0.0,STARTUP
+ion design,ion design,unresolved,0.0,STARTUP
+Sonia,Sonia,unresolved,0.0,STARTUP
+Kabilah,Kabilah,unresolved,0.0,STARTUP
+Tracecat,Tracecat,unresolved,0.0,STARTUP
+Precip,Precip,unresolved,0.0,STARTUP
+Nuanced,Nuanced,unresolved,0.0,STARTUP
+Poka Labs,Poka Labs,unresolved,0.0,STARTUP
+Andon Labs,Andon Labs,unresolved,0.0,STARTUP
+Reducto,Reducto,unresolved,0.0,STARTUP
+Tuesday Labs,Tuesday Labs,unresolved,0.0,STARTUP
+Saga AI,Saga AI,unresolved,0.0,STARTUP
+Quary,Quary,unresolved,0.0,STARTUP
+Alex,Alex,unresolved,0.0,STARTUP
+AveryIQ,AveryIQ,unresolved,0.0,STARTUP
+Patchwork,Patchwork,unresolved,0.0,STARTUP
+Arini,Arini,unresolved,0.0,STARTUP
+Simplex,Simplex,unresolved,0.0,STARTUP
+Greenboard,Greenboard,unresolved,0.0,STARTUP
+Trellis AI,Trellis AI,unresolved,0.0,STARTUP
+Topo,Topo,unresolved,0.0,STARTUP
+Panelytic,Panelytic,unresolved,0.0,STARTUP
+Copper Health,Copper Health,unresolved,0.0,STARTUP
+Glimmer,Glimmer,unresolved,0.0,STARTUP
+PromptArmor,PromptArmor,unresolved,0.0,STARTUP
+Respan,Respan,unresolved,0.0,STARTUP
+Monumint,Monumint,unresolved,0.0,STARTUP
+Central,Central,unresolved,0.0,STARTUP
+Speck,Speck,unresolved,0.0,STARTUP
+Decipher AI,Decipher AI,unresolved,0.0,STARTUP
+InQuery,InQuery,unresolved,0.0,STARTUP
+PandasAI,PandasAI,unresolved,0.0,STARTUP
+Vibrant Labs,Vibrant Labs,unresolved,0.0,STARTUP
+Feldy,Feldy,unresolved,0.0,STARTUP
+crmCopilot,crmCopilot,unresolved,0.0,STARTUP
+NanoCorp,NanoCorp,unresolved,0.0,STARTUP
+Centralize,Centralize,unresolved,0.0,STARTUP
+Salvy,Salvy,unresolved,0.0,STARTUP
+Aedilic,Aedilic,unresolved,0.0,STARTUP
+Pazi,Pazi,unresolved,0.0,STARTUP
+Ellipsis,Ellipsis,unresolved,0.0,STARTUP
+Browser Buddy,Browser Buddy,unresolved,0.0,STARTUP
+Sagaland,Sagaland,unresolved,0.0,STARTUP
+Superagent,Superagent,unresolved,0.0,STARTUP
+Carma,Carma,unresolved,0.0,STARTUP
+Toma,Toma,unresolved,0.0,STARTUP
+Whip,Whip,unresolved,0.0,STARTUP
+Trieve,Trieve,unresolved,0.0,STARTUP
+Conduit,Conduit,unresolved,0.0,STARTUP
+Soundry AI,Soundry AI,unresolved,0.0,STARTUP
+Overeasy,Overeasy,unresolved,0.0,STARTUP
+Clarum,Clarum,unresolved,0.0,STARTUP
+Centauri AI,Centauri AI,unresolved,0.0,STARTUP
+Raindrop,Raindrop,unresolved,0.0,STARTUP
+Yondu,Yondu,unresolved,0.0,STARTUP
+Lumetric,Lumetric,unresolved,0.0,STARTUP
+Openmart,Openmart,unresolved,0.0,STARTUP
+Spark,Spark,unresolved,0.0,STARTUP
+Retell AI,Retell AI,unresolved,0.0,STARTUP
+Aqua Voice,Aqua Voice,unresolved,0.0,STARTUP
+Fluently,Fluently,unresolved,0.0,STARTUP
+CommodityAI,CommodityAI,unresolved,0.0,STARTUP
+Marblism,Marblism,unresolved,0.0,STARTUP
+Arcane,Arcane,unresolved,0.0,STARTUP
+OpenFoundry,OpenFoundry,unresolved,0.0,STARTUP
+Spur,Spur,unresolved,0.0,STARTUP
+Reform,Reform,unresolved,0.0,STARTUP
+Integuru,Integuru,unresolved,0.0,STARTUP
+Latted,Latted,unresolved,0.0,STARTUP
+Dragoneye,Dragoneye,unresolved,0.0,STARTUP
+Mathos,Mathos,unresolved,0.0,STARTUP
+InspectMind AI,InspectMind AI,unresolved,0.0,STARTUP
+RetailReady,RetailReady,unresolved,0.0,STARTUP
+K-Scale Labs,K-Scale Labs,unresolved,0.0,STARTUP
+Coval,Coval,unresolved,0.0,STARTUP
+Ångström AI,Ångström AI,unresolved,0.0,STARTUP
+Ultra,Ultra,unresolved,0.0,STARTUP
+Undermind,Undermind,unresolved,0.0,STARTUP
+Superunit,Superunit,unresolved,0.0,STARTUP
+Doublezero,Doublezero,unresolved,0.0,STARTUP
+Variant,Variant,unresolved,0.0,STARTUP
+Understood Care,Understood Care,unresolved,0.0,STARTUP
+Cheers,Cheers,unresolved,0.0,STARTUP
+Mem0,Mem0,unresolved,0.0,STARTUP
+Saphira AI,Saphira AI,unresolved,0.0,STARTUP
+Entangl,Entangl,unresolved,0.0,STARTUP
+Codes Health,Codes Health,unresolved,0.0,STARTUP
+Unsloth AI,Unsloth AI,unresolved,0.0,STARTUP
+Random Labs,Random Labs,unresolved,0.0,STARTUP
+DigitalCarbon,DigitalCarbon,unresolved,0.0,STARTUP
+Bayesline,Bayesline,unresolved,0.0,STARTUP
+Sage Care,Sage Care,unresolved,0.0,STARTUP
+Maitai,Maitai,unresolved,0.0,STARTUP
+Wordware,Wordware,unresolved,0.0,STARTUP
+Stardrift,Stardrift,unresolved,0.0,STARTUP
+Cloudglue,Cloudglue,unresolved,0.0,STARTUP
+Willow,Willow,unresolved,0.0,STARTUP
+Proxis,Proxis,unresolved,0.0,STARTUP
+Scape,Scape,unresolved,0.0,STARTUP
+"DeepSim, Inc.","DeepSim, Inc.",unresolved,0.0,STARTUP
+Dodo,Dodo,unresolved,0.0,STARTUP
+Parahelp,Parahelp,unresolved,0.0,STARTUP
+camfer,camfer,unresolved,0.0,STARTUP
+Gauge,Gauge,unresolved,0.0,STARTUP
+Dench.com,Dench.com,unresolved,0.0,STARTUP
+LedgerUp,LedgerUp,unresolved,0.0,STARTUP
+Mito Health,Mito Health,unresolved,0.0,STARTUP
+Fazeshift,Fazeshift,unresolved,0.0,STARTUP
+CreativeMode,CreativeMode,unresolved,0.0,STARTUP
+cmux,cmux,unresolved,0.0,STARTUP
+Panora,Panora,unresolved,0.0,STARTUP
+Clearly AI,Clearly AI,unresolved,0.0,STARTUP
+Zoa Research,Zoa Research,unresolved,0.0,STARTUP
+Vibe,Vibe,unresolved,0.0,STARTUP
+Planbase,Planbase,unresolved,0.0,STARTUP
+Sharpe,Sharpe,unresolved,0.0,STARTUP
+deepsilicon,deepsilicon,unresolved,0.0,STARTUP
+Seals AI,Seals AI,unresolved,0.0,STARTUP
+winfunc,winfunc,unresolved,0.0,STARTUP
+Mage Legal,Mage Legal,unresolved,0.0,STARTUP
+Distro,Distro,unresolved,0.0,STARTUP
+Piggy Robotics,Piggy Robotics,unresolved,0.0,STARTUP
+Emergent,Emergent,unresolved,0.0,STARTUP
+Kura AI,Kura AI,unresolved,0.0,STARTUP
+Thunder Compute,Thunder Compute,unresolved,0.0,STARTUP
+Brighterway,Brighterway,unresolved,0.0,STARTUP
+Zettascale,Zettascale,unresolved,0.0,STARTUP
+Praxos,Praxos,unresolved,0.0,STARTUP
+The Forecasting Company,The Forecasting Company,unresolved,0.0,STARTUP
+Presti AI,Presti AI,unresolved,0.0,STARTUP
+Laminar,Laminar,unresolved,0.0,STARTUP
+Simple AI,Simple AI,unresolved,0.0,STARTUP
+Palmier,Palmier,unresolved,0.0,STARTUP
+Cartage,Cartage,unresolved,0.0,STARTUP
+RiskAngle,RiskAngle,unresolved,0.0,STARTUP
+Odo,Odo,unresolved,0.0,STARTUP
+Haystack,Haystack,unresolved,0.0,STARTUP
+HeroUI,HeroUI,unresolved,0.0,STARTUP
+Rescript,Rescript,unresolved,0.0,STARTUP
+Dataleap,Dataleap,unresolved,0.0,STARTUP
+Starcloud,Starcloud,unresolved,0.0,STARTUP
+Sepal AI,Sepal AI,unresolved,0.0,STARTUP
+Orca Client,Orca Client,unresolved,0.0,STARTUP
+Voker,Voker,unresolved,0.0,STARTUP
+TradeFlow,TradeFlow,unresolved,0.0,STARTUP
+Blaze,Blaze,unresolved,0.0,STARTUP
+Oway,Oway,unresolved,0.0,STARTUP
+SureBright,SureBright,unresolved,0.0,STARTUP
+Dayflow,Dayflow,unresolved,0.0,STARTUP
+No Logo,No Logo,unresolved,0.0,STARTUP
+et al.,et al.,unresolved,0.0,STARTUP
+Pharos,Pharos,unresolved,0.0,STARTUP
+Pipeshift,Pipeshift,unresolved,0.0,STARTUP
+Ficra,Ficra,unresolved,0.0,STARTUP
+Henry,Henry,unresolved,0.0,STARTUP
+BrowserOS,BrowserOS,unresolved,0.0,STARTUP
+Capitol AI,Capitol AI,unresolved,0.0,STARTUP
+Merlin AI,Merlin AI,unresolved,0.0,STARTUP
+PathPilot,PathPilot,unresolved,0.0,STARTUP
+Delineate,Delineate,unresolved,0.0,STARTUP
+DreamRP,DreamRP,unresolved,0.0,STARTUP
+Riveter,Riveter,unresolved,0.0,STARTUP
+Symphony,Symphony,unresolved,0.0,STARTUP
+Streamable,Streamable,unresolved,0.0,STARTUP
+Gait,Gait,unresolved,0.0,STARTUP
+Candle,Candle,unresolved,0.0,STARTUP
+Darkgrade,Darkgrade,unresolved,0.0,STARTUP
+HealthSpark,HealthSpark,unresolved,0.0,STARTUP
+Archil,Archil,unresolved,0.0,STARTUP
+Endstack,Endstack,unresolved,0.0,STARTUP
+Matcha,Matcha,unresolved,0.0,STARTUP
+ISSEN,ISSEN,unresolved,0.0,STARTUP
+CTGT,CTGT,unresolved,0.0,STARTUP
+Keye,Keye,unresolved,0.0,STARTUP
+Luthor,Luthor,unresolved,0.0,STARTUP
+Lingo.dev,Lingo.dev,unresolved,0.0,STARTUP
+HYBRD,HYBRD,unresolved,0.0,STARTUP
+Unusual,Unusual,unresolved,0.0,STARTUP
+Stewdio,Stewdio,unresolved,0.0,STARTUP
+vly.ai,vly.ai,unresolved,0.0,STARTUP
+Abundant,Abundant,unresolved,0.0,STARTUP
+Gecko Security,Gecko Security,unresolved,0.0,STARTUP
+PermitPortal,PermitPortal,unresolved,0.0,STARTUP
+Capy,Capy,unresolved,0.0,STARTUP
+Kilvin,Kilvin,unresolved,0.0,STARTUP
+Diffusion Studio,Diffusion Studio,unresolved,0.0,STARTUP
+Metreecs,Metreecs,unresolved,0.0,STARTUP
+ArchiLabs,ArchiLabs,unresolved,0.0,STARTUP
+Forerunner AI,Forerunner AI,unresolved,0.0,STARTUP
+Laminar,Laminar,unresolved,0.0,STARTUP
+Relvy AI,Relvy AI,unresolved,0.0,STARTUP
+Careforce,Careforce,unresolved,0.0,STARTUP
+Synth,Synth,unresolved,0.0,STARTUP
+Vetnio,Vetnio,unresolved,0.0,STARTUP
+Tweeks.io,Tweeks.io,unresolved,0.0,STARTUP
+Astro,Astro,unresolved,0.0,STARTUP
+Closure,Closure,unresolved,0.0,STARTUP
+superglue,superglue,unresolved,0.0,STARTUP
+Contrario,Contrario,unresolved,0.0,STARTUP
+Sublingual,Sublingual,unresolved,0.0,STARTUP
+Verbiflow,Verbiflow,unresolved,0.0,STARTUP
+Weave,Weave,unresolved,0.0,STARTUP
+SalesPatriot,SalesPatriot,unresolved,0.0,STARTUP
+Rally,Rally,unresolved,0.0,STARTUP
+Tergle,Tergle,unresolved,0.0,STARTUP
+Trim,Trim,unresolved,0.0,STARTUP
+Oki,Oki,unresolved,0.0,STARTUP
+Cifrato,Cifrato,unresolved,0.0,STARTUP
+Stillwind,Stillwind,unresolved,0.0,STARTUP
+Harbera,Harbera,unresolved,0.0,STARTUP
+Cenote,Cenote,unresolved,0.0,STARTUP
+Liquid Compute,Liquid Compute,unresolved,0.0,STARTUP
+Mundo AI,Mundo AI,unresolved,0.0,STARTUP
+General Trajectory,General Trajectory,unresolved,0.0,STARTUP
+Agentin AI,Agentin AI,unresolved,0.0,STARTUP
+Riviera,Riviera,unresolved,0.0,STARTUP
+Confident AI,Confident AI,unresolved,0.0,STARTUP
+Calltree,Calltree,unresolved,0.0,STARTUP
+Harper,Harper,unresolved,0.0,STARTUP
+Mesh,Mesh,unresolved,0.0,STARTUP
+Sennu AI,Sennu AI,unresolved,0.0,STARTUP
+AfterQuery,AfterQuery,unresolved,0.0,STARTUP
+Mastra,Mastra,unresolved,0.0,STARTUP
+Wildcard,Wildcard,unresolved,0.0,STARTUP
+Woz,Woz,unresolved,0.0,STARTUP
+Rebolt,Rebolt,unresolved,0.0,STARTUP
+Roark,Roark,unresolved,0.0,STARTUP
+Waffle,Waffle,unresolved,0.0,STARTUP
+Bluebook,Bluebook,unresolved,0.0,STARTUP
+CopyCat,CopyCat,unresolved,0.0,STARTUP
+Ergo,Ergo,unresolved,0.0,STARTUP
+Dex,Dex,unresolved,0.0,STARTUP
+Monte,Monte,unresolved,0.0,STARTUP
+Chestnut,Chestnut,unresolved,0.0,STARTUP
+Frekil,Frekil,unresolved,0.0,STARTUP
+Plexe,Plexe,unresolved,0.0,STARTUP
+Kashikoi,Kashikoi,unresolved,0.0,STARTUP
+nao Labs,nao Labs,unresolved,0.0,STARTUP
+BitBoard,BitBoard,unresolved,0.0,STARTUP
+Kanava AI,Kanava AI,unresolved,0.0,STARTUP
+Ralo,Ralo,unresolved,0.0,STARTUP
+Almond,Almond,unresolved,0.0,STARTUP
+Feyn,Feyn,unresolved,0.0,STARTUP
+HelixDB,HelixDB,unresolved,0.0,STARTUP
+Kaelio,Kaelio,unresolved,0.0,STARTUP
+Beluga,Beluga,unresolved,0.0,STARTUP
+Clarm,Clarm,unresolved,0.0,STARTUP
+Sim,Sim,unresolved,0.0,STARTUP
+stratify,stratify,unresolved,0.0,STARTUP
+Units,Units,unresolved,0.0,STARTUP
+Mbodi AI,Mbodi AI,unresolved,0.0,STARTUP
+Kirana AI,Kirana AI,unresolved,0.0,STARTUP
+Bluejay,Bluejay,unresolved,0.0,STARTUP
+Paper Instruments,Paper Instruments,unresolved,0.0,STARTUP
+Freesolo,Freesolo,unresolved,0.0,STARTUP
+Sixtyfour,Sixtyfour,unresolved,0.0,STARTUP
+Clidey,Clidey,unresolved,0.0,STARTUP
+HABIT,HABIT,unresolved,0.0,STARTUP
+Morphik,Morphik,unresolved,0.0,STARTUP
+Nomi,Nomi,unresolved,0.0,STARTUP
+Crimson,Crimson,unresolved,0.0,STARTUP
+Lucis,Lucis,unresolved,0.0,STARTUP
+QualGent,QualGent,unresolved,0.0,STARTUP
+Cactus Compute,Cactus Compute,unresolved,0.0,STARTUP
+MorphoAI,MorphoAI,unresolved,0.0,STARTUP
+Eloquent AI,Eloquent AI,unresolved,0.0,STARTUP
+Hemut,Hemut,unresolved,0.0,STARTUP
+Naïve,Naïve,unresolved,0.0,STARTUP
+Mesmer,Mesmer,unresolved,0.0,STARTUP
+Rimba,Rimba,unresolved,0.0,STARTUP
+Nimbic AI,Nimbic AI,unresolved,0.0,STARTUP
+Pelica,Pelica,unresolved,0.0,STARTUP
+Lumari,Lumari,unresolved,0.0,STARTUP
+Vision Lab,Vision Lab,unresolved,0.0,STARTUP
+StarSling,StarSling,unresolved,0.0,STARTUP
+Sureform,Sureform,unresolved,0.0,STARTUP
+Cohesive,Cohesive,unresolved,0.0,STARTUP
+Fifth Door,Fifth Door,unresolved,0.0,STARTUP
+Dedalus Labs,Dedalus Labs,unresolved,0.0,STARTUP
+MangoDesk,MangoDesk,unresolved,0.0,STARTUP
+Astor,Astor,unresolved,0.0,STARTUP
+Lanesurf,Lanesurf,unresolved,0.0,STARTUP
+Liva AI,Liva AI,unresolved,0.0,STARTUP
+Playgent,Playgent,unresolved,0.0,STARTUP
+LLM Stats,LLM Stats,unresolved,0.0,STARTUP
+ContextFort,ContextFort,unresolved,0.0,STARTUP
+Topological,Topological,unresolved,0.0,STARTUP
+Lotas,Lotas,unresolved,0.0,STARTUP
+Wafer,Wafer,unresolved,0.0,STARTUP
+Lilac,Lilac,unresolved,0.0,STARTUP
+Alter,Alter,unresolved,0.0,STARTUP
+Async,Async,unresolved,0.0,STARTUP
+Magnitude,Magnitude,unresolved,0.0,STARTUP
+Stockline,Stockline,unresolved,0.0,STARTUP
+Tesora,Tesora,unresolved,0.0,STARTUP
+Panoptive,Panoptive,unresolved,0.0,STARTUP
+Induction Labs,Induction Labs,unresolved,0.0,STARTUP
+Nexa Labs,Nexa Labs,unresolved,0.0,STARTUP
+Riverbank,Riverbank,unresolved,0.0,STARTUP
+Interface,Interface,unresolved,0.0,STARTUP
+Trace,Trace,unresolved,0.0,STARTUP
+GhostEye,GhostEye,unresolved,0.0,STARTUP
+Mimos,Mimos,unresolved,0.0,STARTUP
+Physical Turing,Physical Turing,unresolved,0.0,STARTUP
+Phases,Phases,unresolved,0.0,STARTUP
+Manufact,Manufact,unresolved,0.0,STARTUP
+Finto,Finto,unresolved,0.0,STARTUP
+ProcIndex,ProcIndex,unresolved,0.0,STARTUP
+Humoniq,Humoniq,unresolved,0.0,STARTUP
+Evergrove,Evergrove,unresolved,0.0,STARTUP
+Quotain,Quotain,unresolved,0.0,STARTUP
+SigmanticAI,SigmanticAI,unresolved,0.0,STARTUP
+Pleom,Pleom,unresolved,0.0,STARTUP
+Notte,Notte,unresolved,0.0,STARTUP
+Certus AI,Certus AI,unresolved,0.0,STARTUP
+KERNEL,KERNEL,unresolved,0.0,STARTUP
+Rebulk,Rebulk,unresolved,0.0,STARTUP
+Okibi,Okibi,unresolved,0.0,STARTUP
+Interfere,Interfere,unresolved,0.0,STARTUP
+Bizzy AI,Bizzy AI,unresolved,0.0,STARTUP
+Sapien,Sapien,unresolved,0.0,STARTUP
+Veritus,Veritus,unresolved,0.0,STARTUP
+burnt,burnt,unresolved,0.0,STARTUP
+Blue,Blue,unresolved,0.0,STARTUP
+Digipals,Digipals,unresolved,0.0,STARTUP
+Lapis,Lapis,unresolved,0.0,STARTUP
+F2,F2,unresolved,0.0,STARTUP
+Brickanta,Brickanta,unresolved,0.0,STARTUP
+Structured AI,Structured AI,unresolved,0.0,STARTUP
+MOVEdot,MOVEdot,unresolved,0.0,STARTUP
+Sylvian,Sylvian,unresolved,0.0,STARTUP
+Hyperspell,Hyperspell,unresolved,0.0,STARTUP
+Locus,Locus,unresolved,0.0,STARTUP
+Sorce,Sorce,unresolved,0.0,STARTUP
+Soren,Soren,unresolved,0.0,STARTUP
+Bron,Bron,unresolved,0.0,STARTUP
+Veria Labs,Veria Labs,unresolved,0.0,STARTUP
+Trelium,Trelium,unresolved,0.0,STARTUP
+Semble,Semble,unresolved,0.0,STARTUP
+Clerked,Clerked,unresolved,0.0,STARTUP
+Terrain,Terrain,unresolved,0.0,STARTUP
+Allus AI,Allus AI,unresolved,0.0,STARTUP
+Sciloop,Sciloop,unresolved,0.0,STARTUP
+Logical,Logical,unresolved,0.0,STARTUP
+Redapto,Redapto,unresolved,0.0,STARTUP
+ComplyDo,ComplyDo,unresolved,0.0,STARTUP
+Codyco,Codyco,unresolved,0.0,STARTUP
+Lexi,Lexi,unresolved,0.0,STARTUP
+Compyle,Compyle,unresolved,0.0,STARTUP
+Thesis,Thesis,unresolved,0.0,STARTUP
+Pixley AI,Pixley AI,unresolved,0.0,STARTUP
+Leadbay,Leadbay,unresolved,0.0,STARTUP
+Imagine AI,Imagine AI,unresolved,0.0,STARTUP
+Philon,Philon,unresolved,0.0,STARTUP
+Narrative,Narrative,unresolved,0.0,STARTUP
+Denki,Denki,unresolved,0.0,STARTUP
+Lemma,Lemma,unresolved,0.0,STARTUP
+Freeport Markets,Freeport Markets,unresolved,0.0,STARTUP
+Boom AI,Boom AI,unresolved,0.0,STARTUP
+Velvet,Velvet,unresolved,0.0,STARTUP
+LunaBill,LunaBill,unresolved,0.0,STARTUP
+Antigen,Antigen,unresolved,0.0,STARTUP
+Fastshot,Fastshot,unresolved,0.0,STARTUP
+MarkIt,MarkIt,unresolved,0.0,STARTUP
+Zarna,Zarna,unresolved,0.0,STARTUP
+Moss,Moss,unresolved,0.0,STARTUP
+Amika,Amika,unresolved,0.0,STARTUP
+Rivet,Rivet,unresolved,0.0,STARTUP
+ClaimGlide,ClaimGlide,unresolved,0.0,STARTUP
+Corvera,Corvera,unresolved,0.0,STARTUP
+10x Science,10x Science,unresolved,0.0,STARTUP
+Q2Q,Q2Q,unresolved,0.0,STARTUP
+Seeing Systems,Seeing Systems,unresolved,0.0,STARTUP
+Visibl Semiconductors,Visibl Semiconductors,unresolved,0.0,STARTUP
+Assemble,Assemble,unresolved,0.0,STARTUP
+Fenrock AI,Fenrock AI,unresolved,0.0,STARTUP
+Traverse,Traverse,unresolved,0.0,STARTUP
+Approxima,Approxima,unresolved,0.0,STARTUP
+InventoryQuant,InventoryQuant,unresolved,0.0,STARTUP
+Libra Robotics,Libra Robotics,unresolved,0.0,STARTUP
+o11,o11,unresolved,0.0,STARTUP
+Corelayer,Corelayer,unresolved,0.0,STARTUP
+Inth,Inth,unresolved,0.0,STARTUP
+Grade,Grade,unresolved,0.0,STARTUP
+Cova,Cova,unresolved,0.0,STARTUP
+Dipole Labs,Dipole Labs,unresolved,0.0,STARTUP
+Ossus,Ossus,unresolved,0.0,STARTUP
+Carrot Labs,Carrot Labs,unresolved,0.0,STARTUP
+Litmus,Litmus,unresolved,0.0,STARTUP
+Hedge,Hedge,unresolved,0.0,STARTUP
+Most Robotic,Most Robotic,unresolved,0.0,STARTUP
+Osmaura,Osmaura,unresolved,0.0,STARTUP
+Palette,Palette,unresolved,0.0,STARTUP
+Discovered Materials,Discovered Materials,unresolved,0.0,STARTUP
+Hub,Hub,unresolved,0.0,STARTUP
+StableBrowse,StableBrowse,unresolved,0.0,STARTUP
+Lab0,Lab0,unresolved,0.0,STARTUP
+Ontora,Ontora,unresolved,0.0,STARTUP
+Infera,Infera,unresolved,0.0,STARTUP
+Archer,Archer,unresolved,0.0,STARTUP
+Degla Inc,Degla Inc,unresolved,0.0,STARTUP
+Collar,Collar,unresolved,0.0,STARTUP
+Tolmo,Tolmo,unresolved,0.0,STARTUP
+Revnu,Revnu,unresolved,0.0,STARTUP
+Enjamb Labs,Enjamb Labs,unresolved,0.0,STARTUP
+Playabl.ai,Playabl.ai,unresolved,0.0,STARTUP
+Rindler,Rindler,unresolved,0.0,STARTUP
+GitCafe,GitCafe,unresolved,0.0,STARTUP
+Torus,Torus,unresolved,0.0,STARTUP
+Pango,Pango,unresolved,0.0,STARTUP
+Hoplite,Hoplite,unresolved,0.0,STARTUP
+Donkey,Donkey,unresolved,0.0,STARTUP
+Egoist Machines,Egoist Machines,unresolved,0.0,STARTUP
+Parasma,Parasma,unresolved,0.0,STARTUP
+Nebula Security,Nebula Security,unresolved,0.0,STARTUP
+Enact,Enact,unresolved,0.0,STARTUP
+Maingen,Maingen,unresolved,0.0,STARTUP
+Bernard,Bernard,unresolved,0.0,STARTUP
+Studio,Studio,unresolved,0.0,STARTUP
+Understudy Labs,Understudy Labs,unresolved,0.0,STARTUP
+Synapse Semiconductor,Synapse Semiconductor,unresolved,0.0,STARTUP
+Speko,Speko,unresolved,0.0,STARTUP
+LemonLime,LemonLime,unresolved,0.0,STARTUP
+Jcode,Jcode,unresolved,0.0,STARTUP
+Insurf,Insurf,unresolved,0.0,STARTUP
+Instaplay,Instaplay,unresolved,0.0,STARTUP
+RealPact,RealPact,unresolved,0.0,STARTUP
+Buildbox,Buildbox,unresolved,0.0,STARTUP
+Riften,Riften,unresolved,0.0,STARTUP
+Bizmark,Bizmark,unresolved,0.0,STARTUP
+Alloovium,Alloovium,unresolved,0.0,STARTUP
+MOCHI.TV,MOCHI.TV,unresolved,0.0,STARTUP
+Audun,Audun,unresolved,0.0,STARTUP
+Marble,Marble,unresolved,0.0,STARTUP
+Stoa,Stoa,unresolved,0.0,STARTUP
+Glen,Glen,unresolved,0.0,STARTUP
+Context.dev,Context.dev,unresolved,0.0,STARTUP
+Exosat,Exosat,unresolved,0.0,STARTUP
+screenpipe,screenpipe,unresolved,0.0,STARTUP
+Callbook AI,Callbook AI,unresolved,0.0,STARTUP
+Standard Machines,Standard Machines,unresolved,0.0,STARTUP
+Pluto,Pluto,unresolved,0.0,STARTUP
+Omanta,Omanta,unresolved,0.0,STARTUP
+Qlo,Qlo,unresolved,0.0,STARTUP
+Tenor,Tenor,unresolved,0.0,STARTUP
+Daqstra,Daqstra,unresolved,0.0,STARTUP
+LATO,LATO,unresolved,0.0,STARTUP
+Neuromorphic,Neuromorphic,unresolved,0.0,STARTUP
+Moving Atoms,Moving Atoms,unresolved,0.0,STARTUP
+Financial Datasets,Financial Datasets,unresolved,0.0,STARTUP
+Luca IQ,Luca IQ,unresolved,0.0,STARTUP
+Pacific,Pacific,unresolved,0.0,STARTUP
+Lumeria,Lumeria,unresolved,0.0,STARTUP
+Familiar,Familiar,unresolved,0.0,STARTUP
+Inkbox,Inkbox,unresolved,0.0,STARTUP
+Gamgee,Gamgee,unresolved,0.0,STARTUP
+Care GP,Care GP,unresolved,0.0,STARTUP
+Decawork,Decawork,unresolved,0.0,STARTUP
+Pennant,Pennant,unresolved,0.0,STARTUP
+Touchy,Touchy,unresolved,0.0,STARTUP
+Mireye,Mireye,unresolved,0.0,STARTUP
+Lamb Labs,Lamb Labs,unresolved,0.0,STARTUP
+83 Sciences,83 Sciences,unresolved,0.0,STARTUP
+Palisade,Palisade,unresolved,0.0,STARTUP
+Verdict Machine,Verdict Machine,unresolved,0.0,STARTUP
+OpenRelay,OpenRelay,unresolved,0.0,STARTUP
+Florin,Florin,unresolved,0.0,STARTUP
+Locke,Locke,unresolved,0.0,STARTUP
+Tracer,Tracer,unresolved,0.0,STARTUP
+Wondering,Wondering,unresolved,0.0,STARTUP
+OneCLI,OneCLI,unresolved,0.0,STARTUP
+Osseus,Osseus,unresolved,0.0,STARTUP
+Magma,Magma,unresolved,0.0,STARTUP
+Experiential Labs,Experiential Labs,unresolved,0.0,STARTUP
+Simantic,Simantic,unresolved,0.0,STARTUP
+OpenTag,OpenTag,unresolved,0.0,STARTUP
+Lambda Robotics,Lambda Robotics,unresolved,0.0,STARTUP
+Sentient OS,Sentient OS,unresolved,0.0,STARTUP
+Veeza AI,Veeza AI,unresolved,0.0,STARTUP
+Workers IO,Workers IO,unresolved,0.0,STARTUP
+antimattr,antimattr,unresolved,0.0,STARTUP
+Directed Edge,Directed Edge,unresolved,0.0,STARTUP
+JustSpotted,JustSpotted,unresolved,0.0,STARTUP
+Canopy Labs,Canopy Labs,unresolved,0.0,STARTUP
+Semantics3,Semantics3,unresolved,0.0,STARTUP
+Casetext,Casetext,unresolved,0.0,STARTUP
+OpenCurriculum,OpenCurriculum,unresolved,0.0,STARTUP
+Checkr,Checkr,unresolved,0.0,STARTUP
+SalesSift,SalesSift,unresolved,0.0,STARTUP
+Weave,Weave,unresolved,0.0,STARTUP
+Qventus,Qventus,unresolved,0.0,STARTUP
+20n,20n,unresolved,0.0,STARTUP
+Zeitview,Zeitview,unresolved,0.0,STARTUP
+Yhat,Yhat,unresolved,0.0,STARTUP
+Dabble,Dabble,unresolved,0.0,STARTUP
+Mashgin,Mashgin,unresolved,0.0,STARTUP
+ROSS Intelligence,ROSS Intelligence,unresolved,0.0,STARTUP
+Reduced Energy Microsystems,Reduced Energy Microsystems,unresolved,0.0,STARTUP
+iSono Health,iSono Health,unresolved,0.0,STARTUP
+Algoriz,Algoriz,unresolved,0.0,STARTUP
+Pulpix,Pulpix,unresolved,0.0,STARTUP
+Superside,Superside,unresolved,0.0,STARTUP
+Gecko Robotics,Gecko Robotics,unresolved,0.0,STARTUP
+Caper,Caper,unresolved,0.0,STARTUP
+Nova,Nova,unresolved,0.0,STARTUP
+Farmstead,Farmstead,unresolved,0.0,STARTUP
+Sway Finance,Sway Finance,unresolved,0.0,STARTUP
+garten,garten,unresolved,0.0,STARTUP
+Synvivia,Synvivia,unresolved,0.0,STARTUP
+Seerslab,Seerslab,unresolved,0.0,STARTUP
+Miso,Miso,unresolved,0.0,STARTUP
+Saleswhale,Saleswhale,unresolved,0.0,STARTUP
+Scale AI,Scale AI,unresolved,0.0,STARTUP
+People.ai,People.ai,unresolved,0.0,STARTUP
+Voiceops,Voiceops,unresolved,0.0,STARTUP
+Speak,Speak,unresolved,0.0,STARTUP
+Scribe,Scribe,unresolved,0.0,STARTUP
+Pit.AI,Pit.AI,unresolved,0.0,STARTUP
+MDalgorithms Inc.,MDalgorithms Inc.,unresolved,0.0,STARTUP
+RankScience,RankScience,unresolved,0.0,STARTUP
+Ambient.ai,Ambient.ai,unresolved,0.0,STARTUP
+Penny,Penny,unresolved,0.0,STARTUP
+Tetra,Tetra,unresolved,0.0,STARTUP
+BIOS Health,BIOS Health,unresolved,0.0,STARTUP
+Bicycle AI,Bicycle AI,unresolved,0.0,STARTUP
+Helix Nanotechnologies,Helix Nanotechnologies,unresolved,0.0,STARTUP
+ScopeAI,ScopeAI,unresolved,0.0,STARTUP
+VergeSense,VergeSense,unresolved,0.0,STARTUP
+Darmiyan,Darmiyan,unresolved,0.0,STARTUP
+Mystro,Mystro,unresolved,0.0,STARTUP
+Semantix,Semantix,unresolved,0.0,STARTUP
+Plasticity,Plasticity,unresolved,0.0,STARTUP
+D-ID,D-ID,unresolved,0.0,STARTUP
+Percept.AI,Percept.AI,unresolved,0.0,STARTUP
+Sourceress,Sourceress,unresolved,0.0,STARTUP
+May Mobility,May Mobility,unresolved,0.0,STARTUP
+Commissary Club (formerly 70 Million Jobs),Commissary Club (formerly 70 Million Jobs),unresolved,0.0,STARTUP
+Lyrebird,Lyrebird,unresolved,0.0,STARTUP
+10 By 10,10 By 10,unresolved,0.0,STARTUP
+Proven Group,Proven Group,unresolved,0.0,STARTUP
+Precious,Precious,unresolved,0.0,STARTUP
+Spellbrush,Spellbrush,unresolved,0.0,STARTUP
+Promise,Promise,unresolved,0.0,STARTUP
+Nuvocargo,Nuvocargo,unresolved,0.0,STARTUP
+Cognition IP,Cognition IP,unresolved,0.0,STARTUP
+Vathys,Vathys,unresolved,0.0,STARTUP
+Naborly,Naborly,unresolved,0.0,STARTUP
+SharpestMinds,SharpestMinds,unresolved,0.0,STARTUP
+Orangewood Labs,Orangewood Labs,unresolved,0.0,STARTUP
+Point API,Point API,unresolved,0.0,STARTUP
+Phiar,Phiar,unresolved,0.0,STARTUP
+OWNY,OWNY,unresolved,0.0,STARTUP
+"numericcal, inc.","numericcal, inc.",unresolved,0.0,STARTUP
+Data Driven Bioscience,Data Driven Bioscience,unresolved,0.0,STARTUP
+Inscribe,Inscribe,unresolved,0.0,STARTUP
+Quickchat AI,Quickchat AI,unresolved,0.0,STARTUP
+Rain Neuromorphics,Rain Neuromorphics,unresolved,0.0,STARTUP
+BrainHi,BrainHi,unresolved,0.0,STARTUP
+Mutiny,Mutiny,unresolved,0.0,STARTUP
+Leena AI,Leena AI,unresolved,0.0,STARTUP
+Kunduz,Kunduz,unresolved,0.0,STARTUP
+Flockjay,Flockjay,unresolved,0.0,STARTUP
+Centaur,Centaur,unresolved,0.0,STARTUP
+Windsor,Windsor,unresolved,0.0,STARTUP
+Community Phone Company,Community Phone Company,unresolved,0.0,STARTUP
+Sapling.ai,Sapling.ai,unresolved,0.0,STARTUP
+AI Insurance,AI Insurance,unresolved,0.0,STARTUP
+Evo.Do,Evo.Do,unresolved,0.0,STARTUP
+Docucharm,Docucharm,unresolved,0.0,STARTUP
+Askdata,Askdata,unresolved,0.0,STARTUP
+Superorder,Superorder,unresolved,0.0,STARTUP
+Superb AI,Superb AI,unresolved,0.0,STARTUP
+Glide,Glide,unresolved,0.0,STARTUP
+Sublime Black,Sublime Black,unresolved,0.0,STARTUP
+Mars Auto,Mars Auto,unresolved,0.0,STARTUP
+Tailor-ED,Tailor-ED,unresolved,0.0,STARTUP
+"OutRival, Inc.","OutRival, Inc.",unresolved,0.0,STARTUP
+Playground,Playground,unresolved,0.0,STARTUP
+Figments,Figments,unresolved,0.0,STARTUP
+Palifer,Palifer,unresolved,0.0,STARTUP
+Symplex,Symplex,unresolved,0.0,STARTUP
+Well Principled,Well Principled,unresolved,0.0,STARTUP
+Lantern,Lantern,unresolved,0.0,STARTUP
+GEn1E Lifesciences,GEn1E Lifesciences,unresolved,0.0,STARTUP
+Embrace,Embrace,unresolved,0.0,STARTUP
+ZETA SURGICAL,ZETA SURGICAL,unresolved,0.0,STARTUP
+Milo,Milo,unresolved,0.0,STARTUP
+Ramen VR,Ramen VR,unresolved,0.0,STARTUP
+Traces,Traces,unresolved,0.0,STARTUP
+Flowbot,Flowbot,unresolved,0.0,STARTUP
+Phonic,Phonic,unresolved,0.0,STARTUP
+StratumAI,StratumAI,unresolved,0.0,STARTUP
+FitnessAI,FitnessAI,unresolved,0.0,STARTUP
+Taiv,Taiv,unresolved,0.0,STARTUP
+Glisten AI,Glisten AI,unresolved,0.0,STARTUP
+Ardis AI,Ardis AI,unresolved,0.0,STARTUP
+Perceptive Technologies,Perceptive Technologies,unresolved,0.0,STARTUP
+Aden,Aden,unresolved,0.0,STARTUP
+Terrasoft,Terrasoft,unresolved,0.0,STARTUP
+Turing Labs Inc.,Turing Labs Inc.,unresolved,0.0,STARTUP
+Skypher,Skypher,unresolved,0.0,STARTUP
+DeepSource,DeepSource,unresolved,0.0,STARTUP
+PillarPlus,PillarPlus,unresolved,0.0,STARTUP
+Zumo Labs,Zumo Labs,unresolved,0.0,STARTUP
+Overfit,Overfit,unresolved,0.0,STARTUP
+BeGo,BeGo,unresolved,0.0,STARTUP
+Recall.ai,Recall.ai,unresolved,0.0,STARTUP
+Blue Onion,Blue Onion,unresolved,0.0,STARTUP
+Shuttle,Shuttle,unresolved,0.0,STARTUP
+Kernal Biologics,Kernal Biologics,unresolved,0.0,STARTUP
+Omni,Omni,unresolved,0.0,STARTUP
+Atomic,Atomic,unresolved,0.0,STARTUP
+Hyper Online,Hyper Online,unresolved,0.0,STARTUP
+Cohere,Cohere,unresolved,0.0,STARTUP
+Taktile,Taktile,unresolved,0.0,STARTUP
+AI.Fashion,AI.Fashion,unresolved,0.0,STARTUP
+Glimpse,Glimpse,unresolved,0.0,STARTUP
+Fieldguide,Fieldguide,unresolved,0.0,STARTUP
+cloud humans,cloud humans,unresolved,0.0,STARTUP
+Atomic Industries,Atomic Industries,unresolved,0.0,STARTUP
+authzed,authzed,unresolved,0.0,STARTUP
+Quadrant Eye,Quadrant Eye,unresolved,0.0,STARTUP
+SBX Robotics,SBX Robotics,unresolved,0.0,STARTUP
+arnata,arnata,unresolved,0.0,STARTUP
+Pibit.ai,Pibit.ai,unresolved,0.0,STARTUP
+Vogent,Vogent,unresolved,0.0,STARTUP
+Fountain9,Fountain9,unresolved,0.0,STARTUP
+Sivo,Sivo,unresolved,0.0,STARTUP
+Supadock,Supadock,unresolved,0.0,STARTUP
+Emerge Tools,Emerge Tools,unresolved,0.0,STARTUP
+Alinea,Alinea,unresolved,0.0,STARTUP
+Vapi,Vapi,unresolved,0.0,STARTUP
+Mindee,Mindee,unresolved,0.0,STARTUP
+True3D,True3D,unresolved,0.0,STARTUP
+FirstSupport.ai,FirstSupport.ai,unresolved,0.0,STARTUP
+Rinsed,Rinsed,unresolved,0.0,STARTUP
+Nimbus,Nimbus,unresolved,0.0,STARTUP
+Enable Us,Enable Us,unresolved,0.0,STARTUP
+InpharmD,InpharmD,unresolved,0.0,STARTUP
+Tint,Tint,unresolved,0.0,STARTUP
+TaoFi,TaoFi,unresolved,0.0,STARTUP
+Venu AI,Venu AI,unresolved,0.0,STARTUP
+Compose.ai,Compose.ai,unresolved,0.0,STARTUP
+Codeball,Codeball,unresolved,0.0,STARTUP
+Dataherald,Dataherald,unresolved,0.0,STARTUP
+Treinta,Treinta,unresolved,0.0,STARTUP
+Spline,Spline,unresolved,0.0,STARTUP
+BusinessOnBot,BusinessOnBot,unresolved,0.0,STARTUP
+Mystic,Mystic,unresolved,0.0,STARTUP
+MarqVision,MarqVision,unresolved,0.0,STARTUP
+Routine,Routine,unresolved,0.0,STARTUP
+Ollama,Ollama,unresolved,0.0,STARTUP
+Humance,Humance,unresolved,0.0,STARTUP
+Openlayer,Openlayer,unresolved,0.0,STARTUP
+Slope,Slope,unresolved,0.0,STARTUP
+Serif Health,Serif Health,unresolved,0.0,STARTUP
+Abstra,Abstra,unresolved,0.0,STARTUP
+zaz⚡️os,zaz⚡️os,unresolved,0.0,STARTUP
+Swipe,Swipe,unresolved,0.0,STARTUP
+Neodocs,Neodocs,unresolved,0.0,STARTUP
+MobileBoost,MobileBoost,unresolved,0.0,STARTUP
+Sleek,Sleek,unresolved,0.0,STARTUP
+Bite Ninja,Bite Ninja,unresolved,0.0,STARTUP
+Anakin,Anakin,unresolved,0.0,STARTUP
+Dailybot,Dailybot,unresolved,0.0,STARTUP
+Tavus,Tavus,unresolved,0.0,STARTUP
+Konta.com,Konta.com,unresolved,0.0,STARTUP
+Verihubs,Verihubs,unresolved,0.0,STARTUP
+Secoda,Secoda,unresolved,0.0,STARTUP
+SalaryBox,SalaryBox,unresolved,0.0,STARTUP
+Sentiyen,Sentiyen,unresolved,0.0,STARTUP
+SenpAI.GG,SenpAI.GG,unresolved,0.0,STARTUP
+Warpfy,Warpfy,unresolved,0.0,STARTUP
+Milky Way AI,Milky Way AI,unresolved,0.0,STARTUP
+Mine,Mine,unresolved,0.0,STARTUP
+Zensors,Zensors,unresolved,0.0,STARTUP
+Mentum,Mentum,unresolved,0.0,STARTUP
+Writesonic,Writesonic,unresolved,0.0,STARTUP
+Revery AI,Revery AI,unresolved,0.0,STARTUP
+Adni,Adni,unresolved,0.0,STARTUP
+Hudson Labs (formerly Bedrock AI),Hudson Labs (formerly Bedrock AI),unresolved,0.0,STARTUP
+Vibe Kanban,Vibe Kanban,unresolved,0.0,STARTUP
+Caire Health,Caire Health,unresolved,0.0,STARTUP
+Squire.ai,Squire.ai,unresolved,0.0,STARTUP
+Spoken,Spoken,unresolved,0.0,STARTUP
+Adravision,Adravision,unresolved,0.0,STARTUP
+Medium Biosciences,Medium Biosciences,unresolved,0.0,STARTUP
+Safer Management,Safer Management,unresolved,0.0,STARTUP
+Sully.ai,Sully.ai,unresolved,0.0,STARTUP
+Andi,Andi,unresolved,0.0,STARTUP
+TigerEye,TigerEye,unresolved,0.0,STARTUP
+Moots,Moots,unresolved,0.0,STARTUP
+Capuchin,Capuchin,unresolved,0.0,STARTUP
+Trellus,Trellus,unresolved,0.0,STARTUP
+WeReno,WeReno,unresolved,0.0,STARTUP
+VantedgeAI,VantedgeAI,unresolved,0.0,STARTUP
+PromptLoop,PromptLoop,unresolved,0.0,STARTUP
+Cozmo AI,Cozmo AI,unresolved,0.0,STARTUP
+Stably AI (Orca),Stably AI (Orca),unresolved,0.0,STARTUP
+CoffeeAI,CoffeeAI,unresolved,0.0,STARTUP
+InferEdge,InferEdge,unresolved,0.0,STARTUP
+Industrial Next,Industrial Next,unresolved,0.0,STARTUP
+Rownd,Rownd,unresolved,0.0,STARTUP
+Iron Leap,Iron Leap,unresolved,0.0,STARTUP
+Unlayer,Unlayer,unresolved,0.0,STARTUP
+Fintelite,Fintelite,unresolved,0.0,STARTUP
+MosaicVoice,MosaicVoice,unresolved,0.0,STARTUP
+Beam,Beam,unresolved,0.0,STARTUP
+Sophys,Sophys,unresolved,0.0,STARTUP
+Armilla AI,Armilla AI,unresolved,0.0,STARTUP
+Emobi,Emobi,unresolved,0.0,STARTUP
+Reforged Labs,Reforged Labs,unresolved,0.0,STARTUP
+Speechly,Speechly,unresolved,0.0,STARTUP
+SkyLink,SkyLink,unresolved,0.0,STARTUP
+NearWave,NearWave,unresolved,0.0,STARTUP
+Cogram,Cogram,unresolved,0.0,STARTUP
+Cotera,Cotera,unresolved,0.0,STARTUP
+Strong Compute,Strong Compute,unresolved,0.0,STARTUP
+"Sendme, Inc","Sendme, Inc",unresolved,0.0,STARTUP
+Sprites,Sprites,unresolved,0.0,STARTUP
+goodfin,goodfin,unresolved,0.0,STARTUP
+AvairSense,AvairSense,unresolved,0.0,STARTUP
+IoTFlows Inc,IoTFlows Inc,unresolved,0.0,STARTUP
+Spade,Spade,unresolved,0.0,STARTUP
+RTHM,RTHM,unresolved,0.0,STARTUP
+Humand,Humand,unresolved,0.0,STARTUP
+Heptabase,Heptabase,unresolved,0.0,STARTUP
+Nara,Nara,unresolved,0.0,STARTUP
+Impossible Metals,Impossible Metals,unresolved,0.0,STARTUP
+Cellbyte,Cellbyte,unresolved,0.0,STARTUP
+GovDash,GovDash,unresolved,0.0,STARTUP
+KorrAI,KorrAI,unresolved,0.0,STARTUP
+Flike,Flike,unresolved,0.0,STARTUP
+Reality Defender,Reality Defender,unresolved,0.0,STARTUP
+WhiteLab Genomics,WhiteLab Genomics,unresolved,0.0,STARTUP
+Elessar,Elessar,unresolved,0.0,STARTUP
+Ciro,Ciro,unresolved,0.0,STARTUP
+Truva,Truva,unresolved,0.0,STARTUP
+Two Dots,Two Dots,unresolved,0.0,STARTUP
+Bunting Labs,Bunting Labs,unresolved,0.0,STARTUP
+Cerrion,Cerrion,unresolved,0.0,STARTUP
+Champ,Champ,unresolved,0.0,STARTUP
+Roxels,Roxels,unresolved,0.0,STARTUP
+Fetii,Fetii,unresolved,0.0,STARTUP
+Craze,Craze,unresolved,0.0,STARTUP
+NuMind,NuMind,unresolved,0.0,STARTUP
+Overwatch,Overwatch,unresolved,0.0,STARTUP
+Raven,Raven,unresolved,0.0,STARTUP
+Flair Labs,Flair Labs,unresolved,0.0,STARTUP
+Typewise,Typewise,unresolved,0.0,STARTUP
+NewsCatcher,NewsCatcher,unresolved,0.0,STARTUP
+Thera,Thera,unresolved,0.0,STARTUP
+Peoplebox.ai,Peoplebox.ai,unresolved,0.0,STARTUP
+Coris,Coris,unresolved,0.0,STARTUP
+AnythingLLM,AnythingLLM,unresolved,0.0,STARTUP
+FlyCode,FlyCode,unresolved,0.0,STARTUP
+Maya Labs,Maya Labs,unresolved,0.0,STARTUP
+Rima AI (formerly Garage),Rima AI (formerly Garage),unresolved,0.0,STARTUP
+Cobbery,Cobbery,unresolved,0.0,STARTUP
+Feather,Feather,unresolved,0.0,STARTUP
+Artemis Search,Artemis Search,unresolved,0.0,STARTUP
+Unthread,Unthread,unresolved,0.0,STARTUP
+Findly,Findly,unresolved,0.0,STARTUP
+Jasmine Energy,Jasmine Energy,unresolved,0.0,STARTUP
+Oneleet,Oneleet,unresolved,0.0,STARTUP
+Pump.co,Pump.co,unresolved,0.0,STARTUP
+Knowtex,Knowtex,unresolved,0.0,STARTUP
+CAPSULE,CAPSULE,unresolved,0.0,STARTUP
+InVision Medical Technology,InVision Medical Technology,unresolved,0.0,STARTUP
+Cambio,Cambio,unresolved,0.0,STARTUP
+Axle,Axle,unresolved,0.0,STARTUP
+Landeed,Landeed,unresolved,0.0,STARTUP
+Chima,Chima,unresolved,0.0,STARTUP
+Integrated Reasoning,Integrated Reasoning,unresolved,0.0,STARTUP
+Dev Tools AI,Dev Tools AI,unresolved,0.0,STARTUP
+Rubbrband,Rubbrband,unresolved,0.0,STARTUP
+Reflex,Reflex,unresolved,0.0,STARTUP
+Linum,Linum,unresolved,0.0,STARTUP
+Layup,Layup,unresolved,0.0,STARTUP
+Credal.ai,Credal.ai,unresolved,0.0,STARTUP
+Rollstack,Rollstack,unresolved,0.0,STARTUP
+Novelcare,Novelcare,unresolved,0.0,STARTUP
+Latent,Latent,unresolved,0.0,STARTUP
+Lynx,Lynx,unresolved,0.0,STARTUP
+Rubber Ducky Labs,Rubber Ducky Labs,unresolved,0.0,STARTUP
+Pair AI,Pair AI,unresolved,0.0,STARTUP
+Double – Coding Copilot,Double – Coding Copilot,unresolved,0.0,STARTUP
+Glass Health,Glass Health,unresolved,0.0,STARTUP
+Versive,Versive,unresolved,0.0,STARTUP
+Narrative,Narrative,unresolved,0.0,STARTUP
+Gluetrail,Gluetrail,unresolved,0.0,STARTUP
+infra.new,infra.new,unresolved,0.0,STARTUP
+PoplarML,PoplarML,unresolved,0.0,STARTUP
+Cosine,Cosine,unresolved,0.0,STARTUP
+No Cap,No Cap,unresolved,0.0,STARTUP
+Dream3D,Dream3D,unresolved,0.0,STARTUP
+DataSuite,DataSuite,unresolved,0.0,STARTUP
+Velos,Velos,unresolved,0.0,STARTUP
+Booth AI,Booth AI,unresolved,0.0,STARTUP
+Orchid,Orchid,unresolved,0.0,STARTUP
+1stCollab,1stCollab,unresolved,0.0,STARTUP
+Variance,Variance,unresolved,0.0,STARTUP
+Fintool,Fintool,unresolved,0.0,STARTUP
+FactIQ,FactIQ,unresolved,0.0,STARTUP
+Shortbread,Shortbread,unresolved,0.0,STARTUP
+CombineHealth,CombineHealth,unresolved,0.0,STARTUP
+Coldreach,Coldreach,unresolved,0.0,STARTUP
+Corgi Labs,Corgi Labs,unresolved,0.0,STARTUP
+DAGWorks Inc.,DAGWorks Inc.,unresolved,0.0,STARTUP
+Maxi,Maxi,unresolved,0.0,STARTUP
+Conduit,Conduit,unresolved,0.0,STARTUP
+Interlock,Interlock,unresolved,0.0,STARTUP
+rex.fit,rex.fit,unresolved,0.0,STARTUP
+Benchmark,Benchmark,unresolved,0.0,STARTUP
+Pier,Pier,unresolved,0.0,STARTUP
+Type,Type,unresolved,0.0,STARTUP
+Vendora,Vendora,unresolved,0.0,STARTUP
+LiteLLM,LiteLLM,unresolved,0.0,STARTUP
+Automat,Automat,unresolved,0.0,STARTUP
+Vaero,Vaero,unresolved,0.0,STARTUP
+Kino AI,Kino AI,unresolved,0.0,STARTUP
+Reworkd,Reworkd,unresolved,0.0,STARTUP
+Branch AI,Branch AI,unresolved,0.0,STARTUP
+Ora AI,Ora AI,unresolved,0.0,STARTUP
+Xeol,Xeol,unresolved,0.0,STARTUP
+Clearest Health,Clearest Health,unresolved,0.0,STARTUP
+Elyos AI,Elyos AI,unresolved,0.0,STARTUP
+Deasy Labs,Deasy Labs,unresolved,0.0,STARTUP
+Sohar Health,Sohar Health,unresolved,0.0,STARTUP
+Pointhound,Pointhound,unresolved,0.0,STARTUP
+Casca,Casca,unresolved,0.0,STARTUP
+Contour,Contour,unresolved,0.0,STARTUP
+Talc,Talc,unresolved,0.0,STARTUP
+CORE,CORE,unresolved,0.0,STARTUP
+Spine AI,Spine AI,unresolved,0.0,STARTUP
+Venta AI,Venta AI,unresolved,0.0,STARTUP
+Bronco AI,Bronco AI,unresolved,0.0,STARTUP
+Arcimus,Arcimus,unresolved,0.0,STARTUP
+Serra,Serra,unresolved,0.0,STARTUP
+Cardinal Gray,Cardinal Gray,unresolved,0.0,STARTUP
+Skyvern,Skyvern,unresolved,0.0,STARTUP
+Decoda Health,Decoda Health,unresolved,0.0,STARTUP
+VetRec,VetRec,unresolved,0.0,STARTUP
+Lysto,Lysto,unresolved,0.0,STARTUP
+MediSearch,MediSearch,unresolved,0.0,STARTUP
+Bretton AI,Bretton AI,unresolved,0.0,STARTUP
+AgentCollect,AgentCollect,unresolved,0.0,STARTUP
+Continue,Continue,unresolved,0.0,STARTUP
+sizeless,sizeless,unresolved,0.0,STARTUP
+Pincites,Pincites,unresolved,0.0,STARTUP
+Gleam,Gleam,unresolved,0.0,STARTUP
+Slicker,Slicker,unresolved,0.0,STARTUP
+Rankai,Rankai,unresolved,0.0,STARTUP
+Sola,Sola,unresolved,0.0,STARTUP
+VectorShift,VectorShift,unresolved,0.0,STARTUP
+DisputeNinja,DisputeNinja,unresolved,0.0,STARTUP
+Inari,Inari,unresolved,0.0,STARTUP
+Silimate,Silimate,unresolved,0.0,STARTUP
+Sweep,Sweep,unresolved,0.0,STARTUP
+Inventive AI,Inventive AI,unresolved,0.0,STARTUP
+Movley,Movley,unresolved,0.0,STARTUP
+Terracotta AI,Terracotta AI,unresolved,0.0,STARTUP
+Tiptap,Tiptap,unresolved,0.0,STARTUP
+Minded,Minded,unresolved,0.0,STARTUP
+Quill Bills,Quill Bills,unresolved,0.0,STARTUP
+Cair Health,Cair Health,unresolved,0.0,STARTUP
+Roame,Roame,unresolved,0.0,STARTUP
+Kips Health,Kips Health,unresolved,0.0,STARTUP
+Inconvo,Inconvo,unresolved,0.0,STARTUP
+FlowiseAI,FlowiseAI,unresolved,0.0,STARTUP
+Simbie AI,Simbie AI,unresolved,0.0,STARTUP
+Mocha,Mocha,unresolved,0.0,STARTUP
+Twine,Twine,unresolved,0.0,STARTUP
+Structured Labs,Structured Labs,unresolved,0.0,STARTUP
+Wattson Health,Wattson Health,unresolved,0.0,STARTUP
+truemetrics,truemetrics,unresolved,0.0,STARTUP
+Autotab,Autotab,unresolved,0.0,STARTUP
+Opensteer,Opensteer,unresolved,0.0,STARTUP
+Orbio Earth,Orbio Earth,unresolved,0.0,STARTUP
+Lantern,Lantern,unresolved,0.0,STARTUP
+DryMerge,DryMerge,unresolved,0.0,STARTUP
+OpenPipe,OpenPipe,unresolved,0.0,STARTUP
+RadMate AI,RadMate AI,unresolved,0.0,STARTUP
+Scritch,Scritch,unresolved,0.0,STARTUP
+Legora,Legora,unresolved,0.0,STARTUP
+Happenstance,Happenstance,unresolved,0.0,STARTUP
+Tekton Dynamics,Tekton Dynamics,unresolved,0.0,STARTUP
+Momentic,Momentic,unresolved,0.0,STARTUP
+Pretzel AI,Pretzel AI,unresolved,0.0,STARTUP
+nCompass Technologies,nCompass Technologies,unresolved,0.0,STARTUP
+Keystroke,Keystroke,unresolved,0.0,STARTUP
+Pivot Robotics,Pivot Robotics,unresolved,0.0,STARTUP
+Agentic Labs,Agentic Labs,unresolved,0.0,STARTUP
+Basalt,Basalt,unresolved,0.0,STARTUP
+Breez Labs,Breez Labs,unresolved,0.0,STARTUP
+PointOne,PointOne,unresolved,0.0,STARTUP
+Artisan,Artisan,unresolved,0.0,STARTUP
+Eggnog,Eggnog,unresolved,0.0,STARTUP
+Ecliptor,Ecliptor,unresolved,0.0,STARTUP
+Blume Benefits,Blume Benefits,unresolved,0.0,STARTUP
+Tusk,Tusk,unresolved,0.0,STARTUP
+Attunement,Attunement,unresolved,0.0,STARTUP
+StarJar,StarJar,unresolved,0.0,STARTUP
+Meticulate,Meticulate,unresolved,0.0,STARTUP
+Guide Labs,Guide Labs,unresolved,0.0,STARTUP
+Polished,Polished,unresolved,0.0,STARTUP
+LemonSlice,LemonSlice,unresolved,0.0,STARTUP
+Toolify,Toolify,unresolved,0.0,STARTUP
+Clarion,Clarion,unresolved,0.0,STARTUP
+Tamarind Bio,Tamarind Bio,unresolved,0.0,STARTUP
+GloGlo,GloGlo,unresolved,0.0,STARTUP
+Parallel,Parallel,unresolved,0.0,STARTUP
+Fuse,Fuse,unresolved,0.0,STARTUP
+Firebender,Firebender,unresolved,0.0,STARTUP
+Resonance,Resonance,unresolved,0.0,STARTUP
+Solari AI,Solari AI,unresolved,0.0,STARTUP
+Preloop,Preloop,unresolved,0.0,STARTUP
+Hazel,Hazel,unresolved,0.0,STARTUP
+Andy AI,Andy AI,unresolved,0.0,STARTUP
+OffDeal,OffDeal,unresolved,0.0,STARTUP
+Abel,Abel,unresolved,0.0,STARTUP
+EdgeTrace,EdgeTrace,unresolved,0.0,STARTUP
+Manifold Freight,Manifold Freight,unresolved,0.0,STARTUP
+ProSights,ProSights,unresolved,0.0,STARTUP
+Diana,Diana,unresolved,0.0,STARTUP
+Risotto,Risotto,unresolved,0.0,STARTUP
+JustAI,JustAI,unresolved,0.0,STARTUP
+BetterBasket,BetterBasket,unresolved,0.0,STARTUP
+Model ML,Model ML,unresolved,0.0,STARTUP
+Ligo Biosciences,Ligo Biosciences,unresolved,0.0,STARTUP
+Focal,Focal,unresolved,0.0,STARTUP
+Brainbase Labs,Brainbase Labs,unresolved,0.0,STARTUP
+Alai,Alai,unresolved,0.0,STARTUP
+Thorntale,Thorntale,unresolved,0.0,STARTUP
+Zep AI,Zep AI,unresolved,0.0,STARTUP
+Shepherd,Shepherd,unresolved,0.0,STARTUP
+Downlink,Downlink,unresolved,0.0,STARTUP
+camelAI,camelAI,unresolved,0.0,STARTUP
+Rove,Rove,unresolved,0.0,STARTUP
+Ocular AI,Ocular AI,unresolved,0.0,STARTUP
+Adapted,Adapted,unresolved,0.0,STARTUP
+Deepnight,Deepnight,unresolved,0.0,STARTUP
+Basepilot,Basepilot,unresolved,0.0,STARTUP
+Veles,Veles,unresolved,0.0,STARTUP
+Lumona,Lumona,unresolved,0.0,STARTUP
+Magic Hour,Magic Hour,unresolved,0.0,STARTUP
+Senso,Senso,unresolved,0.0,STARTUP
+Silogy,Silogy,unresolved,0.0,STARTUP
+Evolvere BioSciences,Evolvere BioSciences,unresolved,0.0,STARTUP
+Piramidal,Piramidal,unresolved,0.0,STARTUP
+VoxOps AI,VoxOps AI,unresolved,0.0,STARTUP
+Forge,Forge,unresolved,0.0,STARTUP
+Tower,Tower,unresolved,0.0,STARTUP
+kater.ai,kater.ai,unresolved,0.0,STARTUP
+Yarn,Yarn,unresolved,0.0,STARTUP
+GetCrux,GetCrux,unresolved,0.0,STARTUP
+Million,Million,unresolved,0.0,STARTUP
+Forge Rewards,Forge Rewards,unresolved,0.0,STARTUP
+Marr Labs,Marr Labs,unresolved,0.0,STARTUP
+Domu Technology Inc.,Domu Technology Inc.,unresolved,0.0,STARTUP
+Educato,Educato,unresolved,0.0,STARTUP
+ProhostAI,ProhostAI,unresolved,0.0,STARTUP
+Invaria,Invaria,unresolved,0.0,STARTUP
+Corgi Insurance,Corgi Insurance,unresolved,0.0,STARTUP
+Sorcerer,Sorcerer,unresolved,0.0,STARTUP
+FirstWork,FirstWork,unresolved,0.0,STARTUP
+Decisional AI,Decisional AI,unresolved,0.0,STARTUP
+Unbound,Unbound,unresolved,0.0,STARTUP
+Silurian,Silurian,unresolved,0.0,STARTUP
+NetworkOcean,NetworkOcean,unresolved,0.0,STARTUP
+Storia AI,Storia AI,unresolved,0.0,STARTUP
+Elevate,Elevate,unresolved,0.0,STARTUP
+RunLocal AI,RunLocal AI,unresolved,0.0,STARTUP
+CodeViz,CodeViz,unresolved,0.0,STARTUP
+Lore,Lore,unresolved,0.0,STARTUP
+MinusX,MinusX,unresolved,0.0,STARTUP
+Tivara,Tivara,unresolved,0.0,STARTUP
+Kenley,Kenley,unresolved,0.0,STARTUP
+Stormy,Stormy,unresolved,0.0,STARTUP
+Plume,Plume,unresolved,0.0,STARTUP
+Modus,Modus,unresolved,0.0,STARTUP
+Lighthouz AI,Lighthouz AI,unresolved,0.0,STARTUP
+TaxGPT,TaxGPT,unresolved,0.0,STARTUP
+Benchify,Benchify,unresolved,0.0,STARTUP
+Anthrogen,Anthrogen,unresolved,0.0,STARTUP
+Aluna,Aluna,unresolved,0.0,STARTUP
+Ontra Mobility,Ontra Mobility,unresolved,0.0,STARTUP
+Overstand Labs,Overstand Labs,unresolved,0.0,STARTUP
+Anara,Anara,unresolved,0.0,STARTUP
+Redouble AI,Redouble AI,unresolved,0.0,STARTUP
+Drillbit,Drillbit,unresolved,0.0,STARTUP
+Opslane,Opslane,unresolved,0.0,STARTUP
+Conductor Quantum,Conductor Quantum,unresolved,0.0,STARTUP
+Remade,Remade,unresolved,0.0,STARTUP
+Zeit AI,Zeit AI,unresolved,0.0,STARTUP
+Parley,Parley,unresolved,0.0,STARTUP
+Soff,Soff,unresolved,0.0,STARTUP
+Sensei,Sensei,unresolved,0.0,STARTUP
+YouShift,YouShift,unresolved,0.0,STARTUP
+Baseline AI,Baseline AI,unresolved,0.0,STARTUP
+Thyme,Thyme,unresolved,0.0,STARTUP
+Handled,Handled,unresolved,0.0,STARTUP
+ZeroPath,ZeroPath,unresolved,0.0,STARTUP
+Propaya,Propaya,unresolved,0.0,STARTUP
+Polymet,Polymet,unresolved,0.0,STARTUP
+autarc,autarc,unresolved,0.0,STARTUP
+Assembly HOA,Assembly HOA,unresolved,0.0,STARTUP
+Draft The Record,Draft The Record,unresolved,0.0,STARTUP
+Typa,Typa,unresolved,0.0,STARTUP
+Quetzal,Quetzal,unresolved,0.0,STARTUP
+Rastro,Rastro,unresolved,0.0,STARTUP
+Elayne,Elayne,unresolved,0.0,STARTUP
+Usul,Usul,unresolved,0.0,STARTUP
+Keet,Keet,unresolved,0.0,STARTUP
+Vera Health,Vera Health,unresolved,0.0,STARTUP
+Anglera,Anglera,unresolved,0.0,STARTUP
+Void,Void,unresolved,0.0,STARTUP
+Overlap,Overlap,unresolved,0.0,STARTUP
+Affil.ai,Affil.ai,unresolved,0.0,STARTUP
+Arva AI,Arva AI,unresolved,0.0,STARTUP
+Syntra,Syntra,unresolved,0.0,STARTUP
+Conductor,Conductor,unresolved,0.0,STARTUP
+Onlook,Onlook,unresolved,0.0,STARTUP
+Zeroframe,Zeroframe,unresolved,0.0,STARTUP
+Galini,Galini,unresolved,0.0,STARTUP
+Openbenchmarks,Openbenchmarks,unresolved,0.0,STARTUP
+Raycaster,Raycaster,unresolved,0.0,STARTUP
+Revyl,Revyl,unresolved,0.0,STARTUP
+Vortexify,Vortexify,unresolved,0.0,STARTUP
+Vespper,Vespper,unresolved,0.0,STARTUP
+attimet,attimet,unresolved,0.0,STARTUP
+RiskCube,RiskCube,unresolved,0.0,STARTUP
+Freebuff,Freebuff,unresolved,0.0,STARTUP
+Pearson Labs,Pearson Labs,unresolved,0.0,STARTUP
+AutoComputer,AutoComputer,unresolved,0.0,STARTUP
+Moonshine,Moonshine,unresolved,0.0,STARTUP
+Consus,Consus,unresolved,0.0,STARTUP
+Innate,Innate,unresolved,0.0,STARTUP
+Gander,Gander,unresolved,0.0,STARTUP
+Struct,Struct,unresolved,0.0,STARTUP
+Melder,Melder,unresolved,0.0,STARTUP
+Freestyle,Freestyle,unresolved,0.0,STARTUP
+HumanLayer,HumanLayer,unresolved,0.0,STARTUP
+Quantstruct,Quantstruct,unresolved,0.0,STARTUP
+Edexia,Edexia,unresolved,0.0,STARTUP
+Outship,Outship,unresolved,0.0,STARTUP
+Candor,Candor,unresolved,0.0,STARTUP
+Leaping AI,Leaping AI,unresolved,0.0,STARTUP
+Praxim,Praxim,unresolved,0.0,STARTUP
+Alice.tech,Alice.tech,unresolved,0.0,STARTUP
+Dartboard,Dartboard,unresolved,0.0,STARTUP
+Vocality Health,Vocality Health,unresolved,0.0,STARTUP
+Scout,Scout,unresolved,0.0,STARTUP
+Promptless,Promptless,unresolved,0.0,STARTUP
+Truffle AI,Truffle AI,unresolved,0.0,STARTUP
+Toothy AI,Toothy AI,unresolved,0.0,STARTUP
+a0.dev,a0.dev,unresolved,0.0,STARTUP
+Elip AI,Elip AI,unresolved,0.0,STARTUP
+Caseflood.ai,Caseflood.ai,unresolved,0.0,STARTUP
+Maive,Maive,unresolved,0.0,STARTUP
+Adam,Adam,unresolved,0.0,STARTUP
+Cardamon,Cardamon,unresolved,0.0,STARTUP
+Swerve,Swerve,unresolved,0.0,STARTUP
+Osmosis,Osmosis,unresolved,0.0,STARTUP
+Mecha Health,Mecha Health,unresolved,0.0,STARTUP
+Cuckoo Labs,Cuckoo Labs,unresolved,0.0,STARTUP
+HUD,HUD,unresolved,0.0,STARTUP
+Olive,Olive,unresolved,0.0,STARTUP
+Gale,Gale,unresolved,0.0,STARTUP
+Asteroid,Asteroid,unresolved,0.0,STARTUP
+Pickle,Pickle,unresolved,0.0,STARTUP
+Lopus,Lopus,unresolved,0.0,STARTUP
+Lucidic AI,Lucidic AI,unresolved,0.0,STARTUP
+Candor,Candor,unresolved,0.0,STARTUP
+Trata,Trata,unresolved,0.0,STARTUP
+Exla,Exla,unresolved,0.0,STARTUP
+Nitrode,Nitrode,unresolved,0.0,STARTUP
+Outlit,Outlit,unresolved,0.0,STARTUP
+Artificial Societies,Artificial Societies,unresolved,0.0,STARTUP
+Pinch,Pinch,unresolved,0.0,STARTUP
+Proception Inc,Proception Inc,unresolved,0.0,STARTUP
+Spott,Spott,unresolved,0.0,STARTUP
+TamLabs,TamLabs,unresolved,0.0,STARTUP
+Browser Use,Browser Use,unresolved,0.0,STARTUP
+Mentra,Mentra,unresolved,0.0,STARTUP
+Blaxel,Blaxel,unresolved,0.0,STARTUP
+Golf,Golf,unresolved,0.0,STARTUP
+Serafis,Serafis,unresolved,0.0,STARTUP
+Synthio Labs,Synthio Labs,unresolved,0.0,STARTUP
+neoncoral,neoncoral,unresolved,0.0,STARTUP
+Acolite,Acolite,unresolved,0.0,STARTUP
+Zeon Systems,Zeon Systems,unresolved,0.0,STARTUP
+Hanji,Hanji,unresolved,0.0,STARTUP
+Percival,Percival,unresolved,0.0,STARTUP
+Kestral,Kestral,unresolved,0.0,STARTUP
+Parsewise,Parsewise,unresolved,0.0,STARTUP
+Tinfoil,Tinfoil,unresolved,0.0,STARTUP
+Tegore,Tegore,unresolved,0.0,STARTUP
+throxy,throxy,unresolved,0.0,STARTUP
+Anana,Anana,unresolved,0.0,STARTUP
+IRBC,IRBC,unresolved,0.0,STARTUP
+Theta,Theta,unresolved,0.0,STARTUP
+Human Behavior,Human Behavior,unresolved,0.0,STARTUP
+Besimple AI,Besimple AI,unresolved,0.0,STARTUP
+Cartpole,Cartpole,unresolved,0.0,STARTUP
+Boost Robotics,Boost Robotics,unresolved,0.0,STARTUP
+Bramante,Bramante,unresolved,0.0,STARTUP
+Orchid,Orchid,unresolved,0.0,STARTUP
+Kairos,Kairos,unresolved,0.0,STARTUP
+Adentris,Adentris,unresolved,0.0,STARTUP
+Moby Analytics,Moby Analytics,unresolved,0.0,STARTUP
+Code Four,Code Four,unresolved,0.0,STARTUP
+Cactus,Cactus,unresolved,0.0,STARTUP
+Wavedash,Wavedash,unresolved,0.0,STARTUP
+Text.ai,Text.ai,unresolved,0.0,STARTUP
+Blueshoe,Blueshoe,unresolved,0.0,STARTUP
+Godela,Godela,unresolved,0.0,STARTUP
+Docket,Docket,unresolved,0.0,STARTUP
+Autonomous Technologies Group,Autonomous Technologies Group,unresolved,0.0,STARTUP
+Prox,Prox,unresolved,0.0,STARTUP
+Adaptional,Adaptional,unresolved,0.0,STARTUP
+Meteor,Meteor,unresolved,0.0,STARTUP
+Closera,Closera,unresolved,0.0,STARTUP
+TraceRoot.AI,TraceRoot.AI,unresolved,0.0,STARTUP
+truthsystems,truthsystems,unresolved,0.0,STARTUP
+Datafruit,Datafruit,unresolved,0.0,STARTUP
+Lark,Lark,unresolved,0.0,STARTUP
+EffiGov,EffiGov,unresolved,0.0,STARTUP
+Design Arena,Design Arena,unresolved,0.0,STARTUP
+Monarcha,Monarcha,unresolved,0.0,STARTUP
+Nuntius,Nuntius,unresolved,0.0,STARTUP
+Cyberdesk,Cyberdesk,unresolved,0.0,STARTUP
+Frizzle,Frizzle,unresolved,0.0,STARTUP
+Nori,Nori,unresolved,0.0,STARTUP
+Proliferate,Proliferate,unresolved,0.0,STARTUP
+DeepAware AI (Robotics Center of Silicon Valley),DeepAware AI (Robotics Center of Silicon Valley),unresolved,0.0,STARTUP
+Kestroll,Kestroll,unresolved,0.0,STARTUP
+Stellon Labs,Stellon Labs,unresolved,0.0,STARTUP
+Doe,Doe,unresolved,0.0,STARTUP
+Embedder,Embedder,unresolved,0.0,STARTUP
+Channel3,Channel3,unresolved,0.0,STARTUP
+Normal,Normal,unresolved,0.0,STARTUP
+VibeFlow,VibeFlow,unresolved,0.0,STARTUP
+Nozomio,Nozomio,unresolved,0.0,STARTUP
+TwentyTwo,TwentyTwo,unresolved,0.0,STARTUP
+Char,Char,unresolved,0.0,STARTUP
+Relling,Relling,unresolved,0.0,STARTUP
+Motives,Motives,unresolved,0.0,STARTUP
+Autosana,Autosana,unresolved,0.0,STARTUP
+Knowlify,Knowlify,unresolved,0.0,STARTUP
+Omnara,Omnara,unresolved,0.0,STARTUP
+Alara,Alara,unresolved,0.0,STARTUP
+OS3,OS3,unresolved,0.0,STARTUP
+Floot,Floot,unresolved,0.0,STARTUP
+Maximal,Maximal,unresolved,0.0,STARTUP
+PARES AI,PARES AI,unresolved,0.0,STARTUP
+Altur,Altur,unresolved,0.0,STARTUP
+Pally,Pally,unresolved,0.0,STARTUP
+Reacher,Reacher,unresolved,0.0,STARTUP
+CLODO,CLODO,unresolved,0.0,STARTUP
+Fleetline,Fleetline,unresolved,0.0,STARTUP
+Modelence,Modelence,unresolved,0.0,STARTUP
+TectoAI,TectoAI,unresolved,0.0,STARTUP
+RowFlow,RowFlow,unresolved,0.0,STARTUP
+NOSO LABS,NOSO LABS,unresolved,0.0,STARTUP
+Luminal,Luminal,unresolved,0.0,STARTUP
+Paloma,Paloma,unresolved,0.0,STARTUP
+Mixy,Mixy,unresolved,0.0,STARTUP
+Uplane,Uplane,unresolved,0.0,STARTUP
+Zavo,Zavo,unresolved,0.0,STARTUP
+Nexus,Nexus,unresolved,0.0,STARTUP
+Bolna AI,Bolna AI,unresolved,0.0,STARTUP
+Scoop,Scoop,unresolved,0.0,STARTUP
+Caddy,Caddy,unresolved,0.0,STARTUP
+The Context Company,The Context Company,unresolved,0.0,STARTUP
+Norra,Norra,unresolved,0.0,STARTUP
+Tell if AI,Tell if AI,unresolved,0.0,STARTUP
+Flick,Flick,unresolved,0.0,STARTUP
+SellRaze,SellRaze,unresolved,0.0,STARTUP
+Unsiloed AI,Unsiloed AI,unresolved,0.0,STARTUP
+LogosGuard,LogosGuard,unresolved,0.0,STARTUP
+Agentic Fabriq,Agentic Fabriq,unresolved,0.0,STARTUP
+Aleph Lab,Aleph Lab,unresolved,0.0,STARTUP
+Helonic,Helonic,unresolved,0.0,STARTUP
+FinalDose,FinalDose,unresolved,0.0,STARTUP
+Rovr,Rovr,unresolved,0.0,STARTUP
+Radius,Radius,unresolved,0.0,STARTUP
+Cortex AI,Cortex AI,unresolved,0.0,STARTUP
+Patent Watch,Patent Watch,unresolved,0.0,STARTUP
+Anto Biosciences,Anto Biosciences,unresolved,0.0,STARTUP
+Aside,Aside,unresolved,0.0,STARTUP
+Sourcebot,Sourcebot,unresolved,0.0,STARTUP
+Relaw,Relaw,unresolved,0.0,STARTUP
+Specific,Specific,unresolved,0.0,STARTUP
+Perseus,Perseus,unresolved,0.0,STARTUP
+MadeThis,MadeThis,unresolved,0.0,STARTUP
+Layers,Layers,unresolved,0.0,STARTUP
+DiligenceSquared,DiligenceSquared,unresolved,0.0,STARTUP
+Axial,Axial,unresolved,0.0,STARTUP
+Clicks Health,Clicks Health,unresolved,0.0,STARTUP
+Openroll,Openroll,unresolved,0.0,STARTUP
+Ndea,Ndea,unresolved,0.0,STARTUP
+Haladir,Haladir,unresolved,0.0,STARTUP
+Linzumi,Linzumi,unresolved,0.0,STARTUP
+OneTriangle,OneTriangle,unresolved,0.0,STARTUP
+Imperfect,Imperfect,unresolved,0.0,STARTUP
+Piris Labs,Piris Labs,unresolved,0.0,STARTUP
+RamAIn,RamAIn,unresolved,0.0,STARTUP
+Salus,Salus,unresolved,0.0,STARTUP
+Rapidfolio,Rapidfolio,unresolved,0.0,STARTUP
+IncidentFox,IncidentFox,unresolved,0.0,STARTUP
+Instinct,Instinct,unresolved,0.0,STARTUP
+Revion,Revion,unresolved,0.0,STARTUP
+Ressl AI,Ressl AI,unresolved,0.0,STARTUP
+Sitefire,Sitefire,unresolved,0.0,STARTUP
+Bubble Lab,Bubble Lab,unresolved,0.0,STARTUP
+Archal,Archal,unresolved,0.0,STARTUP
+Voxel Energy,Voxel Energy,unresolved,0.0,STARTUP
+Superset,Superset,unresolved,0.0,STARTUP
+Datoric,Datoric,unresolved,0.0,STARTUP
+Servo7,Servo7,unresolved,0.0,STARTUP
+Foreman,Foreman,unresolved,0.0,STARTUP
+Turnstone,Turnstone,unresolved,0.0,STARTUP
+Atlia,Atlia,unresolved,0.0,STARTUP
+Dream,Dream,unresolved,0.0,STARTUP
+Tsenta,Tsenta,unresolved,0.0,STARTUP
+Veriad,Veriad,unresolved,0.0,STARTUP
+Poth Labs,Poth Labs,unresolved,0.0,STARTUP
+Shofo,Shofo,unresolved,0.0,STARTUP
+Illume Labs,Illume Labs,unresolved,0.0,STARTUP
+Multiplier,Multiplier,unresolved,0.0,STARTUP
+Marker,Marker,unresolved,0.0,STARTUP
+Twolabs,Twolabs,unresolved,0.0,STARTUP
+Zenbu,Zenbu,unresolved,0.0,STARTUP
+Light Anchor,Light Anchor,unresolved,0.0,STARTUP
+GodHands,GodHands,unresolved,0.0,STARTUP
+Superlog,Superlog,unresolved,0.0,STARTUP
+Keyframe Labs,Keyframe Labs,unresolved,0.0,STARTUP
+Pops,Pops,unresolved,0.0,STARTUP
+Uno Wallet,Uno Wallet,unresolved,0.0,STARTUP
+Trident,Trident,unresolved,0.0,STARTUP
+rekursiv.ai,rekursiv.ai,unresolved,0.0,STARTUP
+Amorphic Labs,Amorphic Labs,unresolved,0.0,STARTUP
+Proprio Robotics,Proprio Robotics,unresolved,0.0,STARTUP
+Kebra,Kebra,unresolved,0.0,STARTUP
+Erinys,Erinys,unresolved,0.0,STARTUP
+Perceptron ML,Perceptron ML,unresolved,0.0,STARTUP
+Olam Labs,Olam Labs,unresolved,0.0,STARTUP
+Trope,Trope,unresolved,0.0,STARTUP
+Palisade,Palisade,unresolved,0.0,STARTUP
+Zomma,Zomma,unresolved,0.0,STARTUP
+Rex,Rex,unresolved,0.0,STARTUP
+IMPACT Drones,IMPACT Drones,unresolved,0.0,STARTUP
+GUILD,GUILD,unresolved,0.0,STARTUP
+Mosaic,Mosaic,unresolved,0.0,STARTUP
+DeepReach Inc.,DeepReach Inc.,unresolved,0.0,STARTUP
+COACH,COACH,unresolved,0.0,STARTUP
+Grocalo,Grocalo,unresolved,0.0,STARTUP
+Touchmark,Touchmark,unresolved,0.0,STARTUP
+Prodigy Research,Prodigy Research,unresolved,0.0,STARTUP
+Zaplar,Zaplar,unresolved,0.0,STARTUP
+Rasyn,Rasyn,unresolved,0.0,STARTUP
+Alkera AI,Alkera AI,unresolved,0.0,STARTUP
+Definite,Definite,unresolved,0.0,STARTUP
+Traceforce,Traceforce,unresolved,0.0,STARTUP
+Stratum Industries,Stratum Industries,unresolved,0.0,STARTUP
+Bloomy,Bloomy,unresolved,0.0,STARTUP
+Ooak Data,Ooak Data,unresolved,0.0,STARTUP
+Almanac,Almanac,unresolved,0.0,STARTUP
+Whitespace,Whitespace,unresolved,0.0,STARTUP
+Click,Click,unresolved,0.0,STARTUP
+Vendo,Vendo,unresolved,0.0,STARTUP
+Rational,Rational,unresolved,0.0,STARTUP
+Fabraix,Fabraix,unresolved,0.0,STARTUP
+Risklytics,Risklytics,unresolved,0.0,STARTUP
+Arbital,Arbital,unresolved,0.0,STARTUP
+Isengard Industries Inc,Isengard Industries Inc,unresolved,0.0,STARTUP
+Computable,Computable,unresolved,0.0,STARTUP
+Last Accounting Company,Last Accounting Company,unresolved,0.0,STARTUP
+Executor,Executor,unresolved,0.0,STARTUP
+Waybill,Waybill,unresolved,0.0,STARTUP
+Marengo,Marengo,unresolved,0.0,STARTUP
+Agnost AI,Agnost AI,unresolved,0.0,STARTUP
+Axelrod,Axelrod,unresolved,0.0,STARTUP
+CarSignal,CarSignal,unresolved,0.0,STARTUP
+Skymerse,Skymerse,unresolved,0.0,STARTUP
+HyperProbe,HyperProbe,unresolved,0.0,STARTUP
+TovenAI,TovenAI,unresolved,0.0,STARTUP
+Dock,Dock,unresolved,0.0,STARTUP
+Agent FM,Agent FM,unresolved,0.0,STARTUP
+PRINCEPS,PRINCEPS,unresolved,0.0,STARTUP
+Hebbian Robotics,Hebbian Robotics,unresolved,0.0,STARTUP
+Dawn Industries,Dawn Industries,unresolved,0.0,STARTUP
+hiloop,hiloop,unresolved,0.0,STARTUP
+Robocurve,Robocurve,unresolved,0.0,STARTUP
+Allia Health,Allia Health,unresolved,0.0,STARTUP
+hardware intelligence,hardware intelligence,unresolved,0.0,STARTUP
+Billow AI Labs,Billow AI Labs,unresolved,0.0,STARTUP
+CoArena,CoArena,unresolved,0.0,STARTUP
+Conifer,Conifer,unresolved,0.0,STARTUP
+herdr,herdr,unresolved,0.0,STARTUP
+Simulithic,Simulithic,unresolved,0.0,STARTUP
+Qokedas,Qokedas,unresolved,0.0,STARTUP
+Forward,Forward,unresolved,0.0,STARTUP
+Lantern AI,Lantern AI,unresolved,0.0,STARTUP
+Vorelios,Vorelios,unresolved,0.0,STARTUP
+Redoubt Insurance,Redoubt Insurance,unresolved,0.0,STARTUP
+LeadGenius,LeadGenius,exact,1.0,PRODUCT
+Plivo,Plivo,exact,1.0,PRODUCT
+RADAR,RADAR,exact,1.0,PRODUCT
+Cruise,Cruise,exact,1.0,PRODUCT
+MixerBox,MixerBox,exact,1.0,PRODUCT
+Akido Labs,Akido Labs,exact,1.0,PRODUCT
+Paperspace,Paperspace,exact,1.0,PRODUCT
+Smarking,Smarking,exact,1.0,PRODUCT
+Resolve,Resolve,exact,1.0,PRODUCT
+SigOpt,SigOpt,exact,1.0,PRODUCT
+Tara AI,Tara AI,exact,1.0,PRODUCT
+SnapMagic,SnapMagic,exact,1.0,PRODUCT
+Microhealth,Microhealth,exact,1.0,PRODUCT
+Deepgram,Deepgram,exact,1.0,PRODUCT
+Daily,Daily,exact,1.0,PRODUCT
+Netomi,Netomi,exact,1.0,PRODUCT
+Podium,Podium,exact,1.0,PRODUCT
+HistoWiz,HistoWiz,exact,1.0,PRODUCT
+Sendbird,Sendbird,exact,1.0,PRODUCT
+Iris Automation,Iris Automation,exact,1.0,PRODUCT
+OneChronos,OneChronos,exact,1.0,PRODUCT
+Airo Health,Airo Health,exact,1.0,PRODUCT
+Athelas,Athelas,exact,1.0,PRODUCT
+Entry,Entry,exact,1.0,PRODUCT
+"Veryfi, Inc.","Veryfi, Inc.",exact,1.0,PRODUCT
+AlemHealth,AlemHealth,exact,1.0,PRODUCT
+NanoNets,NanoNets,exact,1.0,PRODUCT
+Ridecell,Ridecell,exact,1.0,PRODUCT
+Skyways,Skyways,exact,1.0,PRODUCT
+Standard AI,Standard AI,exact,1.0,PRODUCT
+Spect,Spect,exact,1.0,PRODUCT
+AssemblyAI,AssemblyAI,exact,1.0,PRODUCT
+Thematic,Thematic,exact,1.0,PRODUCT
+FollowUpThen,FollowUpThen,exact,1.0,PRODUCT
+Jasper.ai,Jasper.ai,exact,1.0,PRODUCT
+Assembly,Assembly,exact,1.0,PRODUCT
+Fondo,Fondo,exact,1.0,PRODUCT
+Weekend (fmr. Volley),Weekend (fmr. Volley),exact,1.0,PRODUCT
+Tilt (f.k.a. Delphia),Tilt (f.k.a. Delphia),exact,1.0,PRODUCT
+Memora Health,Memora Health,exact,1.0,PRODUCT
+Observe.AI,Observe.AI,exact,1.0,PRODUCT
+Helloverify,Helloverify,exact,1.0,PRODUCT
+Within,Within,exact,1.0,PRODUCT
+Searchlight,Searchlight,exact,1.0,PRODUCT
+JITX,JITX,exact,1.0,PRODUCT
+Anima App,Anima App,exact,1.0,PRODUCT
+LabelFlow,LabelFlow,exact,1.0,PRODUCT
+Regology,Regology,exact,1.0,PRODUCT
+Alpha Vantage,Alpha Vantage,exact,1.0,PRODUCT
+Prodigal,Prodigal,exact,1.0,PRODUCT
+TENDERD,TENDERD,unresolved,0.0,PRODUCT
+SPATE,SPATE,unresolved,0.0,PRODUCT
+LemonBox,LemonBox,unresolved,0.0,PRODUCT
+Aesthetic,Aesthetic,unresolved,0.0,PRODUCT
+Overview,Overview,unresolved,0.0,PRODUCT
+AllSome Fulfillment,AllSome Fulfillment,unresolved,0.0,PRODUCT
+Hatch,Hatch,unresolved,0.0,PRODUCT
+BrainKey,BrainKey,unresolved,0.0,PRODUCT
+Tailornova/Couturme,Tailornova/Couturme,unresolved,0.0,PRODUCT
+Demodesk,Demodesk,unresolved,0.0,PRODUCT
+Probably Genetic,Probably Genetic,unresolved,0.0,PRODUCT
+Bunkerhill Health,Bunkerhill Health,unresolved,0.0,PRODUCT
+Autodial prev Qwest,Autodial prev Qwest,unresolved,0.0,PRODUCT
+Hypnos,Hypnos,unresolved,0.0,PRODUCT
+Allure Systems,Allure Systems,unresolved,0.0,PRODUCT
+Kraftful,Kraftful,unresolved,0.0,PRODUCT
+Soteris,Soteris,unresolved,0.0,PRODUCT
+Yummy Future,Yummy Future,unresolved,0.0,PRODUCT
+Rosebud AI,Rosebud AI,unresolved,0.0,PRODUCT
+Tensil,Tensil,unresolved,0.0,PRODUCT
+Vahan,Vahan,unresolved,0.0,PRODUCT
+Finlens,Finlens,unresolved,0.0,PRODUCT
+Hightouch,Hightouch,unresolved,0.0,PRODUCT
+Meridian Industries,Meridian Industries,unresolved,0.0,PRODUCT
+Taskade,Taskade,unresolved,0.0,PRODUCT
+Motion,Motion,unresolved,0.0,PRODUCT
+Flowglad,Flowglad,unresolved,0.0,PRODUCT
+MindsDB,MindsDB,unresolved,0.0,PRODUCT
+Segmed,Segmed,unresolved,0.0,PRODUCT
+Nextmv,Nextmv,unresolved,0.0,PRODUCT
+Datasaur,Datasaur,unresolved,0.0,PRODUCT
+Dashworks,Dashworks,unresolved,0.0,PRODUCT
+Replicate,Replicate,unresolved,0.0,PRODUCT
+Basedash,Basedash,unresolved,0.0,PRODUCT
+Clayboard,Clayboard,unresolved,0.0,PRODUCT
+Visual One,Visual One,unresolved,0.0,PRODUCT
+Ello,Ello,unresolved,0.0,PRODUCT
+QueryPie AI,QueryPie AI,unresolved,0.0,PRODUCT
+Kinter,Kinter,unresolved,0.0,PRODUCT
+Dropbase,Dropbase,unresolved,0.0,PRODUCT
+Photoroom,Photoroom,unresolved,0.0,PRODUCT
+Modernbanc,Modernbanc,unresolved,0.0,PRODUCT
+Recurrency,Recurrency,unresolved,0.0,PRODUCT
+UrbanKisaan,UrbanKisaan,unresolved,0.0,PRODUCT
+Atmo,Atmo,unresolved,0.0,PRODUCT
+Airbyte,Airbyte,unresolved,0.0,PRODUCT
+Legionfarm,Legionfarm,unresolved,0.0,PRODUCT
+Algen Biotechnologies,Algen Biotechnologies,unresolved,0.0,PRODUCT
+Roboflow,Roboflow,unresolved,0.0,PRODUCT
+inFeedo AI,inFeedo AI,unresolved,0.0,PRODUCT
+Datafold,Datafold,unresolved,0.0,PRODUCT
+Hypotenuse AI,Hypotenuse AI,unresolved,0.0,PRODUCT
+CoreCare,CoreCare,unresolved,0.0,PRODUCT
+Humanloop,Humanloop,unresolved,0.0,PRODUCT
+Nextera Robotics | DIDGE.ai,Nextera Robotics | DIDGE.ai,unresolved,0.0,PRODUCT
+BIK,BIK,unresolved,0.0,PRODUCT
+Aquarium Learning,Aquarium Learning,unresolved,0.0,PRODUCT
+Dataland,Dataland,unresolved,0.0,PRODUCT
+Mito,Mito,unresolved,0.0,PRODUCT
+"Warmly,","Warmly,",unresolved,0.0,PRODUCT
+Heron Data,Heron Data,unresolved,0.0,PRODUCT
+Degrees of Freedom,Degrees of Freedom,unresolved,0.0,PRODUCT
+Humaans,Humaans,unresolved,0.0,PRODUCT
+RocketSDR,RocketSDR,unresolved,0.0,PRODUCT
+Flux Auto,Flux Auto,unresolved,0.0,PRODUCT
+Avocado,Avocado,unresolved,0.0,PRODUCT
+Pragmatic Leaders (Ankai Inc),Pragmatic Leaders (Ankai Inc),unresolved,0.0,PRODUCT
+Encord,Encord,unresolved,0.0,PRODUCT
+Cyble,Cyble,unresolved,0.0,PRODUCT
+Expent Inc,Expent Inc,unresolved,0.0,PRODUCT
+Version Story Compare,Version Story Compare,unresolved,0.0,PRODUCT
+Parsagon,Parsagon,unresolved,0.0,PRODUCT
+Quadrant Health,Quadrant Health,unresolved,0.0,PRODUCT
+Popl,Popl,unresolved,0.0,PRODUCT
+Fathom,Fathom,unresolved,0.0,PRODUCT
+LiveFlow,LiveFlow,unresolved,0.0,PRODUCT
+Datrics,Datrics,unresolved,0.0,PRODUCT
+Tractian,Tractian,unresolved,0.0,PRODUCT
+unSurvey,unSurvey,unresolved,0.0,PRODUCT
+Reclaim Protocol,Reclaim Protocol,unresolved,0.0,PRODUCT
+Biodock,Biodock,unresolved,0.0,PRODUCT
+Lamar Health,Lamar Health,unresolved,0.0,PRODUCT
+Rejoy Health,Rejoy Health,unresolved,0.0,PRODUCT
+Gigs,Gigs,unresolved,0.0,PRODUCT
+Friz,Friz,unresolved,0.0,PRODUCT
+MindPortal,MindPortal,unresolved,0.0,PRODUCT
+Waydev,Waydev,unresolved,0.0,PRODUCT
+AXAR AI,AXAR AI,unresolved,0.0,PRODUCT
+Journey,Journey,unresolved,0.0,PRODUCT
+Legion Health,Legion Health,unresolved,0.0,PRODUCT
+Superwall,Superwall,unresolved,0.0,PRODUCT
+Mindstate Design Labs,Mindstate Design Labs,unresolved,0.0,PRODUCT
+Jestor,Jestor,unresolved,0.0,PRODUCT
+Potion,Potion,unresolved,0.0,PRODUCT
+Replo,Replo,unresolved,0.0,PRODUCT
+FirstQuadrant,FirstQuadrant,unresolved,0.0,PRODUCT
+Kalam Labs,Kalam Labs,unresolved,0.0,PRODUCT
+Affogato AI,Affogato AI,unresolved,0.0,PRODUCT
+Coulomb AI,Coulomb AI,unresolved,0.0,PRODUCT
+Confido,Confido,unresolved,0.0,PRODUCT
+Instalab,Instalab,unresolved,0.0,PRODUCT
+RGI Labs,RGI Labs,unresolved,0.0,PRODUCT
+Soco,Soco,unresolved,0.0,PRODUCT
+SnapCalorie,SnapCalorie,unresolved,0.0,PRODUCT
+Kaya,Kaya,unresolved,0.0,PRODUCT
+Redbean,Redbean,unresolved,0.0,PRODUCT
+Hyperbrowser,Hyperbrowser,unresolved,0.0,PRODUCT
+Tiriel AI,Tiriel AI,unresolved,0.0,PRODUCT
+DigiBuild,DigiBuild,unresolved,0.0,PRODUCT
+OneStopKitchen,OneStopKitchen,unresolved,0.0,PRODUCT
+Scispot,Scispot,unresolved,0.0,PRODUCT
+Coinrule,Coinrule,unresolved,0.0,PRODUCT
+Malloc Inc,Malloc Inc,unresolved,0.0,PRODUCT
+ShipBlu,ShipBlu,unresolved,0.0,PRODUCT
+GetDot,GetDot,unresolved,0.0,PRODUCT
+Miniloop,Miniloop,unresolved,0.0,PRODUCT
+OneSchema,OneSchema,unresolved,0.0,PRODUCT
+Forage Mail,Forage Mail,unresolved,0.0,PRODUCT
+aSim,aSim,unresolved,0.0,PRODUCT
+Spark Studio,Spark Studio,unresolved,0.0,PRODUCT
+Mach9,Mach9,unresolved,0.0,PRODUCT
+Tenyks,Tenyks,unresolved,0.0,PRODUCT
+Telmai,Telmai,unresolved,0.0,PRODUCT
+Zuma,Zuma,unresolved,0.0,PRODUCT
+Shape,Shape,unresolved,0.0,PRODUCT
+ContraForce,ContraForce,unresolved,0.0,PRODUCT
+Output Biosciences,Output Biosciences,unresolved,0.0,PRODUCT
+Bytebot,Bytebot,unresolved,0.0,PRODUCT
+Exa,Exa,unresolved,0.0,PRODUCT
+Attack Capital,Attack Capital,unresolved,0.0,PRODUCT
+SilkChart,SilkChart,unresolved,0.0,PRODUCT
+Strac,Strac,unresolved,0.0,PRODUCT
+Sieve,Sieve,unresolved,0.0,PRODUCT
+PolicyFly,PolicyFly,unresolved,0.0,PRODUCT
+Sota2,Sota2,unresolved,0.0,PRODUCT
+Sei AI,Sei AI,unresolved,0.0,PRODUCT
+Axross Pte Ltd,Axross Pte Ltd,unresolved,0.0,PRODUCT
+Spinach AI,Spinach AI,unresolved,0.0,PRODUCT
+Nyckel,Nyckel,unresolved,0.0,PRODUCT
+Gym Class,Gym Class,unresolved,0.0,PRODUCT
+Kaso,Kaso,unresolved,0.0,PRODUCT
+Bobidi,Bobidi,unresolved,0.0,PRODUCT
+Criya,Criya,unresolved,0.0,PRODUCT
+haddock,haddock,unresolved,0.0,PRODUCT
+Cerebrium,Cerebrium,unresolved,0.0,PRODUCT
+Versable,Versable,unresolved,0.0,PRODUCT
+Dart,Dart,unresolved,0.0,PRODUCT
+Flagright,Flagright,unresolved,0.0,PRODUCT
+T3 Chat,T3 Chat,unresolved,0.0,PRODUCT
+Sphere,Sphere,unresolved,0.0,PRODUCT
+RefineTrain AI,RefineTrain AI,unresolved,0.0,PRODUCT
+PermitFlow,PermitFlow,unresolved,0.0,PRODUCT
+Siftly,Siftly,unresolved,0.0,PRODUCT
+Velt,Velt,unresolved,0.0,PRODUCT
+Curacel,Curacel,unresolved,0.0,PRODUCT
+Finnt,Finnt,unresolved,0.0,PRODUCT
+Lovage,Lovage,unresolved,0.0,PRODUCT
+SmartHelio,SmartHelio,unresolved,0.0,PRODUCT
+Airwork,Airwork,unresolved,0.0,PRODUCT
+Cinder,Cinder,unresolved,0.0,PRODUCT
+BotCity,BotCity,unresolved,0.0,PRODUCT
+Vimmerse,Vimmerse,unresolved,0.0,PRODUCT
+Broccoli AI,Broccoli AI,unresolved,0.0,PRODUCT
+Bemlo,Bemlo,unresolved,0.0,PRODUCT
+Talentropy.ai,Talentropy.ai,unresolved,0.0,PRODUCT
+mutable.ai,mutable.ai,unresolved,0.0,PRODUCT
+Theneo,Theneo,unresolved,0.0,PRODUCT
+Ponyrun,Ponyrun,unresolved,0.0,PRODUCT
+Top Road,Top Road,unresolved,0.0,PRODUCT
+HOAi,HOAi,unresolved,0.0,PRODUCT
+Status,Status,unresolved,0.0,PRODUCT
+Shaped,Shaped,unresolved,0.0,PRODUCT
+Ploomber,Ploomber,unresolved,0.0,PRODUCT
+Housewarming,Housewarming,unresolved,0.0,PRODUCT
+Blink,Blink,unresolved,0.0,PRODUCT
+Workflow86,Workflow86,unresolved,0.0,PRODUCT
+Codec,Codec,unresolved,0.0,PRODUCT
+Postal,Postal,unresolved,0.0,PRODUCT
+AYC Fund,AYC Fund,unresolved,0.0,PRODUCT
+Kenobi,Kenobi,unresolved,0.0,PRODUCT
+Query Vary,Query Vary,unresolved,0.0,PRODUCT
+MSPilot,MSPilot,unresolved,0.0,PRODUCT
+Poly,Poly,unresolved,0.0,PRODUCT
+Layerup,Layerup,unresolved,0.0,PRODUCT
+Paces,Paces,unresolved,0.0,PRODUCT
+Airtrain AI,Airtrain AI,unresolved,0.0,PRODUCT
+Star,Star,unresolved,0.0,PRODUCT
+Julius,Julius,unresolved,0.0,PRODUCT
+Dialect,Dialect,unresolved,0.0,PRODUCT
+SigmaMind AI,SigmaMind AI,unresolved,0.0,PRODUCT
+Superpowered AI,Superpowered AI,unresolved,0.0,PRODUCT
+Makeasite,Makeasite,unresolved,0.0,PRODUCT
+Pasito,Pasito,unresolved,0.0,PRODUCT
+Blitz,Blitz,unresolved,0.0,PRODUCT
+Impractical,Impractical,unresolved,0.0,PRODUCT
+CustomerOS,CustomerOS,unresolved,0.0,PRODUCT
+CODEXA,CODEXA,unresolved,0.0,PRODUCT
+Paragon AI,Paragon AI,unresolved,0.0,PRODUCT
+Midplane,Midplane,unresolved,0.0,PRODUCT
+Blee,Blee,unresolved,0.0,PRODUCT
+Activepieces,Activepieces,unresolved,0.0,PRODUCT
+Popsy,Popsy,unresolved,0.0,PRODUCT
+Juicebox,Juicebox,unresolved,0.0,PRODUCT
+Phind,Phind,unresolved,0.0,PRODUCT
+Unify,Unify,unresolved,0.0,PRODUCT
+Mistle,Mistle,unresolved,0.0,PRODUCT
+100x,100x,unresolved,0.0,PRODUCT
+Hedgehog,Hedgehog,unresolved,0.0,PRODUCT
+Latent Space,Latent Space,unresolved,0.0,PRODUCT
+AviaryAI,AviaryAI,unresolved,0.0,PRODUCT
+Quinn,Quinn,unresolved,0.0,PRODUCT
+Aurelian,Aurelian,unresolved,0.0,PRODUCT
+Metriport,Metriport,unresolved,0.0,PRODUCT
+Fini,Fini,unresolved,0.0,PRODUCT
+Atlas,Atlas,unresolved,0.0,PRODUCT
+Sanifu,Sanifu,unresolved,0.0,PRODUCT
+HOMLI,HOMLI,unresolved,0.0,PRODUCT
+Boton,Boton,unresolved,0.0,PRODUCT
+Avina,Avina,unresolved,0.0,PRODUCT
+Invofox,Invofox,unresolved,0.0,PRODUCT
+TypeLess,TypeLess,unresolved,0.0,PRODUCT
+Firecrawl,Firecrawl,unresolved,0.0,PRODUCT
+Wondercraft,Wondercraft,unresolved,0.0,PRODUCT
+Clearline,Clearline,unresolved,0.0,PRODUCT
+Monterey AI,Monterey AI,unresolved,0.0,PRODUCT
+Delfino AI,Delfino AI,unresolved,0.0,PRODUCT
+Intuned,Intuned,unresolved,0.0,PRODUCT
+Polymath Robotics,Polymath Robotics,unresolved,0.0,PRODUCT
+Sameday,Sameday,unresolved,0.0,PRODUCT
+zudo.work,zudo.work,unresolved,0.0,PRODUCT
+Middleware,Middleware,unresolved,0.0,PRODUCT
+StackAI,StackAI,unresolved,0.0,PRODUCT
+Designbase,Designbase,unresolved,0.0,PRODUCT
+Blyss,Blyss,unresolved,0.0,PRODUCT
+Trigger.dev,Trigger.dev,unresolved,0.0,PRODUCT
+Paperplane,Paperplane,unresolved,0.0,PRODUCT
+Lume,Lume,unresolved,0.0,PRODUCT
+Concourse,Concourse,unresolved,0.0,PRODUCT
+Backdrop,Backdrop,unresolved,0.0,PRODUCT
+Demospace,Demospace,unresolved,0.0,PRODUCT
+Brewit,Brewit,unresolved,0.0,PRODUCT
+Palomma,Palomma,unresolved,0.0,PRODUCT
+Ohm,Ohm,unresolved,0.0,PRODUCT
+Salient,Salient,unresolved,0.0,PRODUCT
+Dataglade,Dataglade,unresolved,0.0,PRODUCT
+CreatorML,CreatorML,unresolved,0.0,PRODUCT
+Scanbase,Scanbase,unresolved,0.0,PRODUCT
+Bluebirds,Bluebirds,unresolved,0.0,PRODUCT
+Gooseworks,Gooseworks,unresolved,0.0,PRODUCT
+Frigade,Frigade,unresolved,0.0,PRODUCT
+Haven,Haven,unresolved,0.0,PRODUCT
+coil inc.,coil inc.,unresolved,0.0,PRODUCT
+Outerbase,Outerbase,unresolved,0.0,PRODUCT
+co.dev,co.dev,unresolved,0.0,PRODUCT
+Langfuse,Langfuse,unresolved,0.0,PRODUCT
+Extend,Extend,unresolved,0.0,PRODUCT
+Floworks,Floworks,unresolved,0.0,PRODUCT
+Iliad,Iliad,unresolved,0.0,PRODUCT
+EzDubs,EzDubs,unresolved,0.0,PRODUCT
+Wild Moose,Wild Moose,unresolved,0.0,PRODUCT
+ShortLoop,ShortLoop,unresolved,0.0,PRODUCT
+Truewind,Truewind,unresolved,0.0,PRODUCT
+TableFlow,TableFlow,unresolved,0.0,PRODUCT
+KV Cash,KV Cash,unresolved,0.0,PRODUCT
+Magicflow 𐂂,Magicflow 𐂂,unresolved,0.0,PRODUCT
+222,222,unresolved,0.0,PRODUCT
+Boundary,Boundary,unresolved,0.0,PRODUCT
+SensorSurf,SensorSurf,unresolved,0.0,PRODUCT
+Hadrius,Hadrius,unresolved,0.0,PRODUCT
+Fairway Health,Fairway Health,unresolved,0.0,PRODUCT
+Sherloq,Sherloq,unresolved,0.0,PRODUCT
+Finic,Finic,unresolved,0.0,PRODUCT
+Hippo Scribe,Hippo Scribe,unresolved,0.0,PRODUCT
+SuperKalam,SuperKalam,unresolved,0.0,PRODUCT
+Pylon,Pylon,unresolved,0.0,PRODUCT
+Epsilon,Epsilon,unresolved,0.0,PRODUCT
+Helios,Helios,unresolved,0.0,PRODUCT
+Hindsight,Hindsight,unresolved,0.0,PRODUCT
+OpenInt,OpenInt,unresolved,0.0,PRODUCT
+Decohere,Decohere,unresolved,0.0,PRODUCT
+CodeParrot AI,CodeParrot AI,unresolved,0.0,PRODUCT
+Berry,Berry,unresolved,0.0,PRODUCT
+Fabius,Fabius,unresolved,0.0,PRODUCT
+Metal,Metal,unresolved,0.0,PRODUCT
+Persana AI,Persana AI,unresolved,0.0,PRODUCT
+Adri AI,Adri AI,unresolved,0.0,PRODUCT
+Second,Second,unresolved,0.0,PRODUCT
+Warp,Warp,unresolved,0.0,PRODUCT
+Fetchr,Fetchr,unresolved,0.0,PRODUCT
+Yuma AI,Yuma AI,unresolved,0.0,PRODUCT
+kapa.ai,kapa.ai,unresolved,0.0,PRODUCT
+Metoro,Metoro,unresolved,0.0,PRODUCT
+Accend,Accend,unresolved,0.0,PRODUCT
+Remy,Remy,unresolved,0.0,PRODUCT
+Diligent,Diligent,unresolved,0.0,PRODUCT
+Readily,Readily,unresolved,0.0,PRODUCT
+Cedana,Cedana,unresolved,0.0,PRODUCT
+OpenTools,OpenTools,unresolved,0.0,PRODUCT
+Atla,Atla,unresolved,0.0,PRODUCT
+Mandel AI,Mandel AI,unresolved,0.0,PRODUCT
+Prosper,Prosper,unresolved,0.0,PRODUCT
+Subsets,Subsets,unresolved,0.0,PRODUCT
+GreenTally,GreenTally,unresolved,0.0,PRODUCT
+Baud,Baud,unresolved,0.0,PRODUCT
+SID,SID,unresolved,0.0,PRODUCT
+Alguna,Alguna,unresolved,0.0,PRODUCT
+Campfire,Campfire,unresolved,0.0,PRODUCT
+Punchcard,Punchcard,unresolved,0.0,PRODUCT
+Kite,Kite,unresolved,0.0,PRODUCT
+Obento Health,Obento Health,unresolved,0.0,PRODUCT
+Docsum,Docsum,unresolved,0.0,PRODUCT
+Corgea,Corgea,unresolved,0.0,PRODUCT
+Outset,Outset,unresolved,0.0,PRODUCT
+Shasta Health,Shasta Health,unresolved,0.0,PRODUCT
+Health Harbor,Health Harbor,unresolved,0.0,PRODUCT
+FleetWorks,FleetWorks,unresolved,0.0,PRODUCT
+Repaint,Repaint,unresolved,0.0,PRODUCT
+Dialtone,Dialtone,unresolved,0.0,PRODUCT
+Numen,Numen,unresolved,0.0,PRODUCT
+Epsilla,Epsilla,unresolved,0.0,PRODUCT
+Sidenote,Sidenote,unresolved,0.0,PRODUCT
+Unhaze,Unhaze,unresolved,0.0,PRODUCT
+Surface Labs,Surface Labs,unresolved,0.0,PRODUCT
+Midrender,Midrender,unresolved,0.0,PRODUCT
+Vizly,Vizly,unresolved,0.0,PRODUCT
+Empirical Health,Empirical Health,unresolved,0.0,PRODUCT
+Glade,Glade,unresolved,0.0,PRODUCT
+Studdy,Studdy,unresolved,0.0,PRODUCT
+Bolto,Bolto,unresolved,0.0,PRODUCT
+Flint,Flint,unresolved,0.0,PRODUCT
+Vango AI,Vango AI,unresolved,0.0,PRODUCT
+Automorphic,Automorphic,unresolved,0.0,PRODUCT
+Baserun,Baserun,unresolved,0.0,PRODUCT
+Andromeda Surgical,Andromeda Surgical,unresolved,0.0,PRODUCT
+sudocode,sudocode,unresolved,0.0,PRODUCT
+Langdock,Langdock,unresolved,0.0,PRODUCT
+Elythea,Elythea,unresolved,0.0,PRODUCT
+Cedalio,Cedalio,unresolved,0.0,PRODUCT
+Fiber AI,Fiber AI,unresolved,0.0,PRODUCT
+Strada,Strada,unresolved,0.0,PRODUCT
+Webhound,Webhound,unresolved,0.0,PRODUCT
+dili,dili,unresolved,0.0,PRODUCT
+Saatvy,Saatvy,unresolved,0.0,PRODUCT
+Giga,Giga,unresolved,0.0,PRODUCT
+AiSDR,AiSDR,unresolved,0.0,PRODUCT
+Nowadays,Nowadays,unresolved,0.0,PRODUCT
+Morph,Morph,unresolved,0.0,PRODUCT
+Constructable,Constructable,unresolved,0.0,PRODUCT
+Cognitio Labs,Cognitio Labs,unresolved,0.0,PRODUCT
+Tempo,Tempo,unresolved,0.0,PRODUCT
+CodeStory,CodeStory,unresolved,0.0,PRODUCT
+Letterbook,Letterbook,unresolved,0.0,PRODUCT
+Goldbridge,Goldbridge,unresolved,0.0,PRODUCT
+Onyx,Onyx,unresolved,0.0,PRODUCT
+Event Horizon Labs,Event Horizon Labs,unresolved,0.0,PRODUCT
+Upsolve AI,Upsolve AI,unresolved,0.0,PRODUCT
+Navier AI,Navier AI,unresolved,0.0,PRODUCT
+ego,ego,unresolved,0.0,PRODUCT
+Cora,Cora,unresolved,0.0,PRODUCT
+Greptile,Greptile,unresolved,0.0,PRODUCT
+Ubicloud,Ubicloud,unresolved,0.0,PRODUCT
+Duckie,Duckie,unresolved,0.0,PRODUCT
+ion design,ion design,unresolved,0.0,PRODUCT
+Sonia,Sonia,unresolved,0.0,PRODUCT
+Kabilah,Kabilah,unresolved,0.0,PRODUCT
+Tracecat,Tracecat,unresolved,0.0,PRODUCT
+Precip,Precip,unresolved,0.0,PRODUCT
+Nuanced,Nuanced,unresolved,0.0,PRODUCT
+Poka Labs,Poka Labs,unresolved,0.0,PRODUCT
+Andon Labs,Andon Labs,unresolved,0.0,PRODUCT
+Reducto,Reducto,unresolved,0.0,PRODUCT
+Tuesday Labs,Tuesday Labs,unresolved,0.0,PRODUCT
+Saga AI,Saga AI,unresolved,0.0,PRODUCT
+Quary,Quary,unresolved,0.0,PRODUCT
+Alex,Alex,unresolved,0.0,PRODUCT
+AveryIQ,AveryIQ,unresolved,0.0,PRODUCT
+Patchwork,Patchwork,unresolved,0.0,PRODUCT
+Arini,Arini,unresolved,0.0,PRODUCT
+Simplex,Simplex,unresolved,0.0,PRODUCT
+Greenboard,Greenboard,unresolved,0.0,PRODUCT
+Trellis AI,Trellis AI,unresolved,0.0,PRODUCT
+Topo,Topo,unresolved,0.0,PRODUCT
+Panelytic,Panelytic,unresolved,0.0,PRODUCT
+Copper Health,Copper Health,unresolved,0.0,PRODUCT
+Glimmer,Glimmer,unresolved,0.0,PRODUCT
+PromptArmor,PromptArmor,unresolved,0.0,PRODUCT
+Respan,Respan,unresolved,0.0,PRODUCT
+Monumint,Monumint,unresolved,0.0,PRODUCT
+Central,Central,unresolved,0.0,PRODUCT
+Speck,Speck,unresolved,0.0,PRODUCT
+Decipher AI,Decipher AI,unresolved,0.0,PRODUCT
+InQuery,InQuery,unresolved,0.0,PRODUCT
+PandasAI,PandasAI,unresolved,0.0,PRODUCT
+Vibrant Labs,Vibrant Labs,unresolved,0.0,PRODUCT
+Feldy,Feldy,unresolved,0.0,PRODUCT
+crmCopilot,crmCopilot,unresolved,0.0,PRODUCT
+NanoCorp,NanoCorp,unresolved,0.0,PRODUCT
+Centralize,Centralize,unresolved,0.0,PRODUCT
+Salvy,Salvy,unresolved,0.0,PRODUCT
+Aedilic,Aedilic,unresolved,0.0,PRODUCT
+Pazi,Pazi,unresolved,0.0,PRODUCT
+Ellipsis,Ellipsis,unresolved,0.0,PRODUCT
+Browser Buddy,Browser Buddy,unresolved,0.0,PRODUCT
+Sagaland,Sagaland,unresolved,0.0,PRODUCT
+Superagent,Superagent,unresolved,0.0,PRODUCT
+Carma,Carma,unresolved,0.0,PRODUCT
+Toma,Toma,unresolved,0.0,PRODUCT
+Whip,Whip,unresolved,0.0,PRODUCT
+Trieve,Trieve,unresolved,0.0,PRODUCT
+Conduit,Conduit,unresolved,0.0,PRODUCT
+Soundry AI,Soundry AI,unresolved,0.0,PRODUCT
+Overeasy,Overeasy,unresolved,0.0,PRODUCT
+Clarum,Clarum,unresolved,0.0,PRODUCT
+Centauri AI,Centauri AI,unresolved,0.0,PRODUCT
+Raindrop,Raindrop,unresolved,0.0,PRODUCT
+Yondu,Yondu,unresolved,0.0,PRODUCT
+Lumetric,Lumetric,unresolved,0.0,PRODUCT
+Openmart,Openmart,unresolved,0.0,PRODUCT
+Spark,Spark,unresolved,0.0,PRODUCT
+Retell AI,Retell AI,unresolved,0.0,PRODUCT
+Aqua Voice,Aqua Voice,unresolved,0.0,PRODUCT
+Fluently,Fluently,unresolved,0.0,PRODUCT
+CommodityAI,CommodityAI,unresolved,0.0,PRODUCT
+Marblism,Marblism,unresolved,0.0,PRODUCT
+Arcane,Arcane,unresolved,0.0,PRODUCT
+OpenFoundry,OpenFoundry,unresolved,0.0,PRODUCT
+Spur,Spur,unresolved,0.0,PRODUCT
+Reform,Reform,unresolved,0.0,PRODUCT
+Integuru,Integuru,unresolved,0.0,PRODUCT
+Latted,Latted,unresolved,0.0,PRODUCT
+Dragoneye,Dragoneye,unresolved,0.0,PRODUCT
+Mathos,Mathos,unresolved,0.0,PRODUCT
+InspectMind AI,InspectMind AI,unresolved,0.0,PRODUCT
+RetailReady,RetailReady,unresolved,0.0,PRODUCT
+K-Scale Labs,K-Scale Labs,unresolved,0.0,PRODUCT
+Coval,Coval,unresolved,0.0,PRODUCT
+Ångström AI,Ångström AI,unresolved,0.0,PRODUCT
+Ultra,Ultra,unresolved,0.0,PRODUCT
+Undermind,Undermind,unresolved,0.0,PRODUCT
+Superunit,Superunit,unresolved,0.0,PRODUCT
+Doublezero,Doublezero,unresolved,0.0,PRODUCT
+Variant,Variant,unresolved,0.0,PRODUCT
+Understood Care,Understood Care,unresolved,0.0,PRODUCT
+Cheers,Cheers,unresolved,0.0,PRODUCT
+Mem0,Mem0,unresolved,0.0,PRODUCT
+Saphira AI,Saphira AI,unresolved,0.0,PRODUCT
+Entangl,Entangl,unresolved,0.0,PRODUCT
+Codes Health,Codes Health,unresolved,0.0,PRODUCT
+Unsloth AI,Unsloth AI,unresolved,0.0,PRODUCT
+Random Labs,Random Labs,unresolved,0.0,PRODUCT
+DigitalCarbon,DigitalCarbon,unresolved,0.0,PRODUCT
+Bayesline,Bayesline,unresolved,0.0,PRODUCT
+Sage Care,Sage Care,unresolved,0.0,PRODUCT
+Maitai,Maitai,unresolved,0.0,PRODUCT
+Wordware,Wordware,unresolved,0.0,PRODUCT
+Stardrift,Stardrift,unresolved,0.0,PRODUCT
+Cloudglue,Cloudglue,unresolved,0.0,PRODUCT
+Willow,Willow,unresolved,0.0,PRODUCT
+Proxis,Proxis,unresolved,0.0,PRODUCT
+Scape,Scape,unresolved,0.0,PRODUCT
+"DeepSim, Inc.","DeepSim, Inc.",unresolved,0.0,PRODUCT
+Dodo,Dodo,unresolved,0.0,PRODUCT
+Parahelp,Parahelp,unresolved,0.0,PRODUCT
+camfer,camfer,unresolved,0.0,PRODUCT
+Gauge,Gauge,unresolved,0.0,PRODUCT
+Dench.com,Dench.com,unresolved,0.0,PRODUCT
+LedgerUp,LedgerUp,unresolved,0.0,PRODUCT
+Mito Health,Mito Health,unresolved,0.0,PRODUCT
+Fazeshift,Fazeshift,unresolved,0.0,PRODUCT
+CreativeMode,CreativeMode,unresolved,0.0,PRODUCT
+cmux,cmux,unresolved,0.0,PRODUCT
+Panora,Panora,unresolved,0.0,PRODUCT
+Clearly AI,Clearly AI,unresolved,0.0,PRODUCT
+Zoa Research,Zoa Research,unresolved,0.0,PRODUCT
+Vibe,Vibe,unresolved,0.0,PRODUCT
+Planbase,Planbase,unresolved,0.0,PRODUCT
+Sharpe,Sharpe,unresolved,0.0,PRODUCT
+deepsilicon,deepsilicon,unresolved,0.0,PRODUCT
+Seals AI,Seals AI,unresolved,0.0,PRODUCT
+winfunc,winfunc,unresolved,0.0,PRODUCT
+Mage Legal,Mage Legal,unresolved,0.0,PRODUCT
+Distro,Distro,unresolved,0.0,PRODUCT
+Piggy Robotics,Piggy Robotics,unresolved,0.0,PRODUCT
+Emergent,Emergent,unresolved,0.0,PRODUCT
+Kura AI,Kura AI,unresolved,0.0,PRODUCT
+Thunder Compute,Thunder Compute,unresolved,0.0,PRODUCT
+Brighterway,Brighterway,unresolved,0.0,PRODUCT
+Zettascale,Zettascale,unresolved,0.0,PRODUCT
+Praxos,Praxos,unresolved,0.0,PRODUCT
+The Forecasting Company,The Forecasting Company,unresolved,0.0,PRODUCT
+Presti AI,Presti AI,unresolved,0.0,PRODUCT
+Laminar,Laminar,unresolved,0.0,PRODUCT
+Simple AI,Simple AI,unresolved,0.0,PRODUCT
+Palmier,Palmier,unresolved,0.0,PRODUCT
+Cartage,Cartage,unresolved,0.0,PRODUCT
+RiskAngle,RiskAngle,unresolved,0.0,PRODUCT
+Odo,Odo,unresolved,0.0,PRODUCT
+Haystack,Haystack,unresolved,0.0,PRODUCT
+HeroUI,HeroUI,unresolved,0.0,PRODUCT
+Rescript,Rescript,unresolved,0.0,PRODUCT
+Dataleap,Dataleap,unresolved,0.0,PRODUCT
+Starcloud,Starcloud,unresolved,0.0,PRODUCT
+Sepal AI,Sepal AI,unresolved,0.0,PRODUCT
+Orca Client,Orca Client,unresolved,0.0,PRODUCT
+Voker,Voker,unresolved,0.0,PRODUCT
+TradeFlow,TradeFlow,unresolved,0.0,PRODUCT
+Blaze,Blaze,unresolved,0.0,PRODUCT
+Oway,Oway,unresolved,0.0,PRODUCT
+SureBright,SureBright,unresolved,0.0,PRODUCT
+Dayflow,Dayflow,unresolved,0.0,PRODUCT
+No Logo,No Logo,unresolved,0.0,PRODUCT
+et al.,et al.,unresolved,0.0,PRODUCT
+Pharos,Pharos,unresolved,0.0,PRODUCT
+Pipeshift,Pipeshift,unresolved,0.0,PRODUCT
+Ficra,Ficra,unresolved,0.0,PRODUCT
+Henry,Henry,unresolved,0.0,PRODUCT
+BrowserOS,BrowserOS,unresolved,0.0,PRODUCT
+Capitol AI,Capitol AI,unresolved,0.0,PRODUCT
+Merlin AI,Merlin AI,unresolved,0.0,PRODUCT
+PathPilot,PathPilot,unresolved,0.0,PRODUCT
+Delineate,Delineate,unresolved,0.0,PRODUCT
+DreamRP,DreamRP,unresolved,0.0,PRODUCT
+Riveter,Riveter,unresolved,0.0,PRODUCT
+Symphony,Symphony,unresolved,0.0,PRODUCT
+Streamable,Streamable,unresolved,0.0,PRODUCT
+Gait,Gait,unresolved,0.0,PRODUCT
+Candle,Candle,unresolved,0.0,PRODUCT
+Darkgrade,Darkgrade,unresolved,0.0,PRODUCT
+HealthSpark,HealthSpark,unresolved,0.0,PRODUCT
+Archil,Archil,unresolved,0.0,PRODUCT
+Endstack,Endstack,unresolved,0.0,PRODUCT
+Matcha,Matcha,unresolved,0.0,PRODUCT
+ISSEN,ISSEN,unresolved,0.0,PRODUCT
+CTGT,CTGT,unresolved,0.0,PRODUCT
+Keye,Keye,unresolved,0.0,PRODUCT
+Luthor,Luthor,unresolved,0.0,PRODUCT
+Lingo.dev,Lingo.dev,unresolved,0.0,PRODUCT
+HYBRD,HYBRD,unresolved,0.0,PRODUCT
+Unusual,Unusual,unresolved,0.0,PRODUCT
+Stewdio,Stewdio,unresolved,0.0,PRODUCT
+vly.ai,vly.ai,unresolved,0.0,PRODUCT
+Abundant,Abundant,unresolved,0.0,PRODUCT
+Gecko Security,Gecko Security,unresolved,0.0,PRODUCT
+PermitPortal,PermitPortal,unresolved,0.0,PRODUCT
+Capy,Capy,unresolved,0.0,PRODUCT
+Kilvin,Kilvin,unresolved,0.0,PRODUCT
+Diffusion Studio,Diffusion Studio,unresolved,0.0,PRODUCT
+Metreecs,Metreecs,unresolved,0.0,PRODUCT
+ArchiLabs,ArchiLabs,unresolved,0.0,PRODUCT
+Forerunner AI,Forerunner AI,unresolved,0.0,PRODUCT
+Laminar,Laminar,unresolved,0.0,PRODUCT
+Relvy AI,Relvy AI,unresolved,0.0,PRODUCT
+Careforce,Careforce,unresolved,0.0,PRODUCT
+Synth,Synth,unresolved,0.0,PRODUCT
+Vetnio,Vetnio,unresolved,0.0,PRODUCT
+Tweeks.io,Tweeks.io,unresolved,0.0,PRODUCT
+Astro,Astro,unresolved,0.0,PRODUCT
+Closure,Closure,unresolved,0.0,PRODUCT
+superglue,superglue,unresolved,0.0,PRODUCT
+Contrario,Contrario,unresolved,0.0,PRODUCT
+Sublingual,Sublingual,unresolved,0.0,PRODUCT
+Verbiflow,Verbiflow,unresolved,0.0,PRODUCT
+Weave,Weave,unresolved,0.0,PRODUCT
+SalesPatriot,SalesPatriot,unresolved,0.0,PRODUCT
+Rally,Rally,unresolved,0.0,PRODUCT
+Tergle,Tergle,unresolved,0.0,PRODUCT
+Trim,Trim,unresolved,0.0,PRODUCT
+Oki,Oki,unresolved,0.0,PRODUCT
+Cifrato,Cifrato,unresolved,0.0,PRODUCT
+Stillwind,Stillwind,unresolved,0.0,PRODUCT
+Harbera,Harbera,unresolved,0.0,PRODUCT
+Cenote,Cenote,unresolved,0.0,PRODUCT
+Liquid Compute,Liquid Compute,unresolved,0.0,PRODUCT
+Mundo AI,Mundo AI,unresolved,0.0,PRODUCT
+General Trajectory,General Trajectory,unresolved,0.0,PRODUCT
+Agentin AI,Agentin AI,unresolved,0.0,PRODUCT
+Riviera,Riviera,unresolved,0.0,PRODUCT
+Confident AI,Confident AI,unresolved,0.0,PRODUCT
+Calltree,Calltree,unresolved,0.0,PRODUCT
+Harper,Harper,unresolved,0.0,PRODUCT
+Mesh,Mesh,unresolved,0.0,PRODUCT
+Sennu AI,Sennu AI,unresolved,0.0,PRODUCT
+AfterQuery,AfterQuery,unresolved,0.0,PRODUCT
+Mastra,Mastra,unresolved,0.0,PRODUCT
+Wildcard,Wildcard,unresolved,0.0,PRODUCT
+Woz,Woz,unresolved,0.0,PRODUCT
+Rebolt,Rebolt,unresolved,0.0,PRODUCT
+Roark,Roark,unresolved,0.0,PRODUCT
+Waffle,Waffle,unresolved,0.0,PRODUCT
+Bluebook,Bluebook,unresolved,0.0,PRODUCT
+CopyCat,CopyCat,unresolved,0.0,PRODUCT
+Ergo,Ergo,unresolved,0.0,PRODUCT
+Dex,Dex,unresolved,0.0,PRODUCT
+Monte,Monte,unresolved,0.0,PRODUCT
+Chestnut,Chestnut,unresolved,0.0,PRODUCT
+Frekil,Frekil,unresolved,0.0,PRODUCT
+Plexe,Plexe,unresolved,0.0,PRODUCT
+Kashikoi,Kashikoi,unresolved,0.0,PRODUCT
+nao Labs,nao Labs,unresolved,0.0,PRODUCT
+BitBoard,BitBoard,unresolved,0.0,PRODUCT
+Kanava AI,Kanava AI,unresolved,0.0,PRODUCT
+Ralo,Ralo,unresolved,0.0,PRODUCT
+Almond,Almond,unresolved,0.0,PRODUCT
+Feyn,Feyn,unresolved,0.0,PRODUCT
+HelixDB,HelixDB,unresolved,0.0,PRODUCT
+Kaelio,Kaelio,unresolved,0.0,PRODUCT
+Beluga,Beluga,unresolved,0.0,PRODUCT
+Clarm,Clarm,unresolved,0.0,PRODUCT
+Sim,Sim,unresolved,0.0,PRODUCT
+stratify,stratify,unresolved,0.0,PRODUCT
+Units,Units,unresolved,0.0,PRODUCT
+Mbodi AI,Mbodi AI,unresolved,0.0,PRODUCT
+Kirana AI,Kirana AI,unresolved,0.0,PRODUCT
+Bluejay,Bluejay,unresolved,0.0,PRODUCT
+Paper Instruments,Paper Instruments,unresolved,0.0,PRODUCT
+Freesolo,Freesolo,unresolved,0.0,PRODUCT
+Sixtyfour,Sixtyfour,unresolved,0.0,PRODUCT
+Clidey,Clidey,unresolved,0.0,PRODUCT
+HABIT,HABIT,unresolved,0.0,PRODUCT
+Morphik,Morphik,unresolved,0.0,PRODUCT
+Nomi,Nomi,unresolved,0.0,PRODUCT
+Crimson,Crimson,unresolved,0.0,PRODUCT
+Lucis,Lucis,unresolved,0.0,PRODUCT
+QualGent,QualGent,unresolved,0.0,PRODUCT
+Cactus Compute,Cactus Compute,unresolved,0.0,PRODUCT
+MorphoAI,MorphoAI,unresolved,0.0,PRODUCT
+Eloquent AI,Eloquent AI,unresolved,0.0,PRODUCT
+Hemut,Hemut,unresolved,0.0,PRODUCT
+Naïve,Naïve,unresolved,0.0,PRODUCT
+Mesmer,Mesmer,unresolved,0.0,PRODUCT
+Rimba,Rimba,unresolved,0.0,PRODUCT
+Nimbic AI,Nimbic AI,unresolved,0.0,PRODUCT
+Pelica,Pelica,unresolved,0.0,PRODUCT
+Lumari,Lumari,unresolved,0.0,PRODUCT
+Vision Lab,Vision Lab,unresolved,0.0,PRODUCT
+StarSling,StarSling,unresolved,0.0,PRODUCT
+Sureform,Sureform,unresolved,0.0,PRODUCT
+Cohesive,Cohesive,unresolved,0.0,PRODUCT
+Fifth Door,Fifth Door,unresolved,0.0,PRODUCT
+Dedalus Labs,Dedalus Labs,unresolved,0.0,PRODUCT
+MangoDesk,MangoDesk,unresolved,0.0,PRODUCT
+Astor,Astor,unresolved,0.0,PRODUCT
+Lanesurf,Lanesurf,unresolved,0.0,PRODUCT
+Liva AI,Liva AI,unresolved,0.0,PRODUCT
+Playgent,Playgent,unresolved,0.0,PRODUCT
+LLM Stats,LLM Stats,unresolved,0.0,PRODUCT
+ContextFort,ContextFort,unresolved,0.0,PRODUCT
+Topological,Topological,unresolved,0.0,PRODUCT
+Lotas,Lotas,unresolved,0.0,PRODUCT
+Wafer,Wafer,unresolved,0.0,PRODUCT
+Lilac,Lilac,unresolved,0.0,PRODUCT
+Alter,Alter,unresolved,0.0,PRODUCT
+Async,Async,unresolved,0.0,PRODUCT
+Magnitude,Magnitude,unresolved,0.0,PRODUCT
+Stockline,Stockline,unresolved,0.0,PRODUCT
+Tesora,Tesora,unresolved,0.0,PRODUCT
+Panoptive,Panoptive,unresolved,0.0,PRODUCT
+Induction Labs,Induction Labs,unresolved,0.0,PRODUCT
+Nexa Labs,Nexa Labs,unresolved,0.0,PRODUCT
+Riverbank,Riverbank,unresolved,0.0,PRODUCT
+Interface,Interface,unresolved,0.0,PRODUCT
+Trace,Trace,unresolved,0.0,PRODUCT
+GhostEye,GhostEye,unresolved,0.0,PRODUCT
+Mimos,Mimos,unresolved,0.0,PRODUCT
+Physical Turing,Physical Turing,unresolved,0.0,PRODUCT
+Phases,Phases,unresolved,0.0,PRODUCT
+Manufact,Manufact,unresolved,0.0,PRODUCT
+Finto,Finto,unresolved,0.0,PRODUCT
+ProcIndex,ProcIndex,unresolved,0.0,PRODUCT
+Humoniq,Humoniq,unresolved,0.0,PRODUCT
+Evergrove,Evergrove,unresolved,0.0,PRODUCT
+Quotain,Quotain,unresolved,0.0,PRODUCT
+SigmanticAI,SigmanticAI,unresolved,0.0,PRODUCT
+Pleom,Pleom,unresolved,0.0,PRODUCT
+Notte,Notte,unresolved,0.0,PRODUCT
+Certus AI,Certus AI,unresolved,0.0,PRODUCT
+KERNEL,KERNEL,unresolved,0.0,PRODUCT
+Rebulk,Rebulk,unresolved,0.0,PRODUCT
+Okibi,Okibi,unresolved,0.0,PRODUCT
+Interfere,Interfere,unresolved,0.0,PRODUCT
+Bizzy AI,Bizzy AI,unresolved,0.0,PRODUCT
+Sapien,Sapien,unresolved,0.0,PRODUCT
+Veritus,Veritus,unresolved,0.0,PRODUCT
+burnt,burnt,unresolved,0.0,PRODUCT
+Blue,Blue,unresolved,0.0,PRODUCT
+Digipals,Digipals,unresolved,0.0,PRODUCT
+Lapis,Lapis,unresolved,0.0,PRODUCT
+F2,F2,unresolved,0.0,PRODUCT
+Brickanta,Brickanta,unresolved,0.0,PRODUCT
+Structured AI,Structured AI,unresolved,0.0,PRODUCT
+MOVEdot,MOVEdot,unresolved,0.0,PRODUCT
+Sylvian,Sylvian,unresolved,0.0,PRODUCT
+Hyperspell,Hyperspell,unresolved,0.0,PRODUCT
+Locus,Locus,unresolved,0.0,PRODUCT
+Sorce,Sorce,unresolved,0.0,PRODUCT
+Soren,Soren,unresolved,0.0,PRODUCT
+Bron,Bron,unresolved,0.0,PRODUCT
+Veria Labs,Veria Labs,unresolved,0.0,PRODUCT
+Trelium,Trelium,unresolved,0.0,PRODUCT
+Semble,Semble,unresolved,0.0,PRODUCT
+Clerked,Clerked,unresolved,0.0,PRODUCT
+Terrain,Terrain,unresolved,0.0,PRODUCT
+Allus AI,Allus AI,unresolved,0.0,PRODUCT
+Sciloop,Sciloop,unresolved,0.0,PRODUCT
+Logical,Logical,unresolved,0.0,PRODUCT
+Redapto,Redapto,unresolved,0.0,PRODUCT
+ComplyDo,ComplyDo,unresolved,0.0,PRODUCT
+Codyco,Codyco,unresolved,0.0,PRODUCT
+Lexi,Lexi,unresolved,0.0,PRODUCT
+Compyle,Compyle,unresolved,0.0,PRODUCT
+Thesis,Thesis,unresolved,0.0,PRODUCT
+Pixley AI,Pixley AI,unresolved,0.0,PRODUCT
+Leadbay,Leadbay,unresolved,0.0,PRODUCT
+Imagine AI,Imagine AI,unresolved,0.0,PRODUCT
+Philon,Philon,unresolved,0.0,PRODUCT
+Narrative,Narrative,unresolved,0.0,PRODUCT
+Denki,Denki,unresolved,0.0,PRODUCT
+Lemma,Lemma,unresolved,0.0,PRODUCT
+Freeport Markets,Freeport Markets,unresolved,0.0,PRODUCT
+Boom AI,Boom AI,unresolved,0.0,PRODUCT
+Velvet,Velvet,unresolved,0.0,PRODUCT
+LunaBill,LunaBill,unresolved,0.0,PRODUCT
+Antigen,Antigen,unresolved,0.0,PRODUCT
+Fastshot,Fastshot,unresolved,0.0,PRODUCT
+MarkIt,MarkIt,unresolved,0.0,PRODUCT
+Zarna,Zarna,unresolved,0.0,PRODUCT
+Moss,Moss,unresolved,0.0,PRODUCT
+Amika,Amika,unresolved,0.0,PRODUCT
+Rivet,Rivet,unresolved,0.0,PRODUCT
+ClaimGlide,ClaimGlide,unresolved,0.0,PRODUCT
+Corvera,Corvera,unresolved,0.0,PRODUCT
+10x Science,10x Science,unresolved,0.0,PRODUCT
+Q2Q,Q2Q,unresolved,0.0,PRODUCT
+Seeing Systems,Seeing Systems,unresolved,0.0,PRODUCT
+Visibl Semiconductors,Visibl Semiconductors,unresolved,0.0,PRODUCT
+Assemble,Assemble,unresolved,0.0,PRODUCT
+Fenrock AI,Fenrock AI,unresolved,0.0,PRODUCT
+Traverse,Traverse,unresolved,0.0,PRODUCT
+Approxima,Approxima,unresolved,0.0,PRODUCT
+InventoryQuant,InventoryQuant,unresolved,0.0,PRODUCT
+Libra Robotics,Libra Robotics,unresolved,0.0,PRODUCT
+o11,o11,unresolved,0.0,PRODUCT
+Corelayer,Corelayer,unresolved,0.0,PRODUCT
+Inth,Inth,unresolved,0.0,PRODUCT
+Grade,Grade,unresolved,0.0,PRODUCT
+Cova,Cova,unresolved,0.0,PRODUCT
+Dipole Labs,Dipole Labs,unresolved,0.0,PRODUCT
+Ossus,Ossus,unresolved,0.0,PRODUCT
+Carrot Labs,Carrot Labs,unresolved,0.0,PRODUCT
+Litmus,Litmus,unresolved,0.0,PRODUCT
+Hedge,Hedge,unresolved,0.0,PRODUCT
+Most Robotic,Most Robotic,unresolved,0.0,PRODUCT
+Osmaura,Osmaura,unresolved,0.0,PRODUCT
+Palette,Palette,unresolved,0.0,PRODUCT
+Discovered Materials,Discovered Materials,unresolved,0.0,PRODUCT
+Hub,Hub,unresolved,0.0,PRODUCT
+StableBrowse,StableBrowse,unresolved,0.0,PRODUCT
+Lab0,Lab0,unresolved,0.0,PRODUCT
+Ontora,Ontora,unresolved,0.0,PRODUCT
+Infera,Infera,unresolved,0.0,PRODUCT
+Archer,Archer,unresolved,0.0,PRODUCT
+Degla Inc,Degla Inc,unresolved,0.0,PRODUCT
+Collar,Collar,unresolved,0.0,PRODUCT
+Tolmo,Tolmo,unresolved,0.0,PRODUCT
+Revnu,Revnu,unresolved,0.0,PRODUCT
+Enjamb Labs,Enjamb Labs,unresolved,0.0,PRODUCT
+Playabl.ai,Playabl.ai,unresolved,0.0,PRODUCT
+Rindler,Rindler,unresolved,0.0,PRODUCT
+GitCafe,GitCafe,unresolved,0.0,PRODUCT
+Torus,Torus,unresolved,0.0,PRODUCT
+Pango,Pango,unresolved,0.0,PRODUCT
+Hoplite,Hoplite,unresolved,0.0,PRODUCT
+Donkey,Donkey,unresolved,0.0,PRODUCT
+Egoist Machines,Egoist Machines,unresolved,0.0,PRODUCT
+Parasma,Parasma,unresolved,0.0,PRODUCT
+Nebula Security,Nebula Security,unresolved,0.0,PRODUCT
+Enact,Enact,unresolved,0.0,PRODUCT
+Maingen,Maingen,unresolved,0.0,PRODUCT
+Bernard,Bernard,unresolved,0.0,PRODUCT
+Studio,Studio,unresolved,0.0,PRODUCT
+Understudy Labs,Understudy Labs,unresolved,0.0,PRODUCT
+Synapse Semiconductor,Synapse Semiconductor,unresolved,0.0,PRODUCT
+Speko,Speko,unresolved,0.0,PRODUCT
+LemonLime,LemonLime,unresolved,0.0,PRODUCT
+Jcode,Jcode,unresolved,0.0,PRODUCT
+Insurf,Insurf,unresolved,0.0,PRODUCT
+Instaplay,Instaplay,unresolved,0.0,PRODUCT
+RealPact,RealPact,unresolved,0.0,PRODUCT
+Buildbox,Buildbox,unresolved,0.0,PRODUCT
+Riften,Riften,unresolved,0.0,PRODUCT
+Bizmark,Bizmark,unresolved,0.0,PRODUCT
+Alloovium,Alloovium,unresolved,0.0,PRODUCT
+MOCHI.TV,MOCHI.TV,unresolved,0.0,PRODUCT
+Audun,Audun,unresolved,0.0,PRODUCT
+Marble,Marble,unresolved,0.0,PRODUCT
+Stoa,Stoa,unresolved,0.0,PRODUCT
+Glen,Glen,unresolved,0.0,PRODUCT
+Context.dev,Context.dev,unresolved,0.0,PRODUCT
+Exosat,Exosat,unresolved,0.0,PRODUCT
+screenpipe,screenpipe,unresolved,0.0,PRODUCT
+Callbook AI,Callbook AI,unresolved,0.0,PRODUCT
+Standard Machines,Standard Machines,unresolved,0.0,PRODUCT
+Pluto,Pluto,unresolved,0.0,PRODUCT
+Omanta,Omanta,unresolved,0.0,PRODUCT
+Qlo,Qlo,unresolved,0.0,PRODUCT
+Tenor,Tenor,unresolved,0.0,PRODUCT
+Daqstra,Daqstra,unresolved,0.0,PRODUCT
+LATO,LATO,unresolved,0.0,PRODUCT
+Neuromorphic,Neuromorphic,unresolved,0.0,PRODUCT
+Moving Atoms,Moving Atoms,unresolved,0.0,PRODUCT
+Financial Datasets,Financial Datasets,unresolved,0.0,PRODUCT
+Luca IQ,Luca IQ,unresolved,0.0,PRODUCT
+Pacific,Pacific,unresolved,0.0,PRODUCT
+Lumeria,Lumeria,unresolved,0.0,PRODUCT
+Familiar,Familiar,unresolved,0.0,PRODUCT
+Inkbox,Inkbox,unresolved,0.0,PRODUCT
+Gamgee,Gamgee,unresolved,0.0,PRODUCT
+Care GP,Care GP,unresolved,0.0,PRODUCT
+Decawork,Decawork,unresolved,0.0,PRODUCT
+Pennant,Pennant,unresolved,0.0,PRODUCT
+Touchy,Touchy,unresolved,0.0,PRODUCT
+Mireye,Mireye,unresolved,0.0,PRODUCT
+Lamb Labs,Lamb Labs,unresolved,0.0,PRODUCT
+83 Sciences,83 Sciences,unresolved,0.0,PRODUCT
+Palisade,Palisade,unresolved,0.0,PRODUCT
+Verdict Machine,Verdict Machine,unresolved,0.0,PRODUCT
+OpenRelay,OpenRelay,unresolved,0.0,PRODUCT
+Florin,Florin,unresolved,0.0,PRODUCT
+Locke,Locke,unresolved,0.0,PRODUCT
+Tracer,Tracer,unresolved,0.0,PRODUCT
+Wondering,Wondering,unresolved,0.0,PRODUCT
+OneCLI,OneCLI,unresolved,0.0,PRODUCT
+Osseus,Osseus,unresolved,0.0,PRODUCT
+Magma,Magma,unresolved,0.0,PRODUCT
+Experiential Labs,Experiential Labs,unresolved,0.0,PRODUCT
+Simantic,Simantic,unresolved,0.0,PRODUCT
+OpenTag,OpenTag,unresolved,0.0,PRODUCT
+Lambda Robotics,Lambda Robotics,unresolved,0.0,PRODUCT
+Sentient OS,Sentient OS,unresolved,0.0,PRODUCT
+Veeza AI,Veeza AI,unresolved,0.0,PRODUCT
+Workers IO,Workers IO,unresolved,0.0,PRODUCT
+antimattr,antimattr,unresolved,0.0,PRODUCT
+Directed Edge,Directed Edge,unresolved,0.0,PRODUCT
+JustSpotted,JustSpotted,unresolved,0.0,PRODUCT
+Canopy Labs,Canopy Labs,unresolved,0.0,PRODUCT
+Semantics3,Semantics3,unresolved,0.0,PRODUCT
+Casetext,Casetext,unresolved,0.0,PRODUCT
+OpenCurriculum,OpenCurriculum,unresolved,0.0,PRODUCT
+Checkr,Checkr,unresolved,0.0,PRODUCT
+SalesSift,SalesSift,unresolved,0.0,PRODUCT
+Weave,Weave,unresolved,0.0,PRODUCT
+Qventus,Qventus,unresolved,0.0,PRODUCT
+20n,20n,unresolved,0.0,PRODUCT
+Zeitview,Zeitview,unresolved,0.0,PRODUCT
+Yhat,Yhat,unresolved,0.0,PRODUCT
+Dabble,Dabble,unresolved,0.0,PRODUCT
+Mashgin,Mashgin,unresolved,0.0,PRODUCT
+ROSS Intelligence,ROSS Intelligence,unresolved,0.0,PRODUCT
+Reduced Energy Microsystems,Reduced Energy Microsystems,unresolved,0.0,PRODUCT
+iSono Health,iSono Health,unresolved,0.0,PRODUCT
+Algoriz,Algoriz,unresolved,0.0,PRODUCT
+Pulpix,Pulpix,unresolved,0.0,PRODUCT
+Superside,Superside,unresolved,0.0,PRODUCT
+Gecko Robotics,Gecko Robotics,unresolved,0.0,PRODUCT
+Caper,Caper,unresolved,0.0,PRODUCT
+Nova,Nova,unresolved,0.0,PRODUCT
+Farmstead,Farmstead,unresolved,0.0,PRODUCT
+Sway Finance,Sway Finance,unresolved,0.0,PRODUCT
+garten,garten,unresolved,0.0,PRODUCT
+Synvivia,Synvivia,unresolved,0.0,PRODUCT
+Seerslab,Seerslab,unresolved,0.0,PRODUCT
+Miso,Miso,unresolved,0.0,PRODUCT
+Saleswhale,Saleswhale,unresolved,0.0,PRODUCT
+Scale AI,Scale AI,unresolved,0.0,PRODUCT
+People.ai,People.ai,unresolved,0.0,PRODUCT
+Voiceops,Voiceops,unresolved,0.0,PRODUCT
+Speak,Speak,unresolved,0.0,PRODUCT
+Scribe,Scribe,unresolved,0.0,PRODUCT
+Pit.AI,Pit.AI,unresolved,0.0,PRODUCT
+MDalgorithms Inc.,MDalgorithms Inc.,unresolved,0.0,PRODUCT
+RankScience,RankScience,unresolved,0.0,PRODUCT
+Ambient.ai,Ambient.ai,unresolved,0.0,PRODUCT
+Penny,Penny,unresolved,0.0,PRODUCT
+Tetra,Tetra,unresolved,0.0,PRODUCT
+BIOS Health,BIOS Health,unresolved,0.0,PRODUCT
+Bicycle AI,Bicycle AI,unresolved,0.0,PRODUCT
+Helix Nanotechnologies,Helix Nanotechnologies,unresolved,0.0,PRODUCT
+ScopeAI,ScopeAI,unresolved,0.0,PRODUCT
+VergeSense,VergeSense,unresolved,0.0,PRODUCT
+Darmiyan,Darmiyan,unresolved,0.0,PRODUCT
+Mystro,Mystro,unresolved,0.0,PRODUCT
+Semantix,Semantix,unresolved,0.0,PRODUCT
+Plasticity,Plasticity,unresolved,0.0,PRODUCT
+D-ID,D-ID,unresolved,0.0,PRODUCT
+Percept.AI,Percept.AI,unresolved,0.0,PRODUCT
+Sourceress,Sourceress,unresolved,0.0,PRODUCT
+May Mobility,May Mobility,unresolved,0.0,PRODUCT
+Commissary Club (formerly 70 Million Jobs),Commissary Club (formerly 70 Million Jobs),unresolved,0.0,PRODUCT
+Lyrebird,Lyrebird,unresolved,0.0,PRODUCT
+10 By 10,10 By 10,unresolved,0.0,PRODUCT
+Proven Group,Proven Group,unresolved,0.0,PRODUCT
+Precious,Precious,unresolved,0.0,PRODUCT
+Spellbrush,Spellbrush,unresolved,0.0,PRODUCT
+Promise,Promise,unresolved,0.0,PRODUCT
+Nuvocargo,Nuvocargo,unresolved,0.0,PRODUCT
+Cognition IP,Cognition IP,unresolved,0.0,PRODUCT
+Vathys,Vathys,unresolved,0.0,PRODUCT
+Naborly,Naborly,unresolved,0.0,PRODUCT
+SharpestMinds,SharpestMinds,unresolved,0.0,PRODUCT
+Orangewood Labs,Orangewood Labs,unresolved,0.0,PRODUCT
+Point API,Point API,unresolved,0.0,PRODUCT
+Phiar,Phiar,unresolved,0.0,PRODUCT
+OWNY,OWNY,unresolved,0.0,PRODUCT
+"numericcal, inc.","numericcal, inc.",unresolved,0.0,PRODUCT
+Data Driven Bioscience,Data Driven Bioscience,unresolved,0.0,PRODUCT
+Inscribe,Inscribe,unresolved,0.0,PRODUCT
+Quickchat AI,Quickchat AI,unresolved,0.0,PRODUCT
+Rain Neuromorphics,Rain Neuromorphics,unresolved,0.0,PRODUCT
+BrainHi,BrainHi,unresolved,0.0,PRODUCT
+Mutiny,Mutiny,unresolved,0.0,PRODUCT
+Leena AI,Leena AI,unresolved,0.0,PRODUCT
+Kunduz,Kunduz,unresolved,0.0,PRODUCT
+Flockjay,Flockjay,unresolved,0.0,PRODUCT
+Centaur,Centaur,unresolved,0.0,PRODUCT
+Windsor,Windsor,unresolved,0.0,PRODUCT
+Community Phone Company,Community Phone Company,unresolved,0.0,PRODUCT
+Sapling.ai,Sapling.ai,unresolved,0.0,PRODUCT
+AI Insurance,AI Insurance,unresolved,0.0,PRODUCT
+Evo.Do,Evo.Do,unresolved,0.0,PRODUCT
+Docucharm,Docucharm,unresolved,0.0,PRODUCT
+Askdata,Askdata,unresolved,0.0,PRODUCT
+Superorder,Superorder,unresolved,0.0,PRODUCT
+Superb AI,Superb AI,unresolved,0.0,PRODUCT
+Glide,Glide,unresolved,0.0,PRODUCT
+Sublime Black,Sublime Black,unresolved,0.0,PRODUCT
+Mars Auto,Mars Auto,unresolved,0.0,PRODUCT
+Tailor-ED,Tailor-ED,unresolved,0.0,PRODUCT
+"OutRival, Inc.","OutRival, Inc.",unresolved,0.0,PRODUCT
+Playground,Playground,unresolved,0.0,PRODUCT
+Figments,Figments,unresolved,0.0,PRODUCT
+Palifer,Palifer,unresolved,0.0,PRODUCT
+Symplex,Symplex,unresolved,0.0,PRODUCT
+Well Principled,Well Principled,unresolved,0.0,PRODUCT
+Lantern,Lantern,unresolved,0.0,PRODUCT
+GEn1E Lifesciences,GEn1E Lifesciences,unresolved,0.0,PRODUCT
+Embrace,Embrace,unresolved,0.0,PRODUCT
+ZETA SURGICAL,ZETA SURGICAL,unresolved,0.0,PRODUCT
+Milo,Milo,unresolved,0.0,PRODUCT
+Ramen VR,Ramen VR,unresolved,0.0,PRODUCT
+Traces,Traces,unresolved,0.0,PRODUCT
+Flowbot,Flowbot,unresolved,0.0,PRODUCT
+Phonic,Phonic,unresolved,0.0,PRODUCT
+StratumAI,StratumAI,unresolved,0.0,PRODUCT
+FitnessAI,FitnessAI,unresolved,0.0,PRODUCT
+Taiv,Taiv,unresolved,0.0,PRODUCT
+Glisten AI,Glisten AI,unresolved,0.0,PRODUCT
+Ardis AI,Ardis AI,unresolved,0.0,PRODUCT
+Perceptive Technologies,Perceptive Technologies,unresolved,0.0,PRODUCT
+Aden,Aden,unresolved,0.0,PRODUCT
+Terrasoft,Terrasoft,unresolved,0.0,PRODUCT
+Turing Labs Inc.,Turing Labs Inc.,unresolved,0.0,PRODUCT
+Skypher,Skypher,unresolved,0.0,PRODUCT
+DeepSource,DeepSource,unresolved,0.0,PRODUCT
+PillarPlus,PillarPlus,unresolved,0.0,PRODUCT
+Zumo Labs,Zumo Labs,unresolved,0.0,PRODUCT
+Overfit,Overfit,unresolved,0.0,PRODUCT
+BeGo,BeGo,unresolved,0.0,PRODUCT
+Recall.ai,Recall.ai,unresolved,0.0,PRODUCT
+Blue Onion,Blue Onion,unresolved,0.0,PRODUCT
+Shuttle,Shuttle,unresolved,0.0,PRODUCT
+Kernal Biologics,Kernal Biologics,unresolved,0.0,PRODUCT
+Omni,Omni,unresolved,0.0,PRODUCT
+Atomic,Atomic,unresolved,0.0,PRODUCT
+Hyper Online,Hyper Online,unresolved,0.0,PRODUCT
+Cohere,Cohere,unresolved,0.0,PRODUCT
+Taktile,Taktile,unresolved,0.0,PRODUCT
+AI.Fashion,AI.Fashion,unresolved,0.0,PRODUCT
+Glimpse,Glimpse,unresolved,0.0,PRODUCT
+Fieldguide,Fieldguide,unresolved,0.0,PRODUCT
+cloud humans,cloud humans,unresolved,0.0,PRODUCT
+Atomic Industries,Atomic Industries,unresolved,0.0,PRODUCT
+authzed,authzed,unresolved,0.0,PRODUCT
+Quadrant Eye,Quadrant Eye,unresolved,0.0,PRODUCT
+SBX Robotics,SBX Robotics,unresolved,0.0,PRODUCT
+arnata,arnata,unresolved,0.0,PRODUCT
+Pibit.ai,Pibit.ai,unresolved,0.0,PRODUCT
+Vogent,Vogent,unresolved,0.0,PRODUCT
+Fountain9,Fountain9,unresolved,0.0,PRODUCT
+Sivo,Sivo,unresolved,0.0,PRODUCT
+Supadock,Supadock,unresolved,0.0,PRODUCT
+Emerge Tools,Emerge Tools,unresolved,0.0,PRODUCT
+Alinea,Alinea,unresolved,0.0,PRODUCT
+Vapi,Vapi,unresolved,0.0,PRODUCT
+Mindee,Mindee,unresolved,0.0,PRODUCT
+True3D,True3D,unresolved,0.0,PRODUCT
+FirstSupport.ai,FirstSupport.ai,unresolved,0.0,PRODUCT
+Rinsed,Rinsed,unresolved,0.0,PRODUCT
+Nimbus,Nimbus,unresolved,0.0,PRODUCT
+Enable Us,Enable Us,unresolved,0.0,PRODUCT
+InpharmD,InpharmD,unresolved,0.0,PRODUCT
+Tint,Tint,unresolved,0.0,PRODUCT
+TaoFi,TaoFi,unresolved,0.0,PRODUCT
+Venu AI,Venu AI,unresolved,0.0,PRODUCT
+Compose.ai,Compose.ai,unresolved,0.0,PRODUCT
+Codeball,Codeball,unresolved,0.0,PRODUCT
+Dataherald,Dataherald,unresolved,0.0,PRODUCT
+Treinta,Treinta,unresolved,0.0,PRODUCT
+Spline,Spline,unresolved,0.0,PRODUCT
+BusinessOnBot,BusinessOnBot,unresolved,0.0,PRODUCT
+Mystic,Mystic,unresolved,0.0,PRODUCT
+MarqVision,MarqVision,unresolved,0.0,PRODUCT
+Routine,Routine,unresolved,0.0,PRODUCT
+Ollama,Ollama,unresolved,0.0,PRODUCT
+Humance,Humance,unresolved,0.0,PRODUCT
+Openlayer,Openlayer,unresolved,0.0,PRODUCT
+Slope,Slope,unresolved,0.0,PRODUCT
+Serif Health,Serif Health,unresolved,0.0,PRODUCT
+Abstra,Abstra,unresolved,0.0,PRODUCT
+zaz⚡️os,zaz⚡️os,unresolved,0.0,PRODUCT
+Swipe,Swipe,unresolved,0.0,PRODUCT
+Neodocs,Neodocs,unresolved,0.0,PRODUCT
+MobileBoost,MobileBoost,unresolved,0.0,PRODUCT
+Sleek,Sleek,unresolved,0.0,PRODUCT
+Bite Ninja,Bite Ninja,unresolved,0.0,PRODUCT
+Anakin,Anakin,unresolved,0.0,PRODUCT
+Dailybot,Dailybot,unresolved,0.0,PRODUCT
+Tavus,Tavus,unresolved,0.0,PRODUCT
+Konta.com,Konta.com,unresolved,0.0,PRODUCT
+Verihubs,Verihubs,unresolved,0.0,PRODUCT
+Secoda,Secoda,unresolved,0.0,PRODUCT
+SalaryBox,SalaryBox,unresolved,0.0,PRODUCT
+Sentiyen,Sentiyen,unresolved,0.0,PRODUCT
+SenpAI.GG,SenpAI.GG,unresolved,0.0,PRODUCT
+Warpfy,Warpfy,unresolved,0.0,PRODUCT
+Milky Way AI,Milky Way AI,unresolved,0.0,PRODUCT
+Mine,Mine,unresolved,0.0,PRODUCT
+Zensors,Zensors,unresolved,0.0,PRODUCT
+Mentum,Mentum,unresolved,0.0,PRODUCT
+Writesonic,Writesonic,unresolved,0.0,PRODUCT
+Revery AI,Revery AI,unresolved,0.0,PRODUCT
+Adni,Adni,unresolved,0.0,PRODUCT
+Hudson Labs (formerly Bedrock AI),Hudson Labs (formerly Bedrock AI),unresolved,0.0,PRODUCT
+Vibe Kanban,Vibe Kanban,unresolved,0.0,PRODUCT
+Caire Health,Caire Health,unresolved,0.0,PRODUCT
+Squire.ai,Squire.ai,unresolved,0.0,PRODUCT
+Spoken,Spoken,unresolved,0.0,PRODUCT
+Adravision,Adravision,unresolved,0.0,PRODUCT
+Medium Biosciences,Medium Biosciences,unresolved,0.0,PRODUCT
+Safer Management,Safer Management,unresolved,0.0,PRODUCT
+Sully.ai,Sully.ai,unresolved,0.0,PRODUCT
+Andi,Andi,unresolved,0.0,PRODUCT
+TigerEye,TigerEye,unresolved,0.0,PRODUCT
+Moots,Moots,unresolved,0.0,PRODUCT
+Capuchin,Capuchin,unresolved,0.0,PRODUCT
+Trellus,Trellus,unresolved,0.0,PRODUCT
+WeReno,WeReno,unresolved,0.0,PRODUCT
+VantedgeAI,VantedgeAI,unresolved,0.0,PRODUCT
+PromptLoop,PromptLoop,unresolved,0.0,PRODUCT
+Cozmo AI,Cozmo AI,unresolved,0.0,PRODUCT
+Stably AI (Orca),Stably AI (Orca),unresolved,0.0,PRODUCT
+CoffeeAI,CoffeeAI,unresolved,0.0,PRODUCT
+InferEdge,InferEdge,unresolved,0.0,PRODUCT
+Industrial Next,Industrial Next,unresolved,0.0,PRODUCT
+Rownd,Rownd,unresolved,0.0,PRODUCT
+Iron Leap,Iron Leap,unresolved,0.0,PRODUCT
+Unlayer,Unlayer,unresolved,0.0,PRODUCT
+Fintelite,Fintelite,unresolved,0.0,PRODUCT
+MosaicVoice,MosaicVoice,unresolved,0.0,PRODUCT
+Beam,Beam,unresolved,0.0,PRODUCT
+Sophys,Sophys,unresolved,0.0,PRODUCT
+Armilla AI,Armilla AI,unresolved,0.0,PRODUCT
+Emobi,Emobi,unresolved,0.0,PRODUCT
+Reforged Labs,Reforged Labs,unresolved,0.0,PRODUCT
+Speechly,Speechly,unresolved,0.0,PRODUCT
+SkyLink,SkyLink,unresolved,0.0,PRODUCT
+NearWave,NearWave,unresolved,0.0,PRODUCT
+Cogram,Cogram,unresolved,0.0,PRODUCT
+Cotera,Cotera,unresolved,0.0,PRODUCT
+Strong Compute,Strong Compute,unresolved,0.0,PRODUCT
+"Sendme, Inc","Sendme, Inc",unresolved,0.0,PRODUCT
+Sprites,Sprites,unresolved,0.0,PRODUCT
+goodfin,goodfin,unresolved,0.0,PRODUCT
+AvairSense,AvairSense,unresolved,0.0,PRODUCT
+IoTFlows Inc,IoTFlows Inc,unresolved,0.0,PRODUCT
+Spade,Spade,unresolved,0.0,PRODUCT
+RTHM,RTHM,unresolved,0.0,PRODUCT
+Humand,Humand,unresolved,0.0,PRODUCT
+Heptabase,Heptabase,unresolved,0.0,PRODUCT
+Nara,Nara,unresolved,0.0,PRODUCT
+Impossible Metals,Impossible Metals,unresolved,0.0,PRODUCT
+Cellbyte,Cellbyte,unresolved,0.0,PRODUCT
+GovDash,GovDash,unresolved,0.0,PRODUCT
+KorrAI,KorrAI,unresolved,0.0,PRODUCT
+Flike,Flike,unresolved,0.0,PRODUCT
+Reality Defender,Reality Defender,unresolved,0.0,PRODUCT
+WhiteLab Genomics,WhiteLab Genomics,unresolved,0.0,PRODUCT
+Elessar,Elessar,unresolved,0.0,PRODUCT
+Ciro,Ciro,unresolved,0.0,PRODUCT
+Truva,Truva,unresolved,0.0,PRODUCT
+Two Dots,Two Dots,unresolved,0.0,PRODUCT
+Bunting Labs,Bunting Labs,unresolved,0.0,PRODUCT
+Cerrion,Cerrion,unresolved,0.0,PRODUCT
+Champ,Champ,unresolved,0.0,PRODUCT
+Roxels,Roxels,unresolved,0.0,PRODUCT
+Fetii,Fetii,unresolved,0.0,PRODUCT
+Craze,Craze,unresolved,0.0,PRODUCT
+NuMind,NuMind,unresolved,0.0,PRODUCT
+Overwatch,Overwatch,unresolved,0.0,PRODUCT
+Raven,Raven,unresolved,0.0,PRODUCT
+Flair Labs,Flair Labs,unresolved,0.0,PRODUCT
+Typewise,Typewise,unresolved,0.0,PRODUCT
+NewsCatcher,NewsCatcher,unresolved,0.0,PRODUCT
+Thera,Thera,unresolved,0.0,PRODUCT
+Peoplebox.ai,Peoplebox.ai,unresolved,0.0,PRODUCT
+Coris,Coris,unresolved,0.0,PRODUCT
+AnythingLLM,AnythingLLM,unresolved,0.0,PRODUCT
+FlyCode,FlyCode,unresolved,0.0,PRODUCT
+Maya Labs,Maya Labs,unresolved,0.0,PRODUCT
+Rima AI (formerly Garage),Rima AI (formerly Garage),unresolved,0.0,PRODUCT
+Cobbery,Cobbery,unresolved,0.0,PRODUCT
+Feather,Feather,unresolved,0.0,PRODUCT
+Artemis Search,Artemis Search,unresolved,0.0,PRODUCT
+Unthread,Unthread,unresolved,0.0,PRODUCT
+Findly,Findly,unresolved,0.0,PRODUCT
+Jasmine Energy,Jasmine Energy,unresolved,0.0,PRODUCT
+Oneleet,Oneleet,unresolved,0.0,PRODUCT
+Pump.co,Pump.co,unresolved,0.0,PRODUCT
+Knowtex,Knowtex,unresolved,0.0,PRODUCT
+CAPSULE,CAPSULE,unresolved,0.0,PRODUCT
+InVision Medical Technology,InVision Medical Technology,unresolved,0.0,PRODUCT
+Cambio,Cambio,unresolved,0.0,PRODUCT
+Axle,Axle,unresolved,0.0,PRODUCT
+Landeed,Landeed,unresolved,0.0,PRODUCT
+Chima,Chima,unresolved,0.0,PRODUCT
+Integrated Reasoning,Integrated Reasoning,unresolved,0.0,PRODUCT
+Dev Tools AI,Dev Tools AI,unresolved,0.0,PRODUCT
+Rubbrband,Rubbrband,unresolved,0.0,PRODUCT
+Reflex,Reflex,unresolved,0.0,PRODUCT
+Linum,Linum,unresolved,0.0,PRODUCT
+Layup,Layup,unresolved,0.0,PRODUCT
+Credal.ai,Credal.ai,unresolved,0.0,PRODUCT
+Rollstack,Rollstack,unresolved,0.0,PRODUCT
+Novelcare,Novelcare,unresolved,0.0,PRODUCT
+Latent,Latent,unresolved,0.0,PRODUCT
+Lynx,Lynx,unresolved,0.0,PRODUCT
+Rubber Ducky Labs,Rubber Ducky Labs,unresolved,0.0,PRODUCT
+Pair AI,Pair AI,unresolved,0.0,PRODUCT
+Double – Coding Copilot,Double – Coding Copilot,unresolved,0.0,PRODUCT
+Glass Health,Glass Health,unresolved,0.0,PRODUCT
+Versive,Versive,unresolved,0.0,PRODUCT
+Narrative,Narrative,unresolved,0.0,PRODUCT
+Gluetrail,Gluetrail,unresolved,0.0,PRODUCT
+infra.new,infra.new,unresolved,0.0,PRODUCT
+PoplarML,PoplarML,unresolved,0.0,PRODUCT
+Cosine,Cosine,unresolved,0.0,PRODUCT
+No Cap,No Cap,unresolved,0.0,PRODUCT
+Dream3D,Dream3D,unresolved,0.0,PRODUCT
+DataSuite,DataSuite,unresolved,0.0,PRODUCT
+Velos,Velos,unresolved,0.0,PRODUCT
+Booth AI,Booth AI,unresolved,0.0,PRODUCT
+Orchid,Orchid,unresolved,0.0,PRODUCT
+1stCollab,1stCollab,unresolved,0.0,PRODUCT
+Variance,Variance,unresolved,0.0,PRODUCT
+Fintool,Fintool,unresolved,0.0,PRODUCT
+FactIQ,FactIQ,unresolved,0.0,PRODUCT
+Shortbread,Shortbread,unresolved,0.0,PRODUCT
+CombineHealth,CombineHealth,unresolved,0.0,PRODUCT
+Coldreach,Coldreach,unresolved,0.0,PRODUCT
+Corgi Labs,Corgi Labs,unresolved,0.0,PRODUCT
+DAGWorks Inc.,DAGWorks Inc.,unresolved,0.0,PRODUCT
+Maxi,Maxi,unresolved,0.0,PRODUCT
+Conduit,Conduit,unresolved,0.0,PRODUCT
+Interlock,Interlock,unresolved,0.0,PRODUCT
+rex.fit,rex.fit,unresolved,0.0,PRODUCT
+Benchmark,Benchmark,unresolved,0.0,PRODUCT
+Pier,Pier,unresolved,0.0,PRODUCT
+Type,Type,unresolved,0.0,PRODUCT
+Vendora,Vendora,unresolved,0.0,PRODUCT
+LiteLLM,LiteLLM,unresolved,0.0,PRODUCT
+Automat,Automat,unresolved,0.0,PRODUCT
+Vaero,Vaero,unresolved,0.0,PRODUCT
+Kino AI,Kino AI,unresolved,0.0,PRODUCT
+Reworkd,Reworkd,unresolved,0.0,PRODUCT
+Branch AI,Branch AI,unresolved,0.0,PRODUCT
+Ora AI,Ora AI,unresolved,0.0,PRODUCT
+Xeol,Xeol,unresolved,0.0,PRODUCT
+Clearest Health,Clearest Health,unresolved,0.0,PRODUCT
+Elyos AI,Elyos AI,unresolved,0.0,PRODUCT
+Deasy Labs,Deasy Labs,unresolved,0.0,PRODUCT
+Sohar Health,Sohar Health,unresolved,0.0,PRODUCT
+Pointhound,Pointhound,unresolved,0.0,PRODUCT
+Casca,Casca,unresolved,0.0,PRODUCT
+Contour,Contour,unresolved,0.0,PRODUCT
+Talc,Talc,unresolved,0.0,PRODUCT
+CORE,CORE,unresolved,0.0,PRODUCT
+Spine AI,Spine AI,unresolved,0.0,PRODUCT
+Venta AI,Venta AI,unresolved,0.0,PRODUCT
+Bronco AI,Bronco AI,unresolved,0.0,PRODUCT
+Arcimus,Arcimus,unresolved,0.0,PRODUCT
+Serra,Serra,unresolved,0.0,PRODUCT
+Cardinal Gray,Cardinal Gray,unresolved,0.0,PRODUCT
+Skyvern,Skyvern,unresolved,0.0,PRODUCT
+Decoda Health,Decoda Health,unresolved,0.0,PRODUCT
+VetRec,VetRec,unresolved,0.0,PRODUCT
+Lysto,Lysto,unresolved,0.0,PRODUCT
+MediSearch,MediSearch,unresolved,0.0,PRODUCT
+Bretton AI,Bretton AI,unresolved,0.0,PRODUCT
+AgentCollect,AgentCollect,unresolved,0.0,PRODUCT
+Continue,Continue,unresolved,0.0,PRODUCT
+sizeless,sizeless,unresolved,0.0,PRODUCT
+Pincites,Pincites,unresolved,0.0,PRODUCT
+Gleam,Gleam,unresolved,0.0,PRODUCT
+Slicker,Slicker,unresolved,0.0,PRODUCT
+Rankai,Rankai,unresolved,0.0,PRODUCT
+Sola,Sola,unresolved,0.0,PRODUCT
+VectorShift,VectorShift,unresolved,0.0,PRODUCT
+DisputeNinja,DisputeNinja,unresolved,0.0,PRODUCT
+Inari,Inari,unresolved,0.0,PRODUCT
+Silimate,Silimate,unresolved,0.0,PRODUCT
+Sweep,Sweep,unresolved,0.0,PRODUCT
+Inventive AI,Inventive AI,unresolved,0.0,PRODUCT
+Movley,Movley,unresolved,0.0,PRODUCT
+Terracotta AI,Terracotta AI,unresolved,0.0,PRODUCT
+Tiptap,Tiptap,unresolved,0.0,PRODUCT
+Minded,Minded,unresolved,0.0,PRODUCT
+Quill Bills,Quill Bills,unresolved,0.0,PRODUCT
+Cair Health,Cair Health,unresolved,0.0,PRODUCT
+Roame,Roame,unresolved,0.0,PRODUCT
+Kips Health,Kips Health,unresolved,0.0,PRODUCT
+Inconvo,Inconvo,unresolved,0.0,PRODUCT
+FlowiseAI,FlowiseAI,unresolved,0.0,PRODUCT
+Simbie AI,Simbie AI,unresolved,0.0,PRODUCT
+Mocha,Mocha,unresolved,0.0,PRODUCT
+Twine,Twine,unresolved,0.0,PRODUCT
+Structured Labs,Structured Labs,unresolved,0.0,PRODUCT
+Wattson Health,Wattson Health,unresolved,0.0,PRODUCT
+truemetrics,truemetrics,unresolved,0.0,PRODUCT
+Autotab,Autotab,unresolved,0.0,PRODUCT
+Opensteer,Opensteer,unresolved,0.0,PRODUCT
+Orbio Earth,Orbio Earth,unresolved,0.0,PRODUCT
+Lantern,Lantern,unresolved,0.0,PRODUCT
+DryMerge,DryMerge,unresolved,0.0,PRODUCT
+OpenPipe,OpenPipe,unresolved,0.0,PRODUCT
+RadMate AI,RadMate AI,unresolved,0.0,PRODUCT
+Scritch,Scritch,unresolved,0.0,PRODUCT
+Legora,Legora,unresolved,0.0,PRODUCT
+Happenstance,Happenstance,unresolved,0.0,PRODUCT
+Tekton Dynamics,Tekton Dynamics,unresolved,0.0,PRODUCT
+Momentic,Momentic,unresolved,0.0,PRODUCT
+Pretzel AI,Pretzel AI,unresolved,0.0,PRODUCT
+nCompass Technologies,nCompass Technologies,unresolved,0.0,PRODUCT
+Keystroke,Keystroke,unresolved,0.0,PRODUCT
+Pivot Robotics,Pivot Robotics,unresolved,0.0,PRODUCT
+Agentic Labs,Agentic Labs,unresolved,0.0,PRODUCT
+Basalt,Basalt,unresolved,0.0,PRODUCT
+Breez Labs,Breez Labs,unresolved,0.0,PRODUCT
+PointOne,PointOne,unresolved,0.0,PRODUCT
+Artisan,Artisan,unresolved,0.0,PRODUCT
+Eggnog,Eggnog,unresolved,0.0,PRODUCT
+Ecliptor,Ecliptor,unresolved,0.0,PRODUCT
+Blume Benefits,Blume Benefits,unresolved,0.0,PRODUCT
+Tusk,Tusk,unresolved,0.0,PRODUCT
+Attunement,Attunement,unresolved,0.0,PRODUCT
+StarJar,StarJar,unresolved,0.0,PRODUCT
+Meticulate,Meticulate,unresolved,0.0,PRODUCT
+Guide Labs,Guide Labs,unresolved,0.0,PRODUCT
+Polished,Polished,unresolved,0.0,PRODUCT
+LemonSlice,LemonSlice,unresolved,0.0,PRODUCT
+Toolify,Toolify,unresolved,0.0,PRODUCT
+Clarion,Clarion,unresolved,0.0,PRODUCT
+Tamarind Bio,Tamarind Bio,unresolved,0.0,PRODUCT
+GloGlo,GloGlo,unresolved,0.0,PRODUCT
+Parallel,Parallel,unresolved,0.0,PRODUCT
+Fuse,Fuse,unresolved,0.0,PRODUCT
+Firebender,Firebender,unresolved,0.0,PRODUCT
+Resonance,Resonance,unresolved,0.0,PRODUCT
+Solari AI,Solari AI,unresolved,0.0,PRODUCT
+Preloop,Preloop,unresolved,0.0,PRODUCT
+Hazel,Hazel,unresolved,0.0,PRODUCT
+Andy AI,Andy AI,unresolved,0.0,PRODUCT
+OffDeal,OffDeal,unresolved,0.0,PRODUCT
+Abel,Abel,unresolved,0.0,PRODUCT
+EdgeTrace,EdgeTrace,unresolved,0.0,PRODUCT
+Manifold Freight,Manifold Freight,unresolved,0.0,PRODUCT
+ProSights,ProSights,unresolved,0.0,PRODUCT
+Diana,Diana,unresolved,0.0,PRODUCT
+Risotto,Risotto,unresolved,0.0,PRODUCT
+JustAI,JustAI,unresolved,0.0,PRODUCT
+BetterBasket,BetterBasket,unresolved,0.0,PRODUCT
+Model ML,Model ML,unresolved,0.0,PRODUCT
+Ligo Biosciences,Ligo Biosciences,unresolved,0.0,PRODUCT
+Focal,Focal,unresolved,0.0,PRODUCT
+Brainbase Labs,Brainbase Labs,unresolved,0.0,PRODUCT
+Alai,Alai,unresolved,0.0,PRODUCT
+Thorntale,Thorntale,unresolved,0.0,PRODUCT
+Zep AI,Zep AI,unresolved,0.0,PRODUCT
+Shepherd,Shepherd,unresolved,0.0,PRODUCT
+Downlink,Downlink,unresolved,0.0,PRODUCT
+camelAI,camelAI,unresolved,0.0,PRODUCT
+Rove,Rove,unresolved,0.0,PRODUCT
+Ocular AI,Ocular AI,unresolved,0.0,PRODUCT
+Adapted,Adapted,unresolved,0.0,PRODUCT
+Deepnight,Deepnight,unresolved,0.0,PRODUCT
+Basepilot,Basepilot,unresolved,0.0,PRODUCT
+Veles,Veles,unresolved,0.0,PRODUCT
+Lumona,Lumona,unresolved,0.0,PRODUCT
+Magic Hour,Magic Hour,unresolved,0.0,PRODUCT
+Senso,Senso,unresolved,0.0,PRODUCT
+Silogy,Silogy,unresolved,0.0,PRODUCT
+Evolvere BioSciences,Evolvere BioSciences,unresolved,0.0,PRODUCT
+Piramidal,Piramidal,unresolved,0.0,PRODUCT
+VoxOps AI,VoxOps AI,unresolved,0.0,PRODUCT
+Forge,Forge,unresolved,0.0,PRODUCT
+Tower,Tower,unresolved,0.0,PRODUCT
+kater.ai,kater.ai,unresolved,0.0,PRODUCT
+Yarn,Yarn,unresolved,0.0,PRODUCT
+GetCrux,GetCrux,unresolved,0.0,PRODUCT
+Million,Million,unresolved,0.0,PRODUCT
+Forge Rewards,Forge Rewards,unresolved,0.0,PRODUCT
+Marr Labs,Marr Labs,unresolved,0.0,PRODUCT
+Domu Technology Inc.,Domu Technology Inc.,unresolved,0.0,PRODUCT
+Educato,Educato,unresolved,0.0,PRODUCT
+ProhostAI,ProhostAI,unresolved,0.0,PRODUCT
+Invaria,Invaria,unresolved,0.0,PRODUCT
+Corgi Insurance,Corgi Insurance,unresolved,0.0,PRODUCT
+Sorcerer,Sorcerer,unresolved,0.0,PRODUCT
+FirstWork,FirstWork,unresolved,0.0,PRODUCT
+Decisional AI,Decisional AI,unresolved,0.0,PRODUCT
+Unbound,Unbound,unresolved,0.0,PRODUCT
+Silurian,Silurian,unresolved,0.0,PRODUCT
+NetworkOcean,NetworkOcean,unresolved,0.0,PRODUCT
+Storia AI,Storia AI,unresolved,0.0,PRODUCT
+Elevate,Elevate,unresolved,0.0,PRODUCT
+RunLocal AI,RunLocal AI,unresolved,0.0,PRODUCT
+CodeViz,CodeViz,unresolved,0.0,PRODUCT
+Lore,Lore,unresolved,0.0,PRODUCT
+MinusX,MinusX,unresolved,0.0,PRODUCT
+Tivara,Tivara,unresolved,0.0,PRODUCT
+Kenley,Kenley,unresolved,0.0,PRODUCT
+Stormy,Stormy,unresolved,0.0,PRODUCT
+Plume,Plume,unresolved,0.0,PRODUCT
+Modus,Modus,unresolved,0.0,PRODUCT
+Lighthouz AI,Lighthouz AI,unresolved,0.0,PRODUCT
+TaxGPT,TaxGPT,unresolved,0.0,PRODUCT
+Benchify,Benchify,unresolved,0.0,PRODUCT
+Anthrogen,Anthrogen,unresolved,0.0,PRODUCT
+Aluna,Aluna,unresolved,0.0,PRODUCT
+Ontra Mobility,Ontra Mobility,unresolved,0.0,PRODUCT
+Overstand Labs,Overstand Labs,unresolved,0.0,PRODUCT
+Anara,Anara,unresolved,0.0,PRODUCT
+Redouble AI,Redouble AI,unresolved,0.0,PRODUCT
+Drillbit,Drillbit,unresolved,0.0,PRODUCT
+Opslane,Opslane,unresolved,0.0,PRODUCT
+Conductor Quantum,Conductor Quantum,unresolved,0.0,PRODUCT
+Remade,Remade,unresolved,0.0,PRODUCT
+Zeit AI,Zeit AI,unresolved,0.0,PRODUCT
+Parley,Parley,unresolved,0.0,PRODUCT
+Soff,Soff,unresolved,0.0,PRODUCT
+Sensei,Sensei,unresolved,0.0,PRODUCT
+YouShift,YouShift,unresolved,0.0,PRODUCT
+Baseline AI,Baseline AI,unresolved,0.0,PRODUCT
+Thyme,Thyme,unresolved,0.0,PRODUCT
+Handled,Handled,unresolved,0.0,PRODUCT
+ZeroPath,ZeroPath,unresolved,0.0,PRODUCT
+Propaya,Propaya,unresolved,0.0,PRODUCT
+Polymet,Polymet,unresolved,0.0,PRODUCT
+autarc,autarc,unresolved,0.0,PRODUCT
+Assembly HOA,Assembly HOA,unresolved,0.0,PRODUCT
+Draft The Record,Draft The Record,unresolved,0.0,PRODUCT
+Typa,Typa,unresolved,0.0,PRODUCT
+Quetzal,Quetzal,unresolved,0.0,PRODUCT
+Rastro,Rastro,unresolved,0.0,PRODUCT
+Elayne,Elayne,unresolved,0.0,PRODUCT
+Usul,Usul,unresolved,0.0,PRODUCT
+Keet,Keet,unresolved,0.0,PRODUCT
+Vera Health,Vera Health,unresolved,0.0,PRODUCT
+Anglera,Anglera,unresolved,0.0,PRODUCT
+Void,Void,unresolved,0.0,PRODUCT
+Overlap,Overlap,unresolved,0.0,PRODUCT
+Affil.ai,Affil.ai,unresolved,0.0,PRODUCT
+Arva AI,Arva AI,unresolved,0.0,PRODUCT
+Syntra,Syntra,unresolved,0.0,PRODUCT
+Conductor,Conductor,unresolved,0.0,PRODUCT
+Onlook,Onlook,unresolved,0.0,PRODUCT
+Zeroframe,Zeroframe,unresolved,0.0,PRODUCT
+Galini,Galini,unresolved,0.0,PRODUCT
+Openbenchmarks,Openbenchmarks,unresolved,0.0,PRODUCT
+Raycaster,Raycaster,unresolved,0.0,PRODUCT
+Revyl,Revyl,unresolved,0.0,PRODUCT
+Vortexify,Vortexify,unresolved,0.0,PRODUCT
+Vespper,Vespper,unresolved,0.0,PRODUCT
+attimet,attimet,unresolved,0.0,PRODUCT
+RiskCube,RiskCube,unresolved,0.0,PRODUCT
+Freebuff,Freebuff,unresolved,0.0,PRODUCT
+Pearson Labs,Pearson Labs,unresolved,0.0,PRODUCT
+AutoComputer,AutoComputer,unresolved,0.0,PRODUCT
+Moonshine,Moonshine,unresolved,0.0,PRODUCT
+Consus,Consus,unresolved,0.0,PRODUCT
+Innate,Innate,unresolved,0.0,PRODUCT
+Gander,Gander,unresolved,0.0,PRODUCT
+Struct,Struct,unresolved,0.0,PRODUCT
+Melder,Melder,unresolved,0.0,PRODUCT
+Freestyle,Freestyle,unresolved,0.0,PRODUCT
+HumanLayer,HumanLayer,unresolved,0.0,PRODUCT
+Quantstruct,Quantstruct,unresolved,0.0,PRODUCT
+Edexia,Edexia,unresolved,0.0,PRODUCT
+Outship,Outship,unresolved,0.0,PRODUCT
+Candor,Candor,unresolved,0.0,PRODUCT
+Leaping AI,Leaping AI,unresolved,0.0,PRODUCT
+Praxim,Praxim,unresolved,0.0,PRODUCT
+Alice.tech,Alice.tech,unresolved,0.0,PRODUCT
+Dartboard,Dartboard,unresolved,0.0,PRODUCT
+Vocality Health,Vocality Health,unresolved,0.0,PRODUCT
+Scout,Scout,unresolved,0.0,PRODUCT
+Promptless,Promptless,unresolved,0.0,PRODUCT
+Truffle AI,Truffle AI,unresolved,0.0,PRODUCT
+Toothy AI,Toothy AI,unresolved,0.0,PRODUCT
+a0.dev,a0.dev,unresolved,0.0,PRODUCT
+Elip AI,Elip AI,unresolved,0.0,PRODUCT
+Caseflood.ai,Caseflood.ai,unresolved,0.0,PRODUCT
+Maive,Maive,unresolved,0.0,PRODUCT
+Adam,Adam,unresolved,0.0,PRODUCT
+Cardamon,Cardamon,unresolved,0.0,PRODUCT
+Swerve,Swerve,unresolved,0.0,PRODUCT
+Osmosis,Osmosis,unresolved,0.0,PRODUCT
+Mecha Health,Mecha Health,unresolved,0.0,PRODUCT
+Cuckoo Labs,Cuckoo Labs,unresolved,0.0,PRODUCT
+HUD,HUD,unresolved,0.0,PRODUCT
+Olive,Olive,unresolved,0.0,PRODUCT
+Gale,Gale,unresolved,0.0,PRODUCT
+Asteroid,Asteroid,unresolved,0.0,PRODUCT
+Pickle,Pickle,unresolved,0.0,PRODUCT
+Lopus,Lopus,unresolved,0.0,PRODUCT
+Lucidic AI,Lucidic AI,unresolved,0.0,PRODUCT
+Candor,Candor,unresolved,0.0,PRODUCT
+Trata,Trata,unresolved,0.0,PRODUCT
+Exla,Exla,unresolved,0.0,PRODUCT
+Nitrode,Nitrode,unresolved,0.0,PRODUCT
+Outlit,Outlit,unresolved,0.0,PRODUCT
+Artificial Societies,Artificial Societies,unresolved,0.0,PRODUCT
+Pinch,Pinch,unresolved,0.0,PRODUCT
+Proception Inc,Proception Inc,unresolved,0.0,PRODUCT
+Spott,Spott,unresolved,0.0,PRODUCT
+TamLabs,TamLabs,unresolved,0.0,PRODUCT
+Browser Use,Browser Use,unresolved,0.0,PRODUCT
+Mentra,Mentra,unresolved,0.0,PRODUCT
+Blaxel,Blaxel,unresolved,0.0,PRODUCT
+Golf,Golf,unresolved,0.0,PRODUCT
+Serafis,Serafis,unresolved,0.0,PRODUCT
+Synthio Labs,Synthio Labs,unresolved,0.0,PRODUCT
+neoncoral,neoncoral,unresolved,0.0,PRODUCT
+Acolite,Acolite,unresolved,0.0,PRODUCT
+Zeon Systems,Zeon Systems,unresolved,0.0,PRODUCT
+Hanji,Hanji,unresolved,0.0,PRODUCT
+Percival,Percival,unresolved,0.0,PRODUCT
+Kestral,Kestral,unresolved,0.0,PRODUCT
+Parsewise,Parsewise,unresolved,0.0,PRODUCT
+Tinfoil,Tinfoil,unresolved,0.0,PRODUCT
+Tegore,Tegore,unresolved,0.0,PRODUCT
+throxy,throxy,unresolved,0.0,PRODUCT
+Anana,Anana,unresolved,0.0,PRODUCT
+IRBC,IRBC,unresolved,0.0,PRODUCT
+Theta,Theta,unresolved,0.0,PRODUCT
+Human Behavior,Human Behavior,unresolved,0.0,PRODUCT
+Besimple AI,Besimple AI,unresolved,0.0,PRODUCT
+Cartpole,Cartpole,unresolved,0.0,PRODUCT
+Boost Robotics,Boost Robotics,unresolved,0.0,PRODUCT
+Bramante,Bramante,unresolved,0.0,PRODUCT
+Orchid,Orchid,unresolved,0.0,PRODUCT
+Kairos,Kairos,unresolved,0.0,PRODUCT
+Adentris,Adentris,unresolved,0.0,PRODUCT
+Moby Analytics,Moby Analytics,unresolved,0.0,PRODUCT
+Code Four,Code Four,unresolved,0.0,PRODUCT
+Cactus,Cactus,unresolved,0.0,PRODUCT
+Wavedash,Wavedash,unresolved,0.0,PRODUCT
+Text.ai,Text.ai,unresolved,0.0,PRODUCT
+Blueshoe,Blueshoe,unresolved,0.0,PRODUCT
+Godela,Godela,unresolved,0.0,PRODUCT
+Docket,Docket,unresolved,0.0,PRODUCT
+Autonomous Technologies Group,Autonomous Technologies Group,unresolved,0.0,PRODUCT
+Prox,Prox,unresolved,0.0,PRODUCT
+Adaptional,Adaptional,unresolved,0.0,PRODUCT
+Meteor,Meteor,unresolved,0.0,PRODUCT
+Closera,Closera,unresolved,0.0,PRODUCT
+TraceRoot.AI,TraceRoot.AI,unresolved,0.0,PRODUCT
+truthsystems,truthsystems,unresolved,0.0,PRODUCT
+Datafruit,Datafruit,unresolved,0.0,PRODUCT
+Lark,Lark,unresolved,0.0,PRODUCT
+EffiGov,EffiGov,unresolved,0.0,PRODUCT
+Design Arena,Design Arena,unresolved,0.0,PRODUCT
+Monarcha,Monarcha,unresolved,0.0,PRODUCT
+Nuntius,Nuntius,unresolved,0.0,PRODUCT
+Cyberdesk,Cyberdesk,unresolved,0.0,PRODUCT
+Frizzle,Frizzle,unresolved,0.0,PRODUCT
+Nori,Nori,unresolved,0.0,PRODUCT
+Proliferate,Proliferate,unresolved,0.0,PRODUCT
+DeepAware AI (Robotics Center of Silicon Valley),DeepAware AI (Robotics Center of Silicon Valley),unresolved,0.0,PRODUCT
+Kestroll,Kestroll,unresolved,0.0,PRODUCT
+Stellon Labs,Stellon Labs,unresolved,0.0,PRODUCT
+Doe,Doe,unresolved,0.0,PRODUCT
+Embedder,Embedder,unresolved,0.0,PRODUCT
+Channel3,Channel3,unresolved,0.0,PRODUCT
+Normal,Normal,unresolved,0.0,PRODUCT
+VibeFlow,VibeFlow,unresolved,0.0,PRODUCT
+Nozomio,Nozomio,unresolved,0.0,PRODUCT
+TwentyTwo,TwentyTwo,unresolved,0.0,PRODUCT
+Char,Char,unresolved,0.0,PRODUCT
+Relling,Relling,unresolved,0.0,PRODUCT
+Motives,Motives,unresolved,0.0,PRODUCT
+Autosana,Autosana,unresolved,0.0,PRODUCT
+Knowlify,Knowlify,unresolved,0.0,PRODUCT
+Omnara,Omnara,unresolved,0.0,PRODUCT
+Alara,Alara,unresolved,0.0,PRODUCT
+OS3,OS3,unresolved,0.0,PRODUCT
+Floot,Floot,unresolved,0.0,PRODUCT
+Maximal,Maximal,unresolved,0.0,PRODUCT
+PARES AI,PARES AI,unresolved,0.0,PRODUCT
+Altur,Altur,unresolved,0.0,PRODUCT
+Pally,Pally,unresolved,0.0,PRODUCT
+Reacher,Reacher,unresolved,0.0,PRODUCT
+CLODO,CLODO,unresolved,0.0,PRODUCT
+Fleetline,Fleetline,unresolved,0.0,PRODUCT
+Modelence,Modelence,unresolved,0.0,PRODUCT
+TectoAI,TectoAI,unresolved,0.0,PRODUCT
+RowFlow,RowFlow,unresolved,0.0,PRODUCT
+NOSO LABS,NOSO LABS,unresolved,0.0,PRODUCT
+Luminal,Luminal,unresolved,0.0,PRODUCT
+Paloma,Paloma,unresolved,0.0,PRODUCT
+Mixy,Mixy,unresolved,0.0,PRODUCT
+Uplane,Uplane,unresolved,0.0,PRODUCT
+Zavo,Zavo,unresolved,0.0,PRODUCT
+Nexus,Nexus,unresolved,0.0,PRODUCT
+Bolna AI,Bolna AI,unresolved,0.0,PRODUCT
+Scoop,Scoop,unresolved,0.0,PRODUCT
+Caddy,Caddy,unresolved,0.0,PRODUCT
+The Context Company,The Context Company,unresolved,0.0,PRODUCT
+Norra,Norra,unresolved,0.0,PRODUCT
+Tell if AI,Tell if AI,unresolved,0.0,PRODUCT
+Flick,Flick,unresolved,0.0,PRODUCT
+SellRaze,SellRaze,unresolved,0.0,PRODUCT
+Unsiloed AI,Unsiloed AI,unresolved,0.0,PRODUCT
+LogosGuard,LogosGuard,unresolved,0.0,PRODUCT
+Agentic Fabriq,Agentic Fabriq,unresolved,0.0,PRODUCT
+Aleph Lab,Aleph Lab,unresolved,0.0,PRODUCT
+Helonic,Helonic,unresolved,0.0,PRODUCT
+FinalDose,FinalDose,unresolved,0.0,PRODUCT
+Rovr,Rovr,unresolved,0.0,PRODUCT
+Radius,Radius,unresolved,0.0,PRODUCT
+Cortex AI,Cortex AI,unresolved,0.0,PRODUCT
+Patent Watch,Patent Watch,unresolved,0.0,PRODUCT
+Anto Biosciences,Anto Biosciences,unresolved,0.0,PRODUCT
+Aside,Aside,unresolved,0.0,PRODUCT
+Sourcebot,Sourcebot,unresolved,0.0,PRODUCT
+Relaw,Relaw,unresolved,0.0,PRODUCT
+Specific,Specific,unresolved,0.0,PRODUCT
+Perseus,Perseus,unresolved,0.0,PRODUCT
+MadeThis,MadeThis,unresolved,0.0,PRODUCT
+Layers,Layers,unresolved,0.0,PRODUCT
+DiligenceSquared,DiligenceSquared,unresolved,0.0,PRODUCT
+Axial,Axial,unresolved,0.0,PRODUCT
+Clicks Health,Clicks Health,unresolved,0.0,PRODUCT
+Openroll,Openroll,unresolved,0.0,PRODUCT
+Ndea,Ndea,unresolved,0.0,PRODUCT
+Haladir,Haladir,unresolved,0.0,PRODUCT
+Linzumi,Linzumi,unresolved,0.0,PRODUCT
+OneTriangle,OneTriangle,unresolved,0.0,PRODUCT
+Imperfect,Imperfect,unresolved,0.0,PRODUCT
+Piris Labs,Piris Labs,unresolved,0.0,PRODUCT
+RamAIn,RamAIn,unresolved,0.0,PRODUCT
+Salus,Salus,unresolved,0.0,PRODUCT
+Rapidfolio,Rapidfolio,unresolved,0.0,PRODUCT
+IncidentFox,IncidentFox,unresolved,0.0,PRODUCT
+Instinct,Instinct,unresolved,0.0,PRODUCT
+Revion,Revion,unresolved,0.0,PRODUCT
+Ressl AI,Ressl AI,unresolved,0.0,PRODUCT
+Sitefire,Sitefire,unresolved,0.0,PRODUCT
+Bubble Lab,Bubble Lab,unresolved,0.0,PRODUCT
+Archal,Archal,unresolved,0.0,PRODUCT
+Voxel Energy,Voxel Energy,unresolved,0.0,PRODUCT
+Superset,Superset,unresolved,0.0,PRODUCT
+Datoric,Datoric,unresolved,0.0,PRODUCT
+Servo7,Servo7,unresolved,0.0,PRODUCT
+Foreman,Foreman,unresolved,0.0,PRODUCT
+Turnstone,Turnstone,unresolved,0.0,PRODUCT
+Atlia,Atlia,unresolved,0.0,PRODUCT
+Dream,Dream,unresolved,0.0,PRODUCT
+Tsenta,Tsenta,unresolved,0.0,PRODUCT
+Veriad,Veriad,unresolved,0.0,PRODUCT
+Poth Labs,Poth Labs,unresolved,0.0,PRODUCT
+Shofo,Shofo,unresolved,0.0,PRODUCT
+Illume Labs,Illume Labs,unresolved,0.0,PRODUCT
+Multiplier,Multiplier,unresolved,0.0,PRODUCT
+Marker,Marker,unresolved,0.0,PRODUCT
+Twolabs,Twolabs,unresolved,0.0,PRODUCT
+Zenbu,Zenbu,unresolved,0.0,PRODUCT
+Light Anchor,Light Anchor,unresolved,0.0,PRODUCT
+GodHands,GodHands,unresolved,0.0,PRODUCT
+Superlog,Superlog,unresolved,0.0,PRODUCT
+Keyframe Labs,Keyframe Labs,unresolved,0.0,PRODUCT
+Pops,Pops,unresolved,0.0,PRODUCT
+Uno Wallet,Uno Wallet,unresolved,0.0,PRODUCT
+Trident,Trident,unresolved,0.0,PRODUCT
+rekursiv.ai,rekursiv.ai,unresolved,0.0,PRODUCT
+Amorphic Labs,Amorphic Labs,unresolved,0.0,PRODUCT
+Proprio Robotics,Proprio Robotics,unresolved,0.0,PRODUCT
+Kebra,Kebra,unresolved,0.0,PRODUCT
+Erinys,Erinys,unresolved,0.0,PRODUCT
+Perceptron ML,Perceptron ML,unresolved,0.0,PRODUCT
+Olam Labs,Olam Labs,unresolved,0.0,PRODUCT
+Trope,Trope,unresolved,0.0,PRODUCT
+Palisade,Palisade,unresolved,0.0,PRODUCT
+Zomma,Zomma,unresolved,0.0,PRODUCT
+Rex,Rex,unresolved,0.0,PRODUCT
+IMPACT Drones,IMPACT Drones,unresolved,0.0,PRODUCT
+GUILD,GUILD,unresolved,0.0,PRODUCT
+Mosaic,Mosaic,unresolved,0.0,PRODUCT
+DeepReach Inc.,DeepReach Inc.,unresolved,0.0,PRODUCT
+COACH,COACH,unresolved,0.0,PRODUCT
+Grocalo,Grocalo,unresolved,0.0,PRODUCT
+Touchmark,Touchmark,unresolved,0.0,PRODUCT
+Prodigy Research,Prodigy Research,unresolved,0.0,PRODUCT
+Zaplar,Zaplar,unresolved,0.0,PRODUCT
+Rasyn,Rasyn,unresolved,0.0,PRODUCT
+Alkera AI,Alkera AI,unresolved,0.0,PRODUCT
+Definite,Definite,unresolved,0.0,PRODUCT
+Traceforce,Traceforce,unresolved,0.0,PRODUCT
+Stratum Industries,Stratum Industries,unresolved,0.0,PRODUCT
+Bloomy,Bloomy,unresolved,0.0,PRODUCT
+Ooak Data,Ooak Data,unresolved,0.0,PRODUCT
+Almanac,Almanac,unresolved,0.0,PRODUCT
+Whitespace,Whitespace,unresolved,0.0,PRODUCT
+Click,Click,unresolved,0.0,PRODUCT
+Vendo,Vendo,unresolved,0.0,PRODUCT
+Rational,Rational,unresolved,0.0,PRODUCT
+Fabraix,Fabraix,unresolved,0.0,PRODUCT
+Risklytics,Risklytics,unresolved,0.0,PRODUCT
+Arbital,Arbital,unresolved,0.0,PRODUCT
+Isengard Industries Inc,Isengard Industries Inc,unresolved,0.0,PRODUCT
+Computable,Computable,unresolved,0.0,PRODUCT
+Last Accounting Company,Last Accounting Company,unresolved,0.0,PRODUCT
+Executor,Executor,unresolved,0.0,PRODUCT
+Waybill,Waybill,unresolved,0.0,PRODUCT
+Marengo,Marengo,unresolved,0.0,PRODUCT
+Agnost AI,Agnost AI,unresolved,0.0,PRODUCT
+Axelrod,Axelrod,unresolved,0.0,PRODUCT
+CarSignal,CarSignal,unresolved,0.0,PRODUCT
+Skymerse,Skymerse,unresolved,0.0,PRODUCT
+HyperProbe,HyperProbe,unresolved,0.0,PRODUCT
+TovenAI,TovenAI,unresolved,0.0,PRODUCT
+Dock,Dock,unresolved,0.0,PRODUCT
+Agent FM,Agent FM,unresolved,0.0,PRODUCT
+PRINCEPS,PRINCEPS,unresolved,0.0,PRODUCT
+Hebbian Robotics,Hebbian Robotics,unresolved,0.0,PRODUCT
+Dawn Industries,Dawn Industries,unresolved,0.0,PRODUCT
+hiloop,hiloop,unresolved,0.0,PRODUCT
+Robocurve,Robocurve,unresolved,0.0,PRODUCT
+Allia Health,Allia Health,unresolved,0.0,PRODUCT
+hardware intelligence,hardware intelligence,unresolved,0.0,PRODUCT
+Billow AI Labs,Billow AI Labs,unresolved,0.0,PRODUCT
+CoArena,CoArena,unresolved,0.0,PRODUCT
+Conifer,Conifer,unresolved,0.0,PRODUCT
+herdr,herdr,unresolved,0.0,PRODUCT
+Simulithic,Simulithic,unresolved,0.0,PRODUCT
+Qokedas,Qokedas,unresolved,0.0,PRODUCT
+Forward,Forward,unresolved,0.0,PRODUCT
+Lantern AI,Lantern AI,unresolved,0.0,PRODUCT
+Vorelios,Vorelios,unresolved,0.0,PRODUCT
+Redoubt Insurance,Redoubt Insurance,unresolved,0.0,PRODUCT
